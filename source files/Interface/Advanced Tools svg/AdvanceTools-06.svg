@@ -1,0 +1,1751 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 5609.4 809.6" style="enable-background:new 0 0 5609.4 809.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4D4D4D;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#808080;}
+	.st3{fill:#F2F2F2;}
+	.st4{fill:#F57C00;}
+	.st5{fill:none;stroke:#FFFFFF;stroke-width:0.8981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:#CCCCCC;}
+	.st7{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#4D4D4D;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#E6E6E6;stroke-miterlimit:10;}
+	.st10{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.9519;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st11{fill:#808080;stroke:#808080;stroke-width:0.9519;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#FFFFFF;stroke-width:2.5352;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st13{font-family:'MyriadPro-Bold';}
+	.st14{font-size:30.1109px;}
+	.st15{fill:#808080;stroke:#4D4D4D;stroke-width:0.253;stroke-miterlimit:10;}
+	.st16{fill:none;stroke:#F2F2F2;stroke-width:2.1462;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st17{fill:#E6E6E6;stroke:#CCCCCC;stroke-width:0.5;stroke-miterlimit:10;}
+	.st18{font-family:'Roboto-Light';}
+	.st19{font-size:14.0211px;}
+	.st20{font-family:'Roboto-Medium';}
+	.st21{font-size:16.65px;}
+	.st22{font-family:'Roboto-Regular';}
+	.st23{font-size:12px;}
+	.st24{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st25{fill:none;}
+	.st26{font-family:'Roboto-Bold';}
+	.st27{fill:#141414;}
+	.st28{fill:#F2F2F2;stroke:#E6E6E6;stroke-width:0.3909;stroke-miterlimit:10;}
+	.st29{fill:#F57C00;stroke:#E6E6E6;stroke-width:0.3909;stroke-miterlimit:10;}
+	.st30{fill:#4D4D4D;stroke:#FFFFFF;stroke-width:0.6083;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st31{fill:none;stroke:#FFFFFF;stroke-width:0.807;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st32{fill:#F2F2F2;stroke:#E6E6E6;stroke-width:0.5;stroke-miterlimit:10;}
+	.st33{fill:#E6E7E8;stroke:#E6E7E8;stroke-width:0.8569;stroke-miterlimit:10;}
+	.st34{fill:#39B54A;}
+</style>
+<text transform="matrix(1 0 0 1 91.3809 69.6733)" class="st13 st14">Advanced Tools Window - Terminal UI</text>
+<g>
+	<path class="st0" d="M774.7,727.6H105.9c-8.6,0-15.6-7.1-15.6-15.9V143.6c0-8.8,7-15.9,15.6-15.9h668.7c8.6,0,15.6,7.1,15.6,15.9
+		v568.2C790.3,720.5,783.3,727.6,774.7,727.6z"/>
+	<g>
+		<path class="st15" d="M324,222.1v-36c0-6.2,5-11.3,11.1-11.3h94.2c6.4,0,11.5,5.3,11.5,11.8v35.5H771c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8H109.9c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H324z"/>
+		<path class="st15" d="M440.8,222.1v-36c0-6.2,5-11.3,11.1-11.3h93.7c6.4,0,11.5,5.3,11.5,11.8v35.5H771c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8H109.9c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H440.8z"/>
+		<path class="st15" d="M557.2,222.1v-36c0-6.2,5-11.3,11.1-11.3H663c6.4,0,11.5,5.3,11.5,11.8v35.5H771c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8H109.9c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H557.2z"/>
+		<path class="st15" d="M674.1,222.1v-36c0-6.2,5-11.3,11.1-11.3h85.5c6.4,0,11.5,5.3,11.5,11.8v522.1c0,6.5-5.2,11.8-11.5,11.8
+			H109.9c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H674.1z"/>
+		<path class="st15" d="M207.1,222.1v-36c0-6.2-5-11.3-11.1-11.3h-86.1c-6.4,0-11.5,5.3-11.5,11.8v522.1c0,6.5,5.2,11.8,11.5,11.8
+			h660.8c6.4,0,11.5-5.3,11.5-11.8V233.5c0-6.3-5-11.4-11.2-11.4H207.1z"/>
+		<path class="st1" d="M206.6,222.1v-36c0-6.2,5-11.3,11.1-11.3h95.2c6.4,0,11.5,5.3,11.5,11.8v35.5H771c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8H109.9c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H206.6z"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 139.3977 195.9848)"><tspan x="0" y="0" class="st1 st18 st19">Test</tspan><tspan x="-8.7" y="16.8" class="st1 st18 st19">Runner</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 257.3049 195.9848)"><tspan x="0" y="0" class="st2 st20 st19">Git</tspan><tspan x="-14.1" y="16.8" class="st2 st20 st19">Control</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 359.5942 195.9846)"><tspan x="0" y="0" class="st1 st18 st19">System</tspan><tspan x="-1.6" y="16.8" class="st1 st18 st19">Console</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 479.322 195.9843)"><tspan x="0" y="0" class="st1 st18 st19">Server</tspan><tspan x="-14.9" y="16.8" class="st1 st18 st19">Workspace</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 699.3959 204.3972)" class="st1 st18 st19">Terminal</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 604.79 195.9848)"><tspan x="0" y="0" class="st1 st18 st19">File</tspan><tspan x="-2.9" y="16.8" class="st1 st18 st19">Tree</tspan></text>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 133.3293 156.3501)" class="st1 st20 st21">Advanced Tools</text>
+		</g>
+		<g>
+			<path class="st6" d="M113,140c-1.4,0-2.7,0.2-4,0.7c-2.9,1.1-5.2,3.2-6.4,6c-1.2,2.8-1.3,5.9-0.2,8.7c1.7,4.5,6.1,7.5,10.8,7.5
+				c1.4,0,2.7-0.2,4-0.7c2.9-1.1,5.2-3.2,6.4-6c1.2-2.8,1.3-5.9,0.2-8.7C122.1,143,117.7,140,113,140z"/>
+		</g>
+		<g>
+			<g>
+				<path d="M114.5,146.2h-2.9c-0.5,0-1,0.4-1,1v0.5c0,0.1-0.1,0.2-0.2,0.2h-2.9c-0.5,0-1,0.4-1,1v7c0,0.5,0.4,0.9,0.9,0.9h11.2
+					c0.5,0,1-0.4,1-1v-7.2c0-0.4-0.3-0.8-0.8-0.8h-3.1c-0.1,0-0.2-0.1-0.2-0.2v-0.5C115.5,146.6,115,146.2,114.5,146.2z
+					 M111.4,147.1c0-0.1,0.1-0.2,0.2-0.2h2.9c0.1,0,0.2,0.1,0.2,0.2v0.5c0,0.1-0.1,0.2-0.2,0.2h-2.9c-0.1,0-0.2-0.1-0.2-0.2V147.1z
+					 M118.8,155.8c0,0.1-0.1,0.2-0.2,0.2h-11.2c-0.1,0-0.2-0.1-0.2-0.2v-4.6c0-0.1,0.1-0.2,0.2-0.2h11.2c0.1,0,0.2,0.1,0.2,0.2
+					V155.8z M118.6,148.6c0.1,0,0.2,0.1,0.2,0.2v1.3c0,0.1-0.1,0.2-0.2,0.2h-11.2c-0.1,0-0.2-0.1-0.2-0.2v-1.3
+					c0-0.1,0.1-0.2,0.2-0.2H118.6z"/>
+			</g>
+			<path d="M109.6,151.5h-0.1c-0.2,0-0.3-0.1-0.3-0.3v-1c0-0.2,0.1-0.3,0.3-0.3h0.1c0.2,0,0.3,0.1,0.3,0.3v1
+				C109.9,151.4,109.8,151.5,109.6,151.5z"/>
+			<path d="M116.6,151.5h-0.1c-0.2,0-0.3-0.1-0.3-0.3v-1c0-0.2,0.1-0.3,0.3-0.3h0.1c0.2,0,0.3,0.1,0.3,0.3v1
+				C116.9,151.4,116.8,151.5,116.6,151.5z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M757.9,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C767.2,253.5,763,257.7,757.9,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M648.2,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C657.5,253.5,653.3,257.7,648.2,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M538.5,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C547.8,253.5,543.6,257.7,538.5,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M428.8,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C438.1,253.5,433.9,257.7,428.8,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M319.1,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C328.4,253.5,324.2,257.7,319.1,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st4" d="M209.4,257.7H123c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C218.7,253.5,214.5,257.7,209.4,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 149.0356 252.2292)" class="st1 st22 st23">Status</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 265.8633 252.229)" class="st2 st22 st23">Log</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 363.7917 252.229)" class="st2 st22 st23">Console</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 454.3545 252.229)" class="st2 st22 st23">Documentation</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 594.8339 252.2294)" class="st2 st22 st23">Wip</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 667.1192 252.229)" class="st2 st22 st23">Working directory</text>
+	</g>
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_5_" x="113.3" y="272.2" width="632" height="438.6"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_2_);">
+				
+					<image style="overflow:visible;" width="830" height="739" xlink:href="75B38AC44F43D95D.jpg"  transform="matrix(0.7964 0 0 0.7964 101.751 223.8224)">
+				</image>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<path class="st3" d="M759.3,701.3V276.8c0-2,1.7-3.7,3.7-3.7h0.5c2,0,3.7,1.7,3.7,3.7v424.4c0,2-1.7,3.7-3.7,3.7H763
+							C760.9,704.9,759.3,703.3,759.3,701.3z"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<g>
+						<path class="st6" d="M760.3,384.6v-43.5c0-1.5,1.2-2.7,2.7-2.7h0.4c1.5,0,2.7,1.2,2.7,2.7v43.5c0,1.5-1.2,2.7-2.7,2.7H763
+							C761.6,387.3,760.3,386.1,760.3,384.6z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polygon class="st24" points="198.4,253.3 190.1,246.4 191.3,257.1 194.1,255.6 196.9,260.9 197.8,260.4 195,255.1 			"/>
+			<polygon points="198.4,253.3 190.1,246.4 191.3,257.1 194.1,255.6 196.9,260.9 197.8,260.4 195,255.1 			"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<circle class="st4" cx="764" cy="151.5" r="7.4"/>
+				<g>
+					<line class="st5" x1="760.3" y1="147.8" x2="767.8" y2="155.3"/>
+					<line class="st5" x1="760.3" y1="155.3" x2="767.8" y2="147.8"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<circle class="st6" cx="739" cy="151.5" r="7.4"/>
+			<g>
+				<g>
+					<path class="st0" d="M742.9,152.6h-8c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5h8c0.3,0,0.5,0.2,0.5,0.5S743.2,152.6,742.9,152.6
+						z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<path class="st0" d="M1568.7,727.6H899.9c-8.6,0-15.6-7.1-15.6-15.9V143.6c0-8.8,7-15.9,15.6-15.9h668.7c8.6,0,15.6,7.1,15.6,15.9
+		v568.2C1584.3,720.5,1577.3,727.6,1568.7,727.6z"/>
+	<g>
+		<path class="st15" d="M1118,222.1v-36c0-6.2,5-11.3,11.1-11.3h94.2c6.4,0,11.5,5.3,11.5,11.8v35.5H1565c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8H903.9c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H1118z"/>
+		<path class="st15" d="M1234.8,222.1v-36c0-6.2,5-11.3,11.1-11.3h93.7c6.4,0,11.5,5.3,11.5,11.8v35.5H1565
+			c6.2,0,11.2,5.1,11.2,11.4v475.1c0,6.5-5.2,11.8-11.5,11.8H903.9c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H1234.8z
+			"/>
+		<path class="st15" d="M1351.2,222.1v-36c0-6.2,5-11.3,11.1-11.3h94.7c6.4,0,11.5,5.3,11.5,11.8v35.5h96.4
+			c6.2,0,11.2,5.1,11.2,11.4v475.1c0,6.5-5.2,11.8-11.5,11.8H903.9c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H1351.2z
+			"/>
+		<path class="st15" d="M1468.1,222.1v-36c0-6.2,5-11.3,11.1-11.3h85.5c6.4,0,11.5,5.3,11.5,11.8v522.1c0,6.5-5.2,11.8-11.5,11.8
+			H903.9c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H1468.1z"/>
+		<path class="st15" d="M1001.1,222.1v-36c0-6.2-5-11.3-11.1-11.3h-86.1c-6.4,0-11.5,5.3-11.5,11.8v522.1c0,6.5,5.2,11.8,11.5,11.8
+			h660.8c6.4,0,11.5-5.3,11.5-11.8V233.5c0-6.3-5-11.4-11.2-11.4H1001.1z"/>
+		<path class="st1" d="M1000.6,222.1v-36c0-6.2,5-11.3,11.1-11.3h95.2c6.4,0,11.5,5.3,11.5,11.8v35.5H1565c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8H903.9c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H1000.6z"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 933.3977 195.9848)"><tspan x="0" y="0" class="st1 st18 st19">Test</tspan><tspan x="-8.7" y="16.8" class="st1 st18 st19">Runner</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1051.3049 195.9848)"><tspan x="0" y="0" class="st2 st20 st19">Git</tspan><tspan x="-14.1" y="16.8" class="st2 st20 st19">Control</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1153.5942 195.9846)"><tspan x="0" y="0" class="st1 st18 st19">System</tspan><tspan x="-1.6" y="16.8" class="st1 st18 st19">Console</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1273.322 195.9843)"><tspan x="0" y="0" class="st1 st18 st19">Server</tspan><tspan x="-14.9" y="16.8" class="st1 st18 st19">Workspace</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1493.396 204.3972)" class="st1 st18 st19">Terminal</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1398.79 195.9848)"><tspan x="0" y="0" class="st1 st18 st19">File</tspan><tspan x="-2.9" y="16.8" class="st1 st18 st19">Tree</tspan></text>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 927.3293 156.3501)" class="st1 st20 st21">Advanced Tools</text>
+		</g>
+		<g>
+			<path class="st6" d="M907,140c-1.4,0-2.7,0.2-4,0.7c-2.9,1.1-5.2,3.2-6.4,6c-1.2,2.8-1.3,5.9-0.2,8.7c1.7,4.5,6.1,7.5,10.8,7.5
+				c1.4,0,2.7-0.2,4-0.7c2.9-1.1,5.2-3.2,6.4-6c1.2-2.8,1.3-5.9,0.2-8.7C916.1,143,911.7,140,907,140z"/>
+		</g>
+		<g>
+			<g>
+				<path d="M908.5,146.2h-2.9c-0.5,0-1,0.4-1,1v0.5c0,0.1-0.1,0.2-0.2,0.2h-2.9c-0.5,0-1,0.4-1,1v7c0,0.5,0.4,0.9,0.9,0.9h11.2
+					c0.5,0,1-0.4,1-1v-7.2c0-0.4-0.3-0.8-0.8-0.8h-3.1c-0.1,0-0.2-0.1-0.2-0.2v-0.5C909.5,146.6,909,146.2,908.5,146.2z
+					 M905.4,147.1c0-0.1,0.1-0.2,0.2-0.2h2.9c0.1,0,0.2,0.1,0.2,0.2v0.5c0,0.1-0.1,0.2-0.2,0.2h-2.9c-0.1,0-0.2-0.1-0.2-0.2V147.1z
+					 M912.8,155.8c0,0.1-0.1,0.2-0.2,0.2h-11.2c-0.1,0-0.2-0.1-0.2-0.2v-4.6c0-0.1,0.1-0.2,0.2-0.2h11.2c0.1,0,0.2,0.1,0.2,0.2
+					V155.8z M912.6,148.6c0.1,0,0.2,0.1,0.2,0.2v1.3c0,0.1-0.1,0.2-0.2,0.2h-11.2c-0.1,0-0.2-0.1-0.2-0.2v-1.3
+					c0-0.1,0.1-0.2,0.2-0.2H912.6z"/>
+			</g>
+			<path d="M903.6,151.5h-0.1c-0.2,0-0.3-0.1-0.3-0.3v-1c0-0.2,0.1-0.3,0.3-0.3h0.1c0.2,0,0.3,0.1,0.3,0.3v1
+				C903.9,151.4,903.8,151.5,903.6,151.5z"/>
+			<path d="M910.6,151.5h-0.1c-0.2,0-0.3-0.1-0.3-0.3v-1c0-0.2,0.1-0.3,0.3-0.3h0.1c0.2,0,0.3,0.1,0.3,0.3v1
+				C910.9,151.4,910.8,151.5,910.6,151.5z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M1551.9,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C1561.2,253.5,1557,257.7,1551.9,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M1442.2,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C1451.5,253.5,1447.3,257.7,1442.2,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M1332.5,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C1341.8,253.5,1337.6,257.7,1332.5,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M1222.8,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C1232.1,253.5,1227.9,257.7,1222.8,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st4" d="M1113.1,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C1122.4,253.5,1118.2,257.7,1113.1,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M1003.4,257.7H917c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C1012.7,253.5,1008.5,257.7,1003.4,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 943.0356 252.2292)" class="st2 st22 st23">Status</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1059.8633 252.229)" class="st1 st22 st23">Log</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1157.7917 252.229)" class="st2 st22 st23">Console</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1248.3545 252.229)" class="st2 st22 st23">Documentation</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1388.834 252.2294)" class="st2 st22 st23">Wip</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1461.1191 252.229)" class="st2 st22 st23">Working directory</text>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_7_" x="909.3" y="277.2" width="632" height="421.6"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 6.103516e-05 -1.525879e-05)" style="clip-path:url(#SVGID_4_);">
+			
+				<image style="overflow:visible;" width="828" height="795" xlink:href="75B38AC44F43D95F.jpg"  transform="matrix(0.7995 0 0 0.7995 904.2392 231.911)">
+			</image>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path class="st3" d="M1553.3,701.3V276.8c0-2,1.7-3.7,3.7-3.7h0.6c2,0,3.7,1.7,3.7,3.7v424.4c0,2-1.7,3.7-3.7,3.7h-0.6
+						C1554.9,704.9,1553.3,703.3,1553.3,701.3z"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<path class="st6" d="M1554.3,384.6v-43.5c0-1.5,1.2-2.7,2.7-2.7h0.4c1.5,0,2.7,1.2,2.7,2.7v43.5c0,1.5-1.2,2.7-2.7,2.7h-0.4
+						C1555.6,387.3,1554.3,386.1,1554.3,384.6z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polygon class="st24" points="1095.4,253.3 1087.1,246.4 1088.3,257.1 1091.1,255.6 1093.9,260.9 1094.8,260.4 1092,255.1 			"/>
+			<polygon points="1095.4,253.3 1087.1,246.4 1088.3,257.1 1091.1,255.6 1093.9,260.9 1094.8,260.4 1092,255.1 			"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<circle class="st4" cx="1558" cy="151.5" r="7.4"/>
+				<g>
+					<line class="st5" x1="1554.3" y1="147.8" x2="1561.8" y2="155.3"/>
+					<line class="st5" x1="1554.3" y1="155.3" x2="1561.8" y2="147.8"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<circle class="st6" cx="1533" cy="151.5" r="7.4"/>
+			<g>
+				<g>
+					<path class="st0" d="M1536.9,152.6h-8c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5h8c0.3,0,0.5,0.2,0.5,0.5
+						S1537.2,152.6,1536.9,152.6z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<path class="st0" d="M2354.7,727.6h-668.7c-8.6,0-15.6-7.1-15.6-15.9V143.6c0-8.8,7-15.9,15.6-15.9h668.7c8.6,0,15.6,7.1,15.6,15.9
+		v568.2C2370.3,720.5,2363.3,727.6,2354.7,727.6z"/>
+	<g>
+		<path class="st15" d="M1904,222.1v-36c0-6.2,5-11.3,11.1-11.3h94.2c6.4,0,11.5,5.3,11.5,11.8v35.5H2351c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H1904z"/>
+		<path class="st15" d="M2020.8,222.1v-36c0-6.2,5-11.3,11.1-11.3h93.7c6.4,0,11.5,5.3,11.5,11.8v35.5H2351
+			c6.2,0,11.2,5.1,11.2,11.4v475.1c0,6.5-5.2,11.8-11.5,11.8h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H2020.8
+			z"/>
+		<path class="st15" d="M2137.2,222.1v-36c0-6.2,5-11.3,11.1-11.3h94.7c6.4,0,11.5,5.3,11.5,11.8v35.5h96.4
+			c6.2,0,11.2,5.1,11.2,11.4v475.1c0,6.5-5.2,11.8-11.5,11.8h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H2137.2
+			z"/>
+		<path class="st15" d="M2254.1,222.1v-36c0-6.2,5-11.3,11.1-11.3h85.5c6.4,0,11.5,5.3,11.5,11.8v522.1c0,6.5-5.2,11.8-11.5,11.8
+			h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H2254.1z"/>
+		<path class="st15" d="M1787.1,222.1v-36c0-6.2-5-11.3-11.1-11.3h-86.1c-6.4,0-11.5,5.3-11.5,11.8v522.1c0,6.5,5.2,11.8,11.5,11.8
+			h660.8c6.4,0,11.5-5.3,11.5-11.8V233.5c0-6.3-5-11.4-11.2-11.4H1787.1z"/>
+		<path class="st1" d="M1786.6,222.1v-36c0-6.2,5-11.3,11.1-11.3h95.2c6.4,0,11.5,5.3,11.5,11.8v35.5H2351c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H1786.6z"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1719.3977 195.9848)"><tspan x="0" y="0" class="st1 st18 st19">Test</tspan><tspan x="-8.7" y="16.8" class="st1 st18 st19">Runner</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1837.3049 195.9848)"><tspan x="0" y="0" class="st2 st20 st19">Git</tspan><tspan x="-14.1" y="16.8" class="st2 st20 st19">Control</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1939.5942 195.9846)"><tspan x="0" y="0" class="st1 st18 st19">System</tspan><tspan x="-1.6" y="16.8" class="st1 st18 st19">Console</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2059.322 195.9843)"><tspan x="0" y="0" class="st1 st18 st19">Server</tspan><tspan x="-14.9" y="16.8" class="st1 st18 st19">Workspace</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2279.396 204.3972)" class="st1 st18 st19">Terminal</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2184.79 195.9848)"><tspan x="0" y="0" class="st1 st18 st19">File</tspan><tspan x="-2.9" y="16.8" class="st1 st18 st19">Tree</tspan></text>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 1713.3293 156.3501)" class="st1 st20 st21">Advanced Tools</text>
+		</g>
+		<g>
+			<path class="st6" d="M1693,140c-1.4,0-2.7,0.2-4,0.7c-2.9,1.1-5.2,3.2-6.4,6c-1.2,2.8-1.3,5.9-0.2,8.7c1.7,4.5,6.1,7.5,10.8,7.5
+				c1.4,0,2.7-0.2,4-0.7c2.9-1.1,5.2-3.2,6.4-6c1.2-2.8,1.3-5.9,0.2-8.7C1702.1,143,1697.7,140,1693,140z"/>
+		</g>
+		<g>
+			<g>
+				<path d="M1694.5,146.2h-2.9c-0.5,0-1,0.4-1,1v0.5c0,0.1-0.1,0.2-0.2,0.2h-2.9c-0.5,0-1,0.4-1,1v7c0,0.5,0.4,0.9,0.9,0.9h11.2
+					c0.5,0,1-0.4,1-1v-7.2c0-0.4-0.3-0.8-0.8-0.8h-3.1c-0.1,0-0.2-0.1-0.2-0.2v-0.5C1695.5,146.6,1695,146.2,1694.5,146.2z
+					 M1691.4,147.1c0-0.1,0.1-0.2,0.2-0.2h2.9c0.1,0,0.2,0.1,0.2,0.2v0.5c0,0.1-0.1,0.2-0.2,0.2h-2.9c-0.1,0-0.2-0.1-0.2-0.2V147.1z
+					 M1698.8,155.8c0,0.1-0.1,0.2-0.2,0.2h-11.2c-0.1,0-0.2-0.1-0.2-0.2v-4.6c0-0.1,0.1-0.2,0.2-0.2h11.2c0.1,0,0.2,0.1,0.2,0.2
+					V155.8z M1698.6,148.6c0.1,0,0.2,0.1,0.2,0.2v1.3c0,0.1-0.1,0.2-0.2,0.2h-11.2c-0.1,0-0.2-0.1-0.2-0.2v-1.3
+					c0-0.1,0.1-0.2,0.2-0.2H1698.6z"/>
+			</g>
+			<path d="M1689.6,151.5h-0.1c-0.2,0-0.3-0.1-0.3-0.3v-1c0-0.2,0.1-0.3,0.3-0.3h0.1c0.2,0,0.3,0.1,0.3,0.3v1
+				C1689.9,151.4,1689.8,151.5,1689.6,151.5z"/>
+			<path d="M1696.6,151.5h-0.1c-0.2,0-0.3-0.1-0.3-0.3v-1c0-0.2,0.1-0.3,0.3-0.3h0.1c0.2,0,0.3,0.1,0.3,0.3v1
+				C1696.9,151.4,1696.8,151.5,1696.6,151.5z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M2337.9,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C2347.2,253.5,2343,257.7,2337.9,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M2228.2,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C2237.5,253.5,2233.3,257.7,2228.2,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M2118.5,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C2127.8,253.5,2123.6,257.7,2118.5,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st4" d="M2008.8,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C2018.1,253.5,2013.9,257.7,2008.8,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M1899.1,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C1908.4,253.5,1904.2,257.7,1899.1,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M1789.4,257.7H1703c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C1798.7,253.5,1794.5,257.7,1789.4,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1729.0352 252.2292)" class="st2 st22 st23">Status</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1845.8636 252.229)" class="st2 st22 st23">Log</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1943.7917 252.229)" class="st1 st22 st23">Console</text>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st3" d="M1789.4,283.5H1703c-5.1,0-9.3-4.2-9.3-9.3v-1.4c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+					C1798.7,279.3,1794.5,283.5,1789.4,283.5z"/>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1708.5887 278.0092)" class="st2 st22 st23">edit.git/config</text>
+		</g>
+		<g>
+			<g>
+				<path class="st3" d="M1899.1,283.5h-86.4c-5.1,0-9.3-4.2-9.3-9.3v-1.4c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+					C1908.4,279.3,1904.2,283.5,1899.1,283.5z"/>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1820.8318 277.0092)" class="st2 st22 st23">edit.gitignore</text>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2034.3545 252.229)" class="st2 st22 st23">Documentation</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2174.834 252.2294)" class="st2 st22 st23">Wip</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2247.1191 252.229)" class="st2 st22 st23">Working directory</text>
+	</g>
+	<g>
+		<g>
+			<polygon class="st24" points="1998.4,253.3 1990.1,246.4 1991.3,257.1 1994.1,255.6 1996.9,260.9 1997.8,260.4 1995,255.1 			"/>
+			<polygon points="1998.4,253.3 1990.1,246.4 1991.3,257.1 1994.1,255.6 1996.9,260.9 1997.8,260.4 1995,255.1 			"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st3" d="M2337.8,308.9h-634.9c-5.1,0-9.3-4.2-9.3-9.3v-1.4c0-5.1,4.2-9.3,9.3-9.3h634.9c5.1,0,9.3,4.2,9.3,9.3v1.4
+					C2347,304.8,2342.9,308.9,2337.8,308.9z"/>
+			</g>
+		</g>
+	</g>
+	<line class="st8" x1="1702.9" y1="291.6" x2="1702.9" y2="305.6"/>
+	<g>
+		<g>
+			<g>
+				<circle class="st4" cx="2344" cy="151.5" r="7.4"/>
+				<g>
+					<line class="st5" x1="2340.3" y1="147.8" x2="2347.8" y2="155.3"/>
+					<line class="st5" x1="2340.3" y1="155.3" x2="2347.8" y2="147.8"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<circle class="st6" cx="2319" cy="151.5" r="7.4"/>
+			<g>
+				<g>
+					<path class="st0" d="M2322.9,152.6h-8c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5h8c0.3,0,0.5,0.2,0.5,0.5
+						S2323.2,152.6,2322.9,152.6z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<path class="st0" d="M3126.7,727.6h-668.7c-8.6,0-15.6-7.1-15.6-15.9V143.6c0-8.8,7-15.9,15.6-15.9h668.7c8.6,0,15.6,7.1,15.6,15.9
+		v568.2C3142.3,720.5,3135.3,727.6,3126.7,727.6z"/>
+	<g>
+		<path class="st15" d="M2676,222.1v-36c0-6.2,5-11.3,11.1-11.3h94.2c6.4,0,11.5,5.3,11.5,11.8v35.5H3123c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H2676z"/>
+		<path class="st15" d="M2792.8,222.1v-36c0-6.2,5-11.3,11.1-11.3h93.7c6.4,0,11.5,5.3,11.5,11.8v35.5H3123
+			c6.2,0,11.2,5.1,11.2,11.4v475.1c0,6.5-5.2,11.8-11.5,11.8h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H2792.8
+			z"/>
+		<path class="st15" d="M2909.2,222.1v-36c0-6.2,5-11.3,11.1-11.3h94.7c6.4,0,11.5,5.3,11.5,11.8v35.5h96.4
+			c6.2,0,11.2,5.1,11.2,11.4v475.1c0,6.5-5.2,11.8-11.5,11.8h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H2909.2
+			z"/>
+		<path class="st15" d="M3026.1,222.1v-36c0-6.2,5-11.3,11.1-11.3h85.5c6.4,0,11.5,5.3,11.5,11.8v522.1c0,6.5-5.2,11.8-11.5,11.8
+			h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H3026.1z"/>
+		<path class="st15" d="M2559.1,222.1v-36c0-6.2-5-11.3-11.1-11.3h-86.1c-6.4,0-11.5,5.3-11.5,11.8v522.1c0,6.5,5.2,11.8,11.5,11.8
+			h660.8c6.4,0,11.5-5.3,11.5-11.8V233.5c0-6.3-5-11.4-11.2-11.4H2559.1z"/>
+		<path class="st1" d="M2558.6,222.1v-36c0-6.2,5-11.3,11.1-11.3h95.2c6.4,0,11.5,5.3,11.5,11.8v35.5H3123c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H2558.6z"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2491.3977 195.9848)"><tspan x="0" y="0" class="st1 st18 st19">Test</tspan><tspan x="-8.7" y="16.8" class="st1 st18 st19">Runner</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2609.3049 195.9848)"><tspan x="0" y="0" class="st2 st20 st19">Git</tspan><tspan x="-14.1" y="16.8" class="st2 st20 st19">Control</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2711.5942 195.9846)"><tspan x="0" y="0" class="st1 st18 st19">System</tspan><tspan x="-1.6" y="16.8" class="st1 st18 st19">Console</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2831.322 195.9843)"><tspan x="0" y="0" class="st1 st18 st19">Server</tspan><tspan x="-14.9" y="16.8" class="st1 st18 st19">Workspace</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3051.396 204.3972)" class="st1 st18 st19">Terminal</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2956.79 195.9848)"><tspan x="0" y="0" class="st1 st18 st19">File</tspan><tspan x="-2.9" y="16.8" class="st1 st18 st19">Tree</tspan></text>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 2485.3293 156.3501)" class="st1 st20 st21">Advanced Tools</text>
+		</g>
+		<g>
+			<path class="st6" d="M2465,140c-1.4,0-2.7,0.2-4,0.7c-2.9,1.1-5.2,3.2-6.4,6c-1.2,2.8-1.3,5.9-0.2,8.7c1.7,4.5,6.1,7.5,10.8,7.5
+				c1.4,0,2.7-0.2,4-0.7c2.9-1.1,5.2-3.2,6.4-6c1.2-2.8,1.3-5.9,0.2-8.7C2474.1,143,2469.7,140,2465,140z"/>
+		</g>
+		<g>
+			<g>
+				<path d="M2466.5,146.2h-2.9c-0.5,0-1,0.4-1,1v0.5c0,0.1-0.1,0.2-0.2,0.2h-2.9c-0.5,0-1,0.4-1,1v7c0,0.5,0.4,0.9,0.9,0.9h11.2
+					c0.5,0,1-0.4,1-1v-7.2c0-0.4-0.3-0.8-0.8-0.8h-3.1c-0.1,0-0.2-0.1-0.2-0.2v-0.5C2467.5,146.6,2467,146.2,2466.5,146.2z
+					 M2463.4,147.1c0-0.1,0.1-0.2,0.2-0.2h2.9c0.1,0,0.2,0.1,0.2,0.2v0.5c0,0.1-0.1,0.2-0.2,0.2h-2.9c-0.1,0-0.2-0.1-0.2-0.2V147.1z
+					 M2470.8,155.8c0,0.1-0.1,0.2-0.2,0.2h-11.2c-0.1,0-0.2-0.1-0.2-0.2v-4.6c0-0.1,0.1-0.2,0.2-0.2h11.2c0.1,0,0.2,0.1,0.2,0.2
+					V155.8z M2470.6,148.6c0.1,0,0.2,0.1,0.2,0.2v1.3c0,0.1-0.1,0.2-0.2,0.2h-11.2c-0.1,0-0.2-0.1-0.2-0.2v-1.3
+					c0-0.1,0.1-0.2,0.2-0.2H2470.6z"/>
+			</g>
+			<path d="M2461.6,151.5h-0.1c-0.2,0-0.3-0.1-0.3-0.3v-1c0-0.2,0.1-0.3,0.3-0.3h0.1c0.2,0,0.3,0.1,0.3,0.3v1
+				C2461.9,151.4,2461.8,151.5,2461.6,151.5z"/>
+			<path d="M2468.6,151.5h-0.1c-0.2,0-0.3-0.1-0.3-0.3v-1c0-0.2,0.1-0.3,0.3-0.3h0.1c0.2,0,0.3,0.1,0.3,0.3v1
+				C2468.9,151.4,2468.8,151.5,2468.6,151.5z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M3109.9,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C3119.2,253.5,3115,257.7,3109.9,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M3000.2,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C3009.5,253.5,3005.3,257.7,3000.2,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st4" d="M2890.5,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C2899.8,253.5,2895.6,257.7,2890.5,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M2780.8,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C2790.1,253.5,2785.9,257.7,2780.8,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M2671.1,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C2680.4,253.5,2676.2,257.7,2671.1,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M2561.4,257.7H2475c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C2570.7,253.5,2566.5,257.7,2561.4,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2501.0352 252.2292)" class="st2 st22 st23">Status</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2617.8635 252.229)" class="st2 st22 st23">Log</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2715.7917 252.229)" class="st2 st22 st23">Console</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2806.3545 252.229)" class="st1 st22 st23">Documentation</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2946.834 252.2294)" class="st2 st22 st23">Wip</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3019.1191 252.229)" class="st2 st22 st23">Working directory</text>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<path class="st3" d="M3111.4,701.3V276.8c0-2,1.7-3.7,3.7-3.7h0.6c2,0,3.7,1.7,3.7,3.7v424.4c0,2-1.7,3.7-3.7,3.7h-0.6
+							C3113,704.9,3111.4,703.3,3111.4,701.3z"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<g>
+						<path class="st6" d="M3112.4,384.6v-43.5c0-1.5,1.2-2.7,2.7-2.7h0.4c1.5,0,2.7,1.2,2.7,2.7v43.5c0,1.5-1.2,2.7-2.7,2.7h-0.4
+							C3113.6,387.3,3112.4,386.1,3112.4,384.6z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<rect x="2465.7" y="278.9" class="st25" width="627.8" height="428.1"/>
+	<text transform="matrix(1 0 0 1 2465.6804 288.0039)"><tspan x="0" y="0" class="st22 st23">All Lively installations, such as you might have on localhost, or such as the lively-kernel.org/core installation, are </tspan><tspan x="0" y="14.4" class="st22 st23">separate instances of the master installation on Git.  The GitControl tool makes it easy to update an installation and </tspan><tspan x="0" y="28.8" class="st22 st23">to commit changes made in that installation up to the master on Git.</tspan><tspan x="0" y="57.6" class="st26 st23">General commit and update workflow</tspan><tspan x="0" y="86.4" class="st22 st23">As a general rule, prior to making a bunch of changes, it is good to use the GitControl to do a &quot;pull&quot;, bringing your </tspan><tspan x="0" y="100.8" class="st22 st23">installation up to date so that the only changes you will have to deal with be those involved in your project.</tspan><tspan x="0" y="129.6" class="st22 st23">Suppose you have changed a method in Widgets.js.  When you open the GitControl, this file will appear as an </tspan><tspan x="0" y="144" class="st22 st23">&quot;unstaged change&quot;, or you may have several files listed there that you have changed.  You can us the &quot;diff&quot; button to </tspan><tspan x="0" y="158.4" class="st22 st23">see the changes that will be committed.</tspan><tspan x="0" y="172.8" class="st22 st23">[this does not work for me but it should for you.  The alternative is to go tot the console window and type &quot;git diff&quot; or </tspan><tspan x="0" y="187.2" class="st22 st23">&quot;git diff &quot; followed by the pathname of a specific file]</tspan><tspan x="0" y="216" class="st22 st23">Maybe we need some discussion about what to do if things appear in the diff that you do not want.  The simplest </tspan><tspan x="0" y="230.4" class="st22 st23">answer here would go to go fix the file.</tspan><tspan x="0" y="259.2" class="st22 st23">In preparation to commit, you need all your local changes to be either &quot;staged&quot; (in preparatin to commit), &quot;stashed&quot; </tspan><tspan x="0" y="273.6" class="st22 st23">(set aside from the commit but not forgotten. perhaps as you have more to do before committing), or forgotten (the </tspan><tspan x="0" y="288" class="st22 st23">X), meaning the changes will be lost, though you may still have that file around.  So do one of these three things to </tspan><tspan x="0" y="302.4" class="st22 st23">all your unstaged changes.</tspan><tspan x="0" y="331.2" class="st22 st23">Now you are ready to commit your (now) staged changes, and this is done by pressing the &quot;commit&quot; button.  Here </tspan><tspan x="0" y="345.6" class="st22 st23">you will be asked for a short comment about what these changes are.  This will appear in the log which can be seen </tspan><tspan x="0" y="360" class="st22 st23">under the &quot;log&quot; tab.</tspan><tspan x="0" y="388.8" class="st22 st23">Next you should press &quot;pull&quot;.  This may take a little while and should then print a few lines ending with a pair of </tspan><tspan x="0" y="403.2" class="st22 st23">version numbers on the master. [for some reason my system asks me for my name and password at this point </tspan><tspan x="0" y="417.6" class="st22 st23">which can be entered in the terminal window]</tspan></text>
+	<g>
+		<g>
+			<polygon class="st24" points="2894.4,253.3 2886.1,246.4 2887.3,257.1 2890.1,255.6 2892.9,260.9 2893.8,260.4 2891,255.1 			"/>
+			<polygon points="2894.4,253.3 2886.1,246.4 2887.3,257.1 2890.1,255.6 2892.9,260.9 2893.8,260.4 2891,255.1 			"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<circle class="st4" cx="3116" cy="151.5" r="7.4"/>
+				<g>
+					<line class="st5" x1="3112.3" y1="147.8" x2="3119.8" y2="155.3"/>
+					<line class="st5" x1="3112.3" y1="155.3" x2="3119.8" y2="147.8"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<circle class="st6" cx="3091" cy="151.5" r="7.4"/>
+			<g>
+				<g>
+					<path class="st0" d="M3094.9,152.6h-8c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5h8c0.3,0,0.5,0.2,0.5,0.5
+						S3095.2,152.6,3094.9,152.6z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<path class="st0" d="M3892.7,727.6h-668.7c-8.6,0-15.6-7.1-15.6-15.9V143.6c0-8.8,7-15.9,15.6-15.9h668.7c8.6,0,15.6,7.1,15.6,15.9
+		v568.2C3908.3,720.5,3901.3,727.6,3892.7,727.6z"/>
+	<g>
+		<path class="st15" d="M3442,222.1v-36c0-6.2,5-11.3,11.1-11.3h94.2c6.4,0,11.5,5.3,11.5,11.8v35.5H3889c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H3442z"/>
+		<path class="st15" d="M3558.8,222.1v-36c0-6.2,5-11.3,11.1-11.3h93.7c6.4,0,11.5,5.3,11.5,11.8v35.5H3889
+			c6.2,0,11.2,5.1,11.2,11.4v475.1c0,6.5-5.2,11.8-11.5,11.8h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H3558.8
+			z"/>
+		<path class="st15" d="M3675.2,222.1v-36c0-6.2,5-11.3,11.1-11.3h94.7c6.4,0,11.5,5.3,11.5,11.8v35.5h96.4
+			c6.2,0,11.2,5.1,11.2,11.4v475.1c0,6.5-5.2,11.8-11.5,11.8h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H3675.2
+			z"/>
+		<path class="st15" d="M3792.1,222.1v-36c0-6.2,5-11.3,11.1-11.3h85.5c6.4,0,11.5,5.3,11.5,11.8v522.1c0,6.5-5.2,11.8-11.5,11.8
+			h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H3792.1z"/>
+		<path class="st15" d="M3325.1,222.1v-36c0-6.2-5-11.3-11.1-11.3h-86.1c-6.4,0-11.5,5.3-11.5,11.8v522.1c0,6.5,5.2,11.8,11.5,11.8
+			h660.8c6.4,0,11.5-5.3,11.5-11.8V233.5c0-6.3-5-11.4-11.2-11.4H3325.1z"/>
+		<path class="st1" d="M3324.6,222.1v-36c0-6.2,5-11.3,11.1-11.3h95.2c6.4,0,11.5,5.3,11.5,11.8v35.5H3889c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H3324.6z"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3257.3977 195.9848)"><tspan x="0" y="0" class="st1 st18 st19">Test</tspan><tspan x="-8.7" y="16.8" class="st1 st18 st19">Runner</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3375.3049 195.9848)"><tspan x="0" y="0" class="st2 st20 st19">Git</tspan><tspan x="-14.1" y="16.8" class="st2 st20 st19">Control</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3477.5942 195.9846)"><tspan x="0" y="0" class="st1 st18 st19">System</tspan><tspan x="-1.6" y="16.8" class="st1 st18 st19">Console</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3597.322 195.9843)"><tspan x="0" y="0" class="st1 st18 st19">Server</tspan><tspan x="-14.9" y="16.8" class="st1 st18 st19">Workspace</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3817.396 204.3972)" class="st1 st18 st19">Terminal</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3722.79 195.9848)"><tspan x="0" y="0" class="st1 st18 st19">File</tspan><tspan x="-2.9" y="16.8" class="st1 st18 st19">Tree</tspan></text>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 3251.3293 156.3501)" class="st1 st20 st21">Advanced Tools</text>
+		</g>
+		<g>
+			<path class="st6" d="M3231,140c-1.4,0-2.7,0.2-4,0.7c-2.9,1.1-5.2,3.2-6.4,6c-1.2,2.8-1.3,5.9-0.2,8.7c1.7,4.5,6.1,7.5,10.8,7.5
+				c1.4,0,2.7-0.2,4-0.7c2.9-1.1,5.2-3.2,6.4-6c1.2-2.8,1.3-5.9,0.2-8.7C3240.1,143,3235.7,140,3231,140z"/>
+		</g>
+		<g>
+			<g>
+				<path d="M3232.5,146.2h-2.9c-0.5,0-1,0.4-1,1v0.5c0,0.1-0.1,0.2-0.2,0.2h-2.9c-0.5,0-1,0.4-1,1v7c0,0.5,0.4,0.9,0.9,0.9h11.2
+					c0.5,0,1-0.4,1-1v-7.2c0-0.4-0.3-0.8-0.8-0.8h-3.1c-0.1,0-0.2-0.1-0.2-0.2v-0.5C3233.5,146.6,3233,146.2,3232.5,146.2z
+					 M3229.4,147.1c0-0.1,0.1-0.2,0.2-0.2h2.9c0.1,0,0.2,0.1,0.2,0.2v0.5c0,0.1-0.1,0.2-0.2,0.2h-2.9c-0.1,0-0.2-0.1-0.2-0.2V147.1z
+					 M3236.8,155.8c0,0.1-0.1,0.2-0.2,0.2h-11.2c-0.1,0-0.2-0.1-0.2-0.2v-4.6c0-0.1,0.1-0.2,0.2-0.2h11.2c0.1,0,0.2,0.1,0.2,0.2
+					V155.8z M3236.6,148.6c0.1,0,0.2,0.1,0.2,0.2v1.3c0,0.1-0.1,0.2-0.2,0.2h-11.2c-0.1,0-0.2-0.1-0.2-0.2v-1.3
+					c0-0.1,0.1-0.2,0.2-0.2H3236.6z"/>
+			</g>
+			<path d="M3227.6,151.5h-0.1c-0.2,0-0.3-0.1-0.3-0.3v-1c0-0.2,0.1-0.3,0.3-0.3h0.1c0.2,0,0.3,0.1,0.3,0.3v1
+				C3227.9,151.4,3227.8,151.5,3227.6,151.5z"/>
+			<path d="M3234.6,151.5h-0.1c-0.2,0-0.3-0.1-0.3-0.3v-1c0-0.2,0.1-0.3,0.3-0.3h0.1c0.2,0,0.3,0.1,0.3,0.3v1
+				C3234.9,151.4,3234.8,151.5,3234.6,151.5z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M3875.9,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C3885.2,253.5,3881,257.7,3875.9,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st4" d="M3766.2,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C3775.5,253.5,3771.3,257.7,3766.2,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M3656.5,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C3665.8,253.5,3661.6,257.7,3656.5,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M3546.8,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C3556.1,253.5,3551.9,257.7,3546.8,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M3437.1,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C3446.4,253.5,3442.2,257.7,3437.1,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M3327.4,257.7H3241c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C3336.7,253.5,3332.5,257.7,3327.4,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3267.0352 252.2292)" class="st2 st22 st23">Status</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3383.8635 252.229)" class="st2 st22 st23">Log</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3481.7917 252.229)" class="st2 st22 st23">Console</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3572.3545 252.229)" class="st2 st22 st23">Documentation</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3712.834 252.2294)" class="st1 st22 st23">Wip</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3785.1191 252.229)" class="st2 st22 st23">Working directory</text>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st4" d="M3437.1,283.5h-86.4c-5.1,0-9.3-4.2-9.3-9.3v-1.4c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+					C3446.4,279.3,3442.2,283.5,3437.1,283.5z"/>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 3364.1116 278.0092)" class="st1 st22 st23">Workspace</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st3" d="M3327.4,283.5H3241c-5.1,0-9.3-4.2-9.3-9.3v-1.4c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+					C3336.7,279.3,3332.5,283.5,3327.4,283.5z"/>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 3247.8547 278.0092)" class="st2 st22 st23">Quick Publish</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st3" d="M3546.8,283.5h-86.4c-5.1,0-9.3-4.2-9.3-9.3v-1.4c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+					C3556.1,279.3,3551.9,283.5,3546.8,283.5z"/>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 3478.8386 277.0092)" class="st2 st22 st23">Todo List</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<path class="st3" d="M3877.3,448.1V302.6c0-2,1.7-3.7,3.7-3.7h0.5c2,0,3.7,1.7,3.7,3.7v145.4c0,2-1.7,3.7-3.7,3.7h-0.5
+							C3878.9,451.7,3877.3,450.1,3877.3,448.1z"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<g>
+						<path class="st6" d="M3878.3,410.4v-43.5c0-1.5,1.2-2.7,2.7-2.7h0.4c1.5,0,2.7,1.2,2.7,2.7v43.5c0,1.5-1.2,2.7-2.7,2.7h-0.4
+							C3879.6,413.1,3878.3,411.9,3878.3,410.4z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<rect x="3232.2" y="300" class="st27" width="636.2" height="151.9"/>
+	<g>
+		<defs>
+			<rect id="SVGID_9_" x="3231.7" y="299.8" width="622" height="152"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_6_);">
+			
+				<image style="overflow:visible;" width="1662" height="1336" xlink:href="75B38AC44F43D95D.png"  transform="matrix(0.5 0 0 0.5 3187.6802 266.7774)">
+			</image>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<path class="st3" d="M3877.3,700.9V470.5c0-2,1.7-3.7,3.7-3.7h0.5c2,0,3.7,1.7,3.7,3.7v230.4c0,2-1.7,3.7-3.7,3.7h-0.5
+							C3878.9,704.6,3877.3,703,3877.3,700.9z"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<g>
+						<path class="st6" d="M3878.3,578.3v-43.5c0-1.5,1.2-2.7,2.7-2.7h0.4c1.5,0,2.7,1.2,2.7,2.7v43.5c0,1.5-1.2,2.7-2.7,2.7h-0.4
+							C3879.6,580.9,3878.3,579.7,3878.3,578.3z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<rect x="3232.2" y="466.8" class="st27" width="636.2" height="238.9"/>
+	<g>
+		<defs>
+			<rect id="SVGID_11_" x="3231.7" y="466.8" width="622" height="239"/>
+		</defs>
+		<clipPath id="SVGID_8_">
+			<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_8_);">
+			
+				<image style="overflow:visible;" width="1662" height="1336" xlink:href="75B38AC44F43D95B.png"  transform="matrix(0.5 0 0 0.5 3184.6802 103.7774)">
+			</image>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polygon class="st24" points="3433.4,280.3 3425.1,273.4 3426.3,284.1 3429.1,282.6 3431.9,287.9 3432.8,287.4 3430,282.1 			"/>
+			<polygon points="3433.4,280.3 3425.1,273.4 3426.3,284.1 3429.1,282.6 3431.9,287.9 3432.8,287.4 3430,282.1 			"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<circle class="st4" cx="3882" cy="151.5" r="7.4"/>
+				<g>
+					<line class="st5" x1="3878.3" y1="147.8" x2="3885.8" y2="155.3"/>
+					<line class="st5" x1="3878.3" y1="155.3" x2="3885.8" y2="147.8"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<circle class="st6" cx="3857" cy="151.5" r="7.4"/>
+			<g>
+				<g>
+					<path class="st0" d="M3860.9,152.6h-8c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5h8c0.3,0,0.5,0.2,0.5,0.5
+						S3861.2,152.6,3860.9,152.6z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<path class="st0" d="M4684.7,727.6h-668.7c-8.6,0-15.6-7.1-15.6-15.9V143.6c0-8.8,7-15.9,15.6-15.9h668.7c8.6,0,15.6,7.1,15.6,15.9
+		v568.2C4700.3,720.5,4693.3,727.6,4684.7,727.6z"/>
+	<g>
+		<path class="st15" d="M4234,222.1v-36c0-6.2,5-11.3,11.1-11.3h94.2c6.4,0,11.5,5.3,11.5,11.8v35.5H4681c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H4234z"/>
+		<path class="st15" d="M4350.8,222.1v-36c0-6.2,5-11.3,11.1-11.3h93.7c6.4,0,11.5,5.3,11.5,11.8v35.5H4681
+			c6.2,0,11.2,5.1,11.2,11.4v475.1c0,6.5-5.2,11.8-11.5,11.8h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H4350.8
+			z"/>
+		<path class="st15" d="M4467.2,222.1v-36c0-6.2,5-11.3,11.1-11.3h94.7c6.4,0,11.5,5.3,11.5,11.8v35.5h96.4
+			c6.2,0,11.2,5.1,11.2,11.4v475.1c0,6.5-5.2,11.8-11.5,11.8h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H4467.2
+			z"/>
+		<path class="st15" d="M4584.1,222.1v-36c0-6.2,5-11.3,11.1-11.3h85.5c6.4,0,11.5,5.3,11.5,11.8v522.1c0,6.5-5.2,11.8-11.5,11.8
+			h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H4584.1z"/>
+		<path class="st15" d="M4117.1,222.1v-36c0-6.2-5-11.3-11.1-11.3h-86.1c-6.4,0-11.5,5.3-11.5,11.8v522.1c0,6.5,5.2,11.8,11.5,11.8
+			h660.8c6.4,0,11.5-5.3,11.5-11.8V233.5c0-6.3-5-11.4-11.2-11.4H4117.1z"/>
+		<path class="st1" d="M4116.6,222.1v-36c0-6.2,5-11.3,11.1-11.3h95.2c6.4,0,11.5,5.3,11.5,11.8v35.5H4681c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H4116.6z"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4049.3977 195.9848)"><tspan x="0" y="0" class="st1 st18 st19">Test</tspan><tspan x="-8.7" y="16.8" class="st1 st18 st19">Runner</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4167.3047 195.9848)"><tspan x="0" y="0" class="st2 st20 st19">Git</tspan><tspan x="-14.1" y="16.8" class="st2 st20 st19">Control</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4269.5942 195.9846)"><tspan x="0" y="0" class="st1 st18 st19">System</tspan><tspan x="-1.6" y="16.8" class="st1 st18 st19">Console</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4389.3218 195.9843)"><tspan x="0" y="0" class="st1 st18 st19">Server</tspan><tspan x="-14.9" y="16.8" class="st1 st18 st19">Workspace</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4609.396 204.3972)" class="st1 st18 st19">Terminal</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4514.79 195.9848)"><tspan x="0" y="0" class="st1 st18 st19">File</tspan><tspan x="-2.9" y="16.8" class="st1 st18 st19">Tree</tspan></text>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 4043.3293 156.3501)" class="st1 st20 st21">Advanced Tools</text>
+		</g>
+		<g>
+			<path class="st6" d="M4023,140c-1.4,0-2.7,0.2-4,0.7c-2.9,1.1-5.2,3.2-6.4,6c-1.2,2.8-1.3,5.9-0.2,8.7c1.7,4.5,6.1,7.5,10.8,7.5
+				c1.4,0,2.7-0.2,4-0.7c2.9-1.1,5.2-3.2,6.4-6c1.2-2.8,1.3-5.9,0.2-8.7C4032.1,143,4027.7,140,4023,140z"/>
+		</g>
+		<g>
+			<g>
+				<path d="M4024.5,146.2h-2.9c-0.5,0-1,0.4-1,1v0.5c0,0.1-0.1,0.2-0.2,0.2h-2.9c-0.5,0-1,0.4-1,1v7c0,0.5,0.4,0.9,0.9,0.9h11.2
+					c0.5,0,1-0.4,1-1v-7.2c0-0.4-0.3-0.8-0.8-0.8h-3.1c-0.1,0-0.2-0.1-0.2-0.2v-0.5C4025.5,146.6,4025,146.2,4024.5,146.2z
+					 M4021.4,147.1c0-0.1,0.1-0.2,0.2-0.2h2.9c0.1,0,0.2,0.1,0.2,0.2v0.5c0,0.1-0.1,0.2-0.2,0.2h-2.9c-0.1,0-0.2-0.1-0.2-0.2V147.1z
+					 M4028.8,155.8c0,0.1-0.1,0.2-0.2,0.2h-11.2c-0.1,0-0.2-0.1-0.2-0.2v-4.6c0-0.1,0.1-0.2,0.2-0.2h11.2c0.1,0,0.2,0.1,0.2,0.2
+					V155.8z M4028.6,148.6c0.1,0,0.2,0.1,0.2,0.2v1.3c0,0.1-0.1,0.2-0.2,0.2h-11.2c-0.1,0-0.2-0.1-0.2-0.2v-1.3
+					c0-0.1,0.1-0.2,0.2-0.2H4028.6z"/>
+			</g>
+			<path d="M4019.6,151.5h-0.1c-0.2,0-0.3-0.1-0.3-0.3v-1c0-0.2,0.1-0.3,0.3-0.3h0.1c0.2,0,0.3,0.1,0.3,0.3v1
+				C4019.9,151.4,4019.8,151.5,4019.6,151.5z"/>
+			<path d="M4026.6,151.5h-0.1c-0.2,0-0.3-0.1-0.3-0.3v-1c0-0.2,0.1-0.3,0.3-0.3h0.1c0.2,0,0.3,0.1,0.3,0.3v1
+				C4026.9,151.4,4026.8,151.5,4026.6,151.5z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M4667.9,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C4677.2,253.5,4673,257.7,4667.9,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st4" d="M4558.2,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C4567.5,253.5,4563.3,257.7,4558.2,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M4448.5,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C4457.8,253.5,4453.6,257.7,4448.5,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M4338.8,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C4348.1,253.5,4343.9,257.7,4338.8,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M4229.1,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C4238.4,253.5,4234.2,257.7,4229.1,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M4119.4,257.7H4033c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C4128.7,253.5,4124.5,257.7,4119.4,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4059.0352 252.2292)" class="st2 st22 st23">Status</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4175.8633 252.229)" class="st2 st22 st23">Log</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4273.7915 252.229)" class="st2 st22 st23">Console</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4364.3545 252.229)" class="st2 st22 st23">Documentation</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4504.834 252.2294)" class="st1 st22 st23">Wip</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4577.1191 252.229)" class="st2 st22 st23">Working directory</text>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st3" d="M4229.1,283.5h-86.4c-5.1,0-9.3-4.2-9.3-9.3v-1.4c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+					C4238.4,279.3,4234.2,283.5,4229.1,283.5z"/>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 4156.1113 278.0092)" class="st2 st22 st23">Workspace</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st3" d="M4119.4,283.5H4033c-5.1,0-9.3-4.2-9.3-9.3v-1.4c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+					C4128.7,279.3,4124.5,283.5,4119.4,283.5z"/>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 4039.855 278.0092)" class="st2 st22 st23">Quick Publish</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st4" d="M4338.8,283.5h-86.4c-5.1,0-9.3-4.2-9.3-9.3v-1.4c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+					C4348.1,279.3,4343.9,283.5,4338.8,283.5z"/>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 4270.8384 277.0092)" class="st1 st22 st23">Todo List</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polygon class="st24" points="4330.4,280.3 4322.1,273.4 4323.3,284.1 4326.1,282.6 4328.9,287.9 4329.8,287.4 4327,282.1 			"/>
+			<polygon points="4330.4,280.3 4322.1,273.4 4323.3,284.1 4326.1,282.6 4328.9,287.9 4329.8,287.4 4327,282.1 			"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path class="st28" d="M4444.6,336.1H4233c-4,0-7.2-3.3-7.2-7.2v-0.5c0-4,3.3-7.2,7.2-7.2h211.6c4,0,7.2,3.3,7.2,7.2v0.5
+						C4451.9,332.9,4448.6,336.1,4444.6,336.1z"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<path class="st29" d="M4327.6,336.1h-94.3c-4.1,0-7.5-3.1-7.5-7v-1c0-3.8,3.4-7,7.5-7h94.3V336.1z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<circle class="st0" cx="4467.7" cy="379.5" r="5"/>
+				<g>
+					<line class="st30" x1="4465.2" y1="377" x2="4470.2" y2="382.1"/>
+					<line class="st30" x1="4465.2" y1="382.1" x2="4470.2" y2="377"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<circle class="st0" cx="4467.7" cy="400.3" r="5"/>
+				<g>
+					<line class="st30" x1="4465.2" y1="397.8" x2="4470.2" y2="402.8"/>
+					<line class="st30" x1="4465.2" y1="402.8" x2="4470.2" y2="397.8"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<circle class="st0" cx="4467.7" cy="421.1" r="5"/>
+				<g>
+					<line class="st30" x1="4465.2" y1="418.6" x2="4470.2" y2="423.6"/>
+					<line class="st30" x1="4465.2" y1="423.6" x2="4470.2" y2="418.6"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<circle class="st0" cx="4467.7" cy="441.8" r="5"/>
+				<g>
+					<line class="st30" x1="4465.2" y1="439.4" x2="4470.2" y2="444.4"/>
+					<line class="st30" x1="4465.2" y1="444.4" x2="4470.2" y2="439.4"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<circle class="st0" cx="4467.7" cy="462.5" r="5"/>
+				<g>
+					<line class="st30" x1="4465.2" y1="460" x2="4470.2" y2="465.1"/>
+					<line class="st30" x1="4465.2" y1="465.1" x2="4470.2" y2="460"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<circle class="st0" cx="4467.7" cy="483.4" r="5"/>
+				<g>
+					<line class="st30" x1="4465.2" y1="480.9" x2="4470.2" y2="486"/>
+					<line class="st30" x1="4465.2" y1="486" x2="4470.2" y2="480.9"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<circle class="st0" cx="4467.7" cy="504.2" r="5"/>
+				<g>
+					<line class="st30" x1="4465.2" y1="501.7" x2="4470.2" y2="506.8"/>
+					<line class="st30" x1="4465.2" y1="506.8" x2="4470.2" y2="501.7"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<circle class="st0" cx="4467.7" cy="524.5" r="5"/>
+				<g>
+					<line class="st30" x1="4465.2" y1="522" x2="4470.2" y2="527.1"/>
+					<line class="st30" x1="4465.2" y1="527.1" x2="4470.2" y2="522"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<circle class="st0" cx="4467.7" cy="545.8" r="5"/>
+				<g>
+					<line class="st30" x1="4465.2" y1="543.3" x2="4470.2" y2="548.3"/>
+					<line class="st30" x1="4465.2" y1="548.3" x2="4470.2" y2="543.3"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<circle class="st0" cx="4467.7" cy="566.6" r="5"/>
+				<g>
+					<line class="st30" x1="4465.2" y1="564.1" x2="4470.2" y2="569.1"/>
+					<line class="st30" x1="4465.2" y1="569.1" x2="4470.2" y2="564.1"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<circle class="st0" cx="4467.7" cy="587.3" r="5"/>
+				<g>
+					<line class="st30" x1="4465.2" y1="584.9" x2="4470.2" y2="589.9"/>
+					<line class="st30" x1="4465.2" y1="589.9" x2="4470.2" y2="584.9"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<circle class="st0" cx="4467.7" cy="608.1" r="5"/>
+				<g>
+					<line class="st30" x1="4465.2" y1="605.7" x2="4470.2" y2="610.7"/>
+					<line class="st30" x1="4465.2" y1="610.7" x2="4470.2" y2="605.7"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<circle class="st0" cx="4467.7" cy="628.5" r="5"/>
+				<g>
+					<line class="st30" x1="4465.2" y1="626" x2="4470.2" y2="631.1"/>
+					<line class="st30" x1="4465.2" y1="631.1" x2="4470.2" y2="626"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<circle class="st0" cx="4467.7" cy="649.7" r="5"/>
+				<g>
+					<line class="st30" x1="4465.2" y1="647.2" x2="4470.2" y2="652.3"/>
+					<line class="st30" x1="4465.2" y1="652.3" x2="4470.2" y2="647.2"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<circle class="st0" cx="4467.7" cy="670.5" r="5"/>
+				<g>
+					<line class="st30" x1="4465.2" y1="668" x2="4470.2" y2="673.1"/>
+					<line class="st30" x1="4465.2" y1="673.1" x2="4470.2" y2="668"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<circle class="st4" cx="4233.2" cy="400.2" r="6.6"/>
+					<g>
+						<line class="st31" x1="4229.9" y1="400.7" x2="4232.6" y2="403.3"/>
+						<line class="st31" x1="4232.7" y1="403.2" x2="4237.2" y2="397.4"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<circle class="st4" cx="4233.2" cy="379.5" r="6.6"/>
+					<g>
+						<line class="st31" x1="4229.9" y1="379.9" x2="4232.6" y2="382.5"/>
+						<line class="st31" x1="4232.7" y1="382.5" x2="4237.2" y2="376.6"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<circle class="st32" cx="4233.2" cy="421" r="6.6"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<circle class="st32" cx="4233.2" cy="441.8" r="6.6"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<circle class="st32" cx="4233.2" cy="462.5" r="6.6"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<circle class="st32" cx="4233.2" cy="483.3" r="6.6"/>
+				</g>
+			</g>
+			<line class="st33" x1="4225.8" y1="389.9" x2="4474.8" y2="389.9"/>
+			<line class="st33" x1="4225.8" y1="410.6" x2="4474.8" y2="410.6"/>
+			<g>
+				<text transform="matrix(1 0 0 1 4248.2783 382.6247)" class="st2 st22 st23">Reload Browser        </text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 4248.5391 403.6892)" class="st2 st22 st23">Close Window   </text>
+			</g>
+			<line class="st33" x1="4225.8" y1="431.4" x2="4474.8" y2="431.4"/>
+			<line class="st33" x1="4225.8" y1="452.2" x2="4474.8" y2="452.2"/>
+			<line class="st33" x1="4225.8" y1="472.9" x2="4474.8" y2="472.9"/>
+			<g>
+				<text transform="matrix(1 0 0 1 4248.5391 424.7536)" class="st2 st22 st23">Save   </text>
+			</g>
+			<g>
+				<rect x="4248.5" y="435.9" class="st25" width="97.1" height="12"/>
+				<text transform="matrix(1 0 0 1 4248.5391 445.0603)" class="st2 st22 st23">Open Workspace</text>
+			</g>
+			<g>
+				<rect x="4248.9" y="456.3" class="st25" width="116.4" height="12"/>
+				<text transform="matrix(1 0 0 1 4248.8848 465.4333)" class="st2 st22 st23">Open Object Editor</text>
+			</g>
+			<g>
+				<rect x="4248.9" y="477" class="st25" width="127" height="14.1"/>
+				<text transform="matrix(1 0 0 1 4248.8848 486.1667)" class="st2 st22 st23">Open System Browser</text>
+			</g>
+			<g>
+				<g>
+					<circle class="st4" cx="4233.2" cy="524.5" r="6.6"/>
+					<g>
+						<line class="st31" x1="4229.9" y1="524.9" x2="4232.6" y2="527.5"/>
+						<line class="st31" x1="4232.7" y1="527.5" x2="4237.2" y2="521.6"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<circle class="st4" cx="4233.2" cy="504.5" r="6.6"/>
+					<g>
+						<line class="st31" x1="4229.9" y1="504.9" x2="4232.6" y2="507.5"/>
+						<line class="st31" x1="4232.7" y1="507.5" x2="4237.2" y2="501.6"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<circle class="st32" cx="4233.2" cy="545.5" r="6.6"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<circle class="st32" cx="4233.2" cy="566.4" r="6.6"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<circle class="st32" cx="4233.2" cy="587.1" r="6.6"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<circle class="st32" cx="4233.2" cy="607.9" r="6.6"/>
+				</g>
+			</g>
+			<line class="st33" x1="4225.8" y1="514.5" x2="4474.8" y2="514.5"/>
+			<line class="st33" x1="4225.8" y1="493.7" x2="4474.8" y2="493.7"/>
+			<line class="st33" x1="4225.8" y1="535.2" x2="4474.8" y2="535.2"/>
+			<g>
+				<text transform="matrix(1 0 0 1 4248.2783 507.6247)" class="st2 st22 st23">Reload Browser        </text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 4248.5391 528.6891)" class="st2 st22 st23">Close Window   </text>
+			</g>
+			<line class="st33" x1="4225.8" y1="556" x2="4474.8" y2="556"/>
+			<line class="st33" x1="4225.8" y1="576.7" x2="4474.8" y2="576.7"/>
+			<line class="st33" x1="4225.8" y1="597.5" x2="4474.8" y2="597.5"/>
+			<g>
+				<text transform="matrix(1 0 0 1 4248.5391 549.7536)" class="st2 st22 st23">Save   </text>
+			</g>
+			<g>
+				<rect x="4248.5" y="560.9" class="st25" width="97.1" height="12"/>
+				<text transform="matrix(1 0 0 1 4248.5391 570.0602)" class="st2 st22 st23">Open Workspace</text>
+			</g>
+			<g>
+				<rect x="4248.9" y="581.3" class="st25" width="116.4" height="12"/>
+				<text transform="matrix(1 0 0 1 4248.8848 590.4333)" class="st2 st22 st23">Open Object Editor</text>
+			</g>
+			<g>
+				<rect x="4248.9" y="602" class="st25" width="127" height="14.1"/>
+				<text transform="matrix(1 0 0 1 4248.8848 611.1667)" class="st2 st22 st23">Open System Browser</text>
+			</g>
+			<g>
+				<g>
+					<circle class="st4" cx="4233.2" cy="649.4" r="6.6"/>
+					<g>
+						<line class="st31" x1="4229.9" y1="649.8" x2="4232.6" y2="652.5"/>
+						<line class="st31" x1="4232.7" y1="652.4" x2="4237.2" y2="646.6"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<circle class="st4" cx="4233.2" cy="628.7" r="6.6"/>
+					<g>
+						<line class="st31" x1="4229.9" y1="629.1" x2="4232.6" y2="631.7"/>
+						<line class="st31" x1="4232.7" y1="631.7" x2="4237.2" y2="625.8"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<circle class="st32" cx="4233.2" cy="670.2" r="6.6"/>
+				</g>
+			</g>
+			<line class="st33" x1="4225.8" y1="639" x2="4474.8" y2="639"/>
+			<line class="st33" x1="4225.8" y1="618.3" x2="4474.8" y2="618.3"/>
+			<line class="st33" x1="4225.8" y1="659.8" x2="4474.8" y2="659.8"/>
+			<g>
+				<text transform="matrix(1 0 0 1 4248.2783 633.6247)" class="st2 st22 st23">Reload Browser        </text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 4248.5391 654.6891)" class="st2 st22 st23">Close Window   </text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 4248.5391 675.7536)" class="st2 st22 st23">Save   </text>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<circle class="st4" cx="4674" cy="151.5" r="7.4"/>
+				<g>
+					<line class="st5" x1="4670.3" y1="147.8" x2="4677.8" y2="155.3"/>
+					<line class="st5" x1="4670.3" y1="155.3" x2="4677.8" y2="147.8"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<circle class="st6" cx="4649" cy="151.5" r="7.4"/>
+			<g>
+				<g>
+					<path class="st0" d="M4652.9,152.6h-8c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5h8c0.3,0,0.5,0.2,0.5,0.5
+						S4653.2,152.6,4652.9,152.6z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<circle class="st0" cx="4467.3" cy="328.6" r="7.5"/>
+		</g>
+		<g>
+			<path class="st1" d="M4466.7,325.8c0,1.9,0,3.8,0,5.7c0,0.8,1.3,0.8,1.3,0c0-1.9,0-3.8,0-5.7C4468,325,4466.7,325,4466.7,325.8
+				L4466.7,325.8z"/>
+		</g>
+		<g>
+			<path class="st1" d="M4464.5,329.3c1.9,0,3.8,0,5.7,0c0.8,0,0.8-1.3,0-1.3c-1.9,0-3.8,0-5.7,0
+				C4463.7,328,4463.7,329.3,4464.5,329.3L4464.5,329.3z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<path class="st0" d="M5489.7,727.6h-668.7c-8.6,0-15.6-7.1-15.6-15.9V143.6c0-8.8,7-15.9,15.6-15.9h668.7c8.6,0,15.6,7.1,15.6,15.9
+		v568.2C5505.3,720.5,5498.3,727.6,5489.7,727.6z"/>
+	<g>
+		<path class="st15" d="M5039,222.1v-36c0-6.2,5-11.3,11.1-11.3h94.2c6.4,0,11.5,5.3,11.5,11.8v35.5H5486c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H5039z"/>
+		<path class="st15" d="M5155.8,222.1v-36c0-6.2,5-11.3,11.1-11.3h93.7c6.4,0,11.5,5.3,11.5,11.8v35.5H5486
+			c6.2,0,11.2,5.1,11.2,11.4v475.1c0,6.5-5.2,11.8-11.5,11.8h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H5155.8
+			z"/>
+		<path class="st15" d="M5272.2,222.1v-36c0-6.2,5-11.3,11.1-11.3h94.7c6.4,0,11.5,5.3,11.5,11.8v35.5h96.4
+			c6.2,0,11.2,5.1,11.2,11.4v475.1c0,6.5-5.2,11.8-11.5,11.8h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H5272.2
+			z"/>
+		<path class="st15" d="M5389.1,222.1v-36c0-6.2,5-11.3,11.1-11.3h85.5c6.4,0,11.5,5.3,11.5,11.8v522.1c0,6.5-5.2,11.8-11.5,11.8
+			h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H5389.1z"/>
+		<path class="st15" d="M4922.1,222.1v-36c0-6.2-5-11.3-11.1-11.3h-86.1c-6.4,0-11.5,5.3-11.5,11.8v522.1c0,6.5,5.2,11.8,11.5,11.8
+			h660.8c6.4,0,11.5-5.3,11.5-11.8V233.5c0-6.3-5-11.4-11.2-11.4H4922.1z"/>
+		<path class="st1" d="M4921.6,222.1v-36c0-6.2,5-11.3,11.1-11.3h95.2c6.4,0,11.5,5.3,11.5,11.8v35.5H5486c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8h-660.8c-6.4,0-11.5-5.3-11.5-11.8V233.5c0-6.3,5-11.4,11.2-11.4H4921.6z"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4854.3975 195.9848)"><tspan x="0" y="0" class="st1 st18 st19">Test</tspan><tspan x="-8.7" y="16.8" class="st1 st18 st19">Runner</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4972.3047 195.9848)"><tspan x="0" y="0" class="st2 st20 st19">Git</tspan><tspan x="-14.1" y="16.8" class="st2 st20 st19">Control</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 5074.5942 195.9846)"><tspan x="0" y="0" class="st1 st18 st19">System</tspan><tspan x="-1.6" y="16.8" class="st1 st18 st19">Console</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 5194.3218 195.9843)"><tspan x="0" y="0" class="st1 st18 st19">Server</tspan><tspan x="-14.9" y="16.8" class="st1 st18 st19">Workspace</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 5414.396 204.3972)" class="st1 st18 st19">Terminal</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 5319.79 195.9848)"><tspan x="0" y="0" class="st1 st18 st19">File</tspan><tspan x="-2.9" y="16.8" class="st1 st18 st19">Tree</tspan></text>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 4848.3296 156.3501)" class="st1 st20 st21">Advanced Tools</text>
+		</g>
+		<g>
+			<path class="st6" d="M4828,140c-1.4,0-2.7,0.2-4,0.7c-2.9,1.1-5.2,3.2-6.4,6c-1.2,2.8-1.3,5.9-0.2,8.7c1.7,4.5,6.1,7.5,10.8,7.5
+				c1.4,0,2.7-0.2,4-0.7c2.9-1.1,5.2-3.2,6.4-6c1.2-2.8,1.3-5.9,0.2-8.7C4837.1,143,4832.7,140,4828,140z"/>
+		</g>
+		<g>
+			<g>
+				<path d="M4829.5,146.2h-2.9c-0.5,0-1,0.4-1,1v0.5c0,0.1-0.1,0.2-0.2,0.2h-2.9c-0.5,0-1,0.4-1,1v7c0,0.5,0.4,0.9,0.9,0.9h11.2
+					c0.5,0,1-0.4,1-1v-7.2c0-0.4-0.3-0.8-0.8-0.8h-3.1c-0.1,0-0.2-0.1-0.2-0.2v-0.5C4830.5,146.6,4830,146.2,4829.5,146.2z
+					 M4826.4,147.1c0-0.1,0.1-0.2,0.2-0.2h2.9c0.1,0,0.2,0.1,0.2,0.2v0.5c0,0.1-0.1,0.2-0.2,0.2h-2.9c-0.1,0-0.2-0.1-0.2-0.2V147.1z
+					 M4833.8,155.8c0,0.1-0.1,0.2-0.2,0.2h-11.2c-0.1,0-0.2-0.1-0.2-0.2v-4.6c0-0.1,0.1-0.2,0.2-0.2h11.2c0.1,0,0.2,0.1,0.2,0.2
+					V155.8z M4833.6,148.6c0.1,0,0.2,0.1,0.2,0.2v1.3c0,0.1-0.1,0.2-0.2,0.2h-11.2c-0.1,0-0.2-0.1-0.2-0.2v-1.3
+					c0-0.1,0.1-0.2,0.2-0.2H4833.6z"/>
+			</g>
+			<path d="M4824.6,151.5h-0.1c-0.2,0-0.3-0.1-0.3-0.3v-1c0-0.2,0.1-0.3,0.3-0.3h0.1c0.2,0,0.3,0.1,0.3,0.3v1
+				C4824.9,151.4,4824.8,151.5,4824.6,151.5z"/>
+			<path d="M4831.6,151.5h-0.1c-0.2,0-0.3-0.1-0.3-0.3v-1c0-0.2,0.1-0.3,0.3-0.3h0.1c0.2,0,0.3,0.1,0.3,0.3v1
+				C4831.9,151.4,4831.8,151.5,4831.6,151.5z"/>
+		</g>
+	</g>
+	<g>
+		<circle class="st0" cx="4947.4" cy="273.6" r="10"/>
+		<g>
+			<path class="st1" d="M4947.4,278.6c2.6,0,4.6-2.1,4.6-4.6c0-0.3-0.3-0.6-0.6-0.6c-0.3,0-0.6,0.3-0.6,0.6c0,1.9-1.6,3.5-3.5,3.5
+				c-1.9,0-3.5-1.6-3.5-3.5c0-1.8,1.4-3.3,3.2-3.5l0.8-0.1l-1.1,1.1c-0.1,0.1-0.2,0.3-0.2,0.4s0.1,0.3,0.2,0.4
+				c0.2,0.2,0.6,0.2,0.8,0l2-2c0.1-0.1,0.2-0.3,0.2-0.4c0-0.2-0.1-0.3-0.2-0.4l-2-2c-0.1-0.1-0.3-0.2-0.4-0.2
+				c-0.2,0-0.3,0.1-0.4,0.2c-0.1,0.1-0.2,0.3-0.2,0.4c0,0.2,0.1,0.3,0.2,0.4l0.9,0.9l-0.6,0c-2.4,0.2-4.3,2.2-4.3,4.6
+				C4942.7,276.5,4944.8,278.6,4947.4,278.6z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st4" d="M5471.9,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C5481.2,253.5,5477,257.7,5471.9,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M5362.2,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C5371.5,253.5,5367.3,257.7,5362.2,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M5252.5,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C5261.8,253.5,5257.6,257.7,5252.5,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M5142.8,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C5152.1,253.5,5147.9,257.7,5142.8,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M5033.1,257.7h-86.4c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C5042.4,253.5,5038.2,257.7,5033.1,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M4923.4,257.7H4837c-5.1,0-9.3-4.2-9.3-9.3V247c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C4932.7,253.5,4928.5,257.7,4923.4,257.7z"/>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4863.0352 252.2292)" class="st2 st22 st23">Status</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4979.8633 252.229)" class="st2 st22 st23">Log</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 5077.7915 252.229)" class="st2 st22 st23">Console</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 5168.3545 252.229)" class="st2 st22 st23">Documentation</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 5308.834 252.2294)" class="st2 st22 st23">Wip</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 5381.1191 252.229)" class="st1 st22 st23">Working directory</text>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st4" d="M4923.4,283.5H4837c-5.1,0-9.3-4.2-9.3-9.3v-1.4c0-5.1,4.2-9.3,9.3-9.3h86.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+					C4932.7,279.3,4928.5,283.5,4923.4,283.5z"/>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 4863.125 278.0092)" class="st1 st22 st23">Set dir</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polygon class="st24" points="4907.4,280.3 4899.1,273.4 4900.3,284.1 4903.1,282.6 4905.9,287.9 4906.8,287.4 4904,282.1 			"/>
+			<polygon points="4907.4,280.3 4899.1,273.4 4900.3,284.1 4903.1,282.6 4905.9,287.9 4906.8,287.4 4904,282.1 			"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_13_" x="4851" y="301.8" width="132.2" height="323.6"/>
+			</defs>
+			<clipPath id="SVGID_10_">
+				<use xlink:href="#SVGID_13_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_10_);">
+				
+					<image style="overflow:visible;" width="760" height="834" xlink:href="75B38AC44F43D965.jpg"  transform="matrix(0.5 0 0 0.5 4816.1006 240.5448)">
+				</image>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st11" points="4847.7,311.3 4850.5,314.1 4847.7,316.9 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st11" points="4847.7,331.3 4850.5,334.1 4847.7,336.9 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st11" points="4847.7,351.4 4850.5,354.2 4847.7,357 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st11" points="4847.7,371.5 4850.5,374.3 4847.7,377.1 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st11" points="4847.7,391.5 4850.5,394.3 4847.7,397.1 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st11" points="4847.7,411.6 4850.5,414.4 4847.7,417.2 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st11" points="4847.7,431.7 4850.5,434.5 4847.7,437.3 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st11" points="4847.7,451.7 4850.5,454.5 4847.7,457.3 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st11" points="4847.7,471.8 4850.5,474.6 4847.7,477.4 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st11" points="4847.7,491.9 4850.5,494.7 4847.7,497.5 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st11" points="4847.7,511.9 4850.5,514.7 4847.7,517.5 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st11" points="4847.7,532 4850.5,534.8 4847.7,537.6 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st11" points="4847.7,552.1 4850.5,554.9 4847.7,557.7 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st11" points="4847.7,572.1 4850.5,574.9 4847.7,577.7 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st11" points="4847.7,592.2 4850.5,595 4847.7,597.8 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<circle class="st4" cx="5479" cy="151.5" r="7.4"/>
+				<g>
+					<line class="st5" x1="5475.3" y1="147.8" x2="5482.8" y2="155.3"/>
+					<line class="st5" x1="5475.3" y1="155.3" x2="5482.8" y2="147.8"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<circle class="st6" cx="5454" cy="151.5" r="7.4"/>
+			<g>
+				<g>
+					<path class="st0" d="M5457.9,152.6h-8c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5h8c0.3,0,0.5,0.2,0.5,0.5
+						S5458.2,152.6,5457.9,152.6z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

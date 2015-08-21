@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2413 809.6" style="enable-background:new 0 0 2413 809.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4D4D4D;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#808080;}
+	.st3{fill:#F2F2F2;}
+	.st4{font-family:'MyriadPro-Bold';}
+	.st5{font-size:30.1109px;}
+	.st6{fill:#F57C00;}
+	.st7{fill:none;stroke:#FFFFFF;stroke-width:0.8981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st8{fill:#CCCCCC;}
+	.st9{font-family:'Roboto-Medium';}
+	.st10{font-size:16.65px;}
+	.st11{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#4D4D4D;stroke-miterlimit:10;}
+	.st13{font-family:'Helvetica';}
+	.st14{font-size:12px;}
+	.st15{font-family:'Roboto-Regular';}
+	.st16{fill:none;stroke:#E6E6E6;stroke-miterlimit:10;}
+	.st17{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.9519;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st18{fill:#808080;stroke:#808080;stroke-width:0.9519;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st19{fill:none;stroke:#FFFFFF;stroke-width:2.5352;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st20{fill:#808080;stroke:#4D4D4D;stroke-width:0.253;stroke-miterlimit:10;}
+	.st21{fill:none;stroke:#F2F2F2;stroke-width:2.1462;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st22{fill:#E6E6E6;stroke:#CCCCCC;stroke-width:0.5;stroke-miterlimit:10;}
+	.st23{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st24{fill:#141414;}
+	.st25{fill:#F2F2F2;stroke:#E6E6E6;stroke-width:0.3909;stroke-miterlimit:10;}
+	.st26{fill:#F57C00;stroke:#E6E6E6;stroke-width:0.3909;stroke-miterlimit:10;}
+	.st27{fill:#4D4D4D;stroke:#FFFFFF;stroke-width:0.6083;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st28{fill:none;stroke:#FFFFFF;stroke-width:0.807;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st29{fill:#F2F2F2;stroke:#E6E6E6;stroke-width:0.5;stroke-miterlimit:10;}
+	.st30{fill:#E6E7E8;stroke:#E6E7E8;stroke-width:0.8569;stroke-miterlimit:10;}
+	.st31{fill:#39B54A;}
+	.st32{font-family:'Roboto-Light';}
+	.st33{font-size:14.0211px;}
+</style>
+<text transform="matrix(1 0 0 1 91.3809 70.2629)" class="st4 st5">Advanced Tools Window - Terminal UI</text>
+<g>
+	<g>
+		<path id="bck_12_" class="st0" d="M1524.6,728.2H855.9c-8.6,0-15.6-7.1-15.6-15.9V144.2c0-8.8,7-15.9,15.6-15.9h668.7
+			c8.6,0,15.6,7.1,15.6,15.9v568.2C1540.3,721.1,1533.3,728.2,1524.6,728.2z"/>
+		<g>
+			<g>
+				<g>
+					<circle class="st6" cx="1514.7" cy="148.8" r="7.4"/>
+					<g>
+						<line class="st7" x1="1511" y1="145.2" x2="1518.5" y2="152.6"/>
+						<line class="st7" x1="1511" y1="152.6" x2="1518.5" y2="145.2"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<circle class="st8" cx="1489.7" cy="148.8" r="7.4"/>
+				<g>
+					<g>
+						<path class="st0" d="M1493.6,150h-8c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5h8c0.3,0,0.5,0.2,0.5,0.5S1493.9,150,1493.6,150z"
+							/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<path class="st1" d="M1520.6,175.4c6.4,0,11.5,5.3,11.5,11.8v522.1c0,6.5-5.2,11.8-11.5,11.8H859.9c-6.4,0-11.5-5.3-11.5-11.8V187
+			c0-6.3,5-11.7,11.2-11.7H1520.6z"/>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 890.3359 156.7117)" class="st1 st9 st10">Execute Shell Command</text>
+			</g>
+			<g>
+				<path class="st8" d="M870,140.3c-1.4,0-2.7,0.2-4,0.7c-2.9,1.1-5.2,3.3-6.4,6.1c-1.2,2.8-1.3,5.9-0.2,8.8
+					c1.7,4.5,6,7.5,10.8,7.5c1.4,0,2.7-0.2,4-0.7c2.9-1.1,5.2-3.3,6.4-6.1c1.2-2.8,1.3-5.9,0.2-8.8
+					C879.1,143.3,874.7,140.3,870,140.3z"/>
+				<path class="st11" d="M876.6,154.3c-0.3-0.9-1.2-1.2-1.8-1.7c-0.2-0.2-0.4-0.5-0.4-0.8c0-0.3,0.2-0.5,0.4-0.8
+					c0.3-0.3,0.8-0.5,1.2-0.8c0.4-0.4,0.7-0.8,0.7-1.4c0-0.4-0.2-0.7-0.4-1c-0.4-0.5-0.9-1-1.6-1c-0.8,0-1.4,0.6-2,1
+					c0,0-0.1,0-0.1,0.1c-0.3,0.2-0.6,0.3-0.9,0.1c-0.2-0.1-0.4-0.4-0.5-0.6c-0.2-0.4-0.2-0.9-0.4-1.4c-0.2-0.3-0.5-0.7-0.8-0.9
+					c-0.2-0.1-0.5-0.1-0.7-0.1c-1,0-2.2,0.7-2.2,1.9c0,0.8,0.9,1.9,0.4,2.7c-0.2,0.3-0.6,0.4-0.9,0.4c-0.6,0-1.3-0.1-1.9,0.1
+					c-0.7,0.3-1.2,1.1-1.2,1.8c0,0.8,0.4,1.5,1.2,1.8c0.6,0.2,1.3,0.1,1.9,0.1c0.4,0,0.7,0.1,0.9,0.4c0.1,0.2,0.2,0.5,0.1,0.8
+					c-0.1,0.6-0.5,1.2-0.5,1.9c0,0.6,0.3,1.2,0.9,1.4c0.3,0.2,0.7,0.3,1.1,0.4c0.6,0.1,1.4-0.2,1.7-0.7c0.3-0.5,0.4-1,0.6-1.6
+					c0.1-0.3,0.3-0.5,0.5-0.7c0.8-0.4,1.5,0.5,2.1,0.9C875.3,157.6,877,155.8,876.6,154.3z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st3" d="M1507.7,706.5H872.8c-5.1,0-9.3-4.2-9.3-9.3v-1.4c0-5.1,4.2-9.3,9.3-9.3h634.9c5.1,0,9.3,4.2,9.3,9.3v1.4
+					C1517,702.3,1512.8,706.5,1507.7,706.5z"/>
+			</g>
+		</g>
+	</g>
+	<line class="st12" x1="863.5" y1="194" x2="863.5" y2="210"/>
+</g>
+<g>
+	<g>
+		<path id="bck_1_" class="st0" d="M2274.6,727.6h-668.7c-8.6,0-15.6-7.1-15.6-15.9V143.6c0-8.8,7-15.9,15.6-15.9h668.7
+			c8.6,0,15.6,7.1,15.6,15.9v568.2C2290.3,720.5,2283.3,727.6,2274.6,727.6z"/>
+		<g>
+			<g>
+				<g>
+					<circle class="st6" cx="2264.7" cy="148.2" r="7.4"/>
+					<g>
+						<line class="st7" x1="2261" y1="144.6" x2="2268.5" y2="152"/>
+						<line class="st7" x1="2261" y1="152" x2="2268.5" y2="144.6"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<circle class="st8" cx="2239.7" cy="148.2" r="7.4"/>
+				<g>
+					<g>
+						<path class="st0" d="M2243.6,149h-8c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5h8c0.3,0,0.5,0.2,0.5,0.5S2243.9,149,2243.6,149z"
+							/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<path class="st1" d="M2270.6,174.8c6.4,0,11.5,5.3,11.5,11.8v522.1c0,6.5-5.2,11.8-11.5,11.8h-660.8c-6.4,0-11.5-5.3-11.5-11.8
+			V186.5c0-6.3,5-11.7,11.2-11.7H2270.6z"/>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 1640.3359 156.1221)" class="st1 st9 st10">Running commands</text>
+			</g>
+			<g>
+				<path class="st8" d="M1620,139.7c-1.4,0-2.7,0.2-4,0.7c-2.9,1.1-5.2,3.3-6.4,6.1c-1.2,2.8-1.3,5.9-0.2,8.8
+					c1.7,4.5,6,7.5,10.8,7.5c1.4,0,2.7-0.2,4-0.7c2.9-1.1,5.2-3.3,6.4-6.1c1.2-2.8,1.3-5.9,0.2-8.8
+					C1629.1,142.7,1624.7,139.7,1620,139.7z"/>
+				<path class="st11" d="M1626.6,153.7c-0.3-0.9-1.2-1.2-1.8-1.7c-0.2-0.2-0.4-0.5-0.4-0.8c0-0.3,0.2-0.5,0.4-0.8
+					c0.3-0.3,0.8-0.5,1.2-0.8c0.4-0.4,0.7-0.8,0.7-1.4c0-0.4-0.2-0.7-0.4-1c-0.4-0.5-0.9-1-1.6-1c-0.8,0-1.4,0.6-2,1
+					c0,0-0.1,0-0.1,0.1c-0.3,0.2-0.6,0.3-0.9,0.1c-0.2-0.1-0.4-0.4-0.5-0.6c-0.2-0.4-0.2-0.9-0.4-1.4c-0.2-0.3-0.5-0.7-0.8-0.9
+					c-0.2-0.1-0.5-0.1-0.7-0.1c-1,0-2.2,0.7-2.2,1.9c0,0.8,0.9,1.9,0.4,2.7c-0.2,0.3-0.6,0.4-0.9,0.4c-0.6,0-1.3-0.1-1.9,0.1
+					c-0.7,0.3-1.2,1.1-1.2,1.8c0,0.8,0.4,1.5,1.2,1.8c0.6,0.2,1.3,0.1,1.9,0.1c0.4,0,0.7,0.1,0.9,0.4c0.1,0.2,0.2,0.5,0.1,0.8
+					c-0.1,0.6-0.5,1.2-0.5,1.9c0,0.6,0.3,1.2,0.9,1.4c0.3,0.2,0.7,0.3,1.1,0.4c0.6,0.1,1.4-0.2,1.7-0.7c0.3-0.5,0.4-1,0.6-1.6
+					c0.1-0.3,0.3-0.5,0.5-0.7c0.8-0.4,1.5,0.5,2.1,0.9C1625.3,157,1627,155.2,1626.6,153.7z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st3" d="M2257.7,706.5h-634.9c-5.1,0-9.3-4.2-9.3-9.3v-1.4c0-5.1,4.2-9.3,9.3-9.3h634.9c5.1,0,9.3,4.2,9.3,9.3v1.4
+					C2267,702.3,2262.8,706.5,2257.7,706.5z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st3" d="M2166.4,210.8h-547.4c-5.1,0-9.3-4.2-9.3-9.3v-1.4c0-5.1,4.2-9.3,9.3-9.3h547.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+					C2175.6,206.6,2171.4,210.8,2166.4,210.8z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1619.2158 205.3209)" class="st2 st13 st14">http://cdm.lively-web.org/nodejs/NodeJSEvalServer/</text>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st6" d="M2261.6,210.8h-71.2c-5.1,0-9.3-4.2-9.3-9.3v-1.4c0-5.1,4.2-9.3,9.3-9.3h71.2c5.1,0,9.3,4.2,9.3,9.3v1.4
+					C2270.9,206.6,2266.7,210.8,2261.6,210.8z"/>
+			</g>
+		</g>
+		<text transform="matrix(1 0 0 1 2195.2783 204.981)" class="st1 st15 st14">Code Editor</text>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st0" d="M2263.8,226h-30.2h-1.7l-4.6-12.5c-0.8-1.2-2.6-0.9-3.4,0.3l-4.7,12.2h-0.3h-117.6c-3.8,0-6.2,1.9-6.2,5.6
+					v33.7c0,3.8,2.5,7.6,6.2,7.6h162.5c3.8,0,7.2-3.9,7.2-7.6v-33.7C2271,227.9,2267.5,226,2263.8,226z"/>
+				<path class="st1" d="M2263.7,269.1h-161.9c-1.9,0-3.4-1.5-3.4-3.4v-32.8c0-1.9,1.5-3.4,3.4-3.4h161.9c1.9,0,3.4,1.5,3.4,3.4
+					v32.8C2267.1,267.6,2265.6,269.1,2263.7,269.1z"/>
+			</g>
+			<rect x="2101.8" y="231.4" class="st6" width="162" height="15.9"/>
+			<g>
+				<text transform="matrix(1 0 0 1 2105.7458 243.7454)" class="st1 st15 st14">Settings</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 2105.7458 262.6829)" class="st2 st15 st14">Save (CMD-s)</text>
+			</g>
+			<line class="st16" x1="2102" y1="249.5" x2="2264" y2="249.5"/>
+			<g>
+				<g>
+					<g>
+						<polygon class="st17" points="2256.8,236.5 2259.6,239.3 2256.8,242.1 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="st0" d="M2093,231.6c0-3.6-2.8-5.6-6.4-5.6h-163.3c-3.5,0-6.4,2.1-6.4,5.6v318.1c0,3.6,2.8,7.3,6.4,7.3h163.3
+					c3.5,0,6.4-3.7,6.4-7.3V231.6z"/>
+				<path class="st1" d="M2085.7,553.1h-161.9c-1.9,0-3.4-1.5-3.4-3.4V232.9c0-1.9,1.5-3.4,3.4-3.4h161.9c1.9,0,3.4,1.5,3.4,3.4
+					v316.8C2089.1,551.6,2087.6,553.1,2085.7,553.1z"/>
+			</g>
+			<rect x="1923.8" y="231.4" class="st6" width="162" height="15.9"/>
+			<g>
+				<text transform="matrix(1 0 0 1 1927.7458 243.7454)" class="st1 st15 st14">Show effective keybindings</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1927.7458 262.6829)" class="st2 st15 st14">Customize keybindings</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1927.7458 281.6221)" class="st2 st15 st14">[ ] use emacs-like keys</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1927.7458 338.4362)" class="st2 st15 st14">[ ] show line numbers</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1927.7458 300.5594)" class="st2 st15 st14">Modes</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1927.7458 319.4977)" class="st2 st15 st14">Themes</text>
+			</g>
+			<line class="st16" x1="1924" y1="249.5" x2="2086" y2="249.5"/>
+			<line class="st16" x1="1924" y1="268.5" x2="2086" y2="268.5"/>
+			<line class="st16" x1="1924" y1="288.5" x2="2086" y2="288.5"/>
+			<line class="st16" x1="1924" y1="306.5" x2="2086" y2="306.5"/>
+			<line class="st16" x1="1924" y1="325.5" x2="2086" y2="325.5"/>
+			<g>
+				<text transform="matrix(1 0 0 1 1927.7458 357.4978)" class="st2 st15 st14">[ ] show whitespace</text>
+			</g>
+			<line class="st16" x1="1924" y1="344.5" x2="2086" y2="344.5"/>
+			<line class="st16" x1="1924" y1="363.5" x2="2086" y2="363.5"/>
+			<g>
+				<text transform="matrix(1 0 0 1 1927.7458 376.6829)" class="st2 st15 st14">[ ] show print margin</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1927.7458 395.6218)" class="st2 st15 st14">[ ] show active line</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1927.7458 452.4363)" class="st2 st15 st14">Change tab width</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1927.7458 414.5593)" class="st2 st15 st14">[X] show indents</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1927.7458 433.4978)" class="st2 st15 st14">[X] show soft tabs</text>
+			</g>
+			<line class="st16" x1="1924" y1="363.5" x2="2086" y2="363.5"/>
+			<line class="st16" x1="1924" y1="382.5" x2="2086" y2="382.5"/>
+			<line class="st16" x1="1924" y1="402.5" x2="2086" y2="402.5"/>
+			<line class="st16" x1="1924" y1="420.5" x2="2086" y2="420.5"/>
+			<line class="st16" x1="1924" y1="439.5" x2="2086" y2="439.5"/>
+			<g>
+				<text transform="matrix(1 0 0 1 1927.7458 471.4978)" class="st2 st15 st14">[X] line wrapping</text>
+			</g>
+			<line class="st16" x1="1924" y1="458.5" x2="2086" y2="458.5"/>
+			<line class="st16" x1="1924" y1="477.5" x2="2086" y2="477.5"/>
+			<g>
+				<text transform="matrix(1 0 0 1 1927.7458 527.4363)" class="st2 st15 st14">[X] show Errors</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1927.7458 489.5593)" class="st2 st15 st14">Change line ending mode</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1927.7458 508.4978)" class="st2 st15 st14">[X] show warnings</text>
+			</g>
+			<line class="st16" x1="1924" y1="495.5" x2="2086" y2="495.5"/>
+			<line class="st16" x1="1924" y1="514.5" x2="2086" y2="514.5"/>
+			<g>
+				<text transform="matrix(1 0 0 1 1927.7458 546.4978)" class="st2 st15 st14">[X] use Autocompletion</text>
+			</g>
+			<line class="st16" x1="1924" y1="533.5" x2="2086" y2="533.5"/>
+			<g>
+				<g>
+					<g>
+						<polygon class="st18" points="2078.8,293.7 2081.6,296.5 2078.8,299.3 						"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<g>
+						<polygon class="st18" points="2078.8,312 2081.6,314.8 2078.8,317.6 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<polygon class="st19" points="2266.7,211.7 2256.2,203 2257.8,216.6 2261.2,214.7 2264.8,221.4 2266,220.8 2262.3,214.1 		"/>
+		<polygon points="2266.7,211.7 2256.2,203 2257.8,216.6 2261.2,214.7 2264.8,221.4 2266,220.8 2262.3,214.1 		"/>
+	</g>
+</g>
+<g>
+	<path class="st0" d="M774.7,728.2H105.9c-8.6,0-15.6-7.1-15.6-15.9V144.2c0-8.8,7-15.9,15.6-15.9h668.7c8.6,0,15.6,7.1,15.6,15.9
+		v568.2C790.3,721.1,783.3,728.2,774.7,728.2z"/>
+	<g>
+		<path class="st20" d="M207.1,222.6v-36c0-6.2-5-11.3-11.1-11.3h-86.1c-6.4,0-11.5,5.3-11.5,11.8v522.1c0,6.5,5.2,11.8,11.5,11.8
+			h660.8c6.4,0,11.5-5.3,11.5-11.8V234c0-6.3-5-11.4-11.2-11.4H207.1z"/>
+		<path class="st20" d="M206.6,222.6v-36c0-6.2,5-11.3,11.1-11.3h95.2c6.4,0,11.5,5.3,11.5,11.8v35.5H771c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8H109.9c-6.4,0-11.5-5.3-11.5-11.8V234c0-6.3,5-11.4,11.2-11.4H206.6z"/>
+		<path class="st20" d="M324,222.6v-36c0-6.2,5-11.3,11.1-11.3h94.2c6.4,0,11.5,5.3,11.5,11.8v35.5H771c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8H109.9c-6.4,0-11.5-5.3-11.5-11.8V234c0-6.3,5-11.4,11.2-11.4H324z"/>
+		<path class="st20" d="M440.8,222.6v-36c0-6.2,5-11.3,11.1-11.3h93.7c6.4,0,11.5,5.3,11.5,11.8v35.5H771c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8H109.9c-6.4,0-11.5-5.3-11.5-11.8V234c0-6.3,5-11.4,11.2-11.4H440.8z"/>
+		<path class="st20" d="M557.2,222.6v-36c0-6.2,5-11.3,11.1-11.3H663c6.4,0,11.5,5.3,11.5,11.8v35.5H771c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8H109.9c-6.4,0-11.5-5.3-11.5-11.8V234c0-6.3,5-11.4,11.2-11.4H557.2z"/>
+		<path class="st1" d="M674.1,222.6v-36c0-6.2,5-11.3,11.1-11.3h85.5c6.4,0,11.5,5.3,11.5,11.8v522.1c0,6.5-5.2,11.8-11.5,11.8
+			H109.9c-6.4,0-11.5-5.3-11.5-11.8V234c0-6.3,5-11.4,11.2-11.4H674.1z"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 139.3977 196.5745)"><tspan x="0" y="0" class="st1 st32 st33">Test</tspan><tspan x="-8.7" y="16.8" class="st1 st32 st33">Runner</tspan></text>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st3" d="M757.7,706.5H122.8c-5.1,0-9.3-4.2-9.3-9.3v-1.4c0-5.1,4.2-9.3,9.3-9.3h634.9c5.1,0,9.3,4.2,9.3,9.3v1.4
+					C767,702.3,762.8,706.5,757.7,706.5z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<circle class="st6" cx="764" cy="152.1" r="7.4"/>
+			<g>
+				<line class="st7" x1="760.3" y1="148.4" x2="767.8" y2="155.9"/>
+				<line class="st7" x1="760.3" y1="155.9" x2="767.8" y2="148.4"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 257.5793 196.5745)"><tspan x="0" y="0" class="st1 st32 st33">Git</tspan><tspan x="-13.8" y="16.8" class="st1 st32 st33">Control</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 359.5942 196.5742)"><tspan x="0" y="0" class="st1 st32 st33">System</tspan><tspan x="-1.6" y="16.8" class="st1 st32 st33">Console</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 479.322 196.574)"><tspan x="0" y="0" class="st1 st32 st33">Server</tspan><tspan x="-14.9" y="16.8" class="st1 st32 st33">Workspace</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 698.9028 204.9868)" class="st2 st9 st33">Terminal</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 604.79 196.5745)"><tspan x="0" y="0" class="st1 st32 st33">File</tspan><tspan x="-2.9" y="16.8" class="st1 st32 st33">Tree</tspan></text>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 133.3293 156.9397)" class="st1 st9 st10">Advanced Tools</text>
+		</g>
+		<g>
+			<path class="st8" d="M113,140.6c-1.4,0-2.7,0.2-4,0.7c-2.9,1.1-5.2,3.2-6.4,6c-1.2,2.8-1.3,5.9-0.2,8.7c1.7,4.5,6.1,7.5,10.8,7.5
+				c1.4,0,2.7-0.2,4-0.7c2.9-1.1,5.2-3.2,6.4-6c1.2-2.8,1.3-5.9,0.2-8.7C122.1,143.6,117.7,140.6,113,140.6z"/>
+		</g>
+		<g>
+			<g>
+				<path d="M114.5,146.8h-2.9c-0.5,0-1,0.4-1,1v0.5c0,0.1-0.1,0.2-0.2,0.2h-2.9c-0.5,0-1,0.4-1,1v7c0,0.5,0.4,0.9,0.9,0.9h11.2
+					c0.5,0,1-0.4,1-1v-7.2c0-0.4-0.3-0.8-0.8-0.8h-3.1c-0.1,0-0.2-0.1-0.2-0.2v-0.5C115.5,147.2,115,146.8,114.5,146.8z
+					 M111.4,147.7c0-0.1,0.1-0.2,0.2-0.2h2.9c0.1,0,0.2,0.1,0.2,0.2v0.5c0,0.1-0.1,0.2-0.2,0.2h-2.9c-0.1,0-0.2-0.1-0.2-0.2V147.7z
+					 M118.8,156.4c0,0.1-0.1,0.2-0.2,0.2h-11.2c-0.1,0-0.2-0.1-0.2-0.2v-4.6c0-0.1,0.1-0.2,0.2-0.2h11.2c0.1,0,0.2,0.1,0.2,0.2
+					V156.4z M118.6,149.2c0.1,0,0.2,0.1,0.2,0.2v1.3c0,0.1-0.1,0.2-0.2,0.2h-11.2c-0.1,0-0.2-0.1-0.2-0.2v-1.3
+					c0-0.1,0.1-0.2,0.2-0.2H118.6z"/>
+			</g>
+			<path d="M109.6,152.1h-0.1c-0.2,0-0.3-0.1-0.3-0.3v-1c0-0.2,0.1-0.3,0.3-0.3h0.1c0.2,0,0.3,0.1,0.3,0.3v1
+				C109.9,151.9,109.8,152.1,109.6,152.1z"/>
+			<path d="M116.6,152.1h-0.1c-0.2,0-0.3-0.1-0.3-0.3v-1c0-0.2,0.1-0.3,0.3-0.3h0.1c0.2,0,0.3,0.1,0.3,0.3v1
+				C116.9,151.9,116.8,152.1,116.6,152.1z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path class="st0" d="M674.4,257.9h-106c-5.2,0-9.5-4.3-9.5-9.5v-1c0-5.2,4.3-9.5,9.5-9.5h106c5.2,0,9.5,4.3,9.5,9.5v1
+						C683.9,253.6,679.6,257.9,674.4,257.9z"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<path class="st6" d="M757.7,257.9h-59.4c-5.1,0-9.3-4.2-9.3-9.3v-1.4c0-5.1,4.2-9.3,9.3-9.3h59.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+						C767,253.7,762.8,257.9,757.7,257.9z"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 697.1362 252.4187)" class="st1 st15 st14">Send signal</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 567.9568 252.4187)" class="st1 st15 st14">Running commands</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st0" d="M760.3,276h-24.2h-1.7l-4.6-12.3c-0.8-1.2-2.6-1-3.4,0.2l-4.7,12.1h-1.3H597.8c-3.8,0-6.8,2.3-6.8,6v109.7
+				c0,3.8,3,8.2,6.8,8.2h162.5c3.8,0,6.7-4.4,6.7-8.2V282C767,278.3,764.1,276,760.3,276z"/>
+			<path class="st1" d="M760.3,394.5H598.4c-1.9,0-3.4-1.5-3.4-3.4V282.3c0-1.9,1.5-3.4,3.4-3.4h161.9c1.9,0,3.4,1.5,3.4,3.4v108.8
+				C763.6,393,762.1,394.5,760.3,394.5z"/>
+		</g>
+		<rect x="598.3" y="281.8" class="st6" width="162" height="15.9"/>
+		<g>
+			<text transform="matrix(1 0 0 1 602.2988 294.1697)" class="st1 st15 st14">SIGHUP</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 602.2988 313.1069)" class="st2 st15 st14">SIGINT</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 602.2988 332.0461)" class="st2 st15 st14">SIGTERM</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 602.2988 388.8604)" class="st2 st15 st14">SIGUSR2</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 602.2988 350.9836)" class="st2 st15 st14">SIGKILL</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 602.2988 369.9219)" class="st2 st15 st14">SIGUSR1</text>
+		</g>
+		<line class="st16" x1="598" y1="299.5" x2="760" y2="299.5"/>
+		<line class="st16" x1="598" y1="318.5" x2="760" y2="318.5"/>
+		<line class="st16" x1="598" y1="338.5" x2="760" y2="338.5"/>
+		<line class="st16" x1="598" y1="356.5" x2="760" y2="356.5"/>
+		<line class="st16" x1="598" y1="375.5" x2="760" y2="375.5"/>
+	</g>
+	<g>
+		<polygon class="st19" points="756.7,257.1 746.2,248.4 747.8,262 751.2,260.1 754.8,266.8 756,266.2 752.3,259.5 		"/>
+		<polygon points="756.7,257.1 746.2,248.4 747.8,262 751.2,260.1 754.8,266.8 756,266.2 752.3,259.5 		"/>
+	</g>
+</g>
+</svg>

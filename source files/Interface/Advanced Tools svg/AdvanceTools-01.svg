@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 872 809.6" style="enable-background:new 0 0 872 809.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'MyriadPro-Bold';}
+	.st1{font-size:30.1109px;}
+	.st2{fill:#4D4D4D;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#808080;}
+	.st5{fill:#F2F2F2;}
+	.st6{fill:#F57C00;}
+	.st7{fill:none;stroke:#FFFFFF;stroke-width:0.8981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st8{fill:#CCCCCC;}
+	.st9{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#4D4D4D;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#E6E6E6;stroke-miterlimit:10;}
+	.st12{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.9519;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st13{fill:#808080;stroke:#808080;stroke-width:0.9519;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st14{fill:none;stroke:#FFFFFF;stroke-width:2.5352;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st15{fill:#808080;stroke:#4D4D4D;stroke-width:0.253;stroke-miterlimit:10;}
+	.st16{fill:none;stroke:#F2F2F2;stroke-width:2.1462;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st17{fill:#E6E6E6;stroke:#CCCCCC;stroke-width:0.5;stroke-miterlimit:10;}
+	.st18{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st19{fill:#141414;}
+	.st20{fill:#F2F2F2;stroke:#E6E6E6;stroke-width:0.3909;stroke-miterlimit:10;}
+	.st21{fill:#F57C00;stroke:#E6E6E6;stroke-width:0.3909;stroke-miterlimit:10;}
+	.st22{fill:#4D4D4D;stroke:#FFFFFF;stroke-width:0.6083;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st23{fill:none;stroke:#FFFFFF;stroke-width:0.807;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st24{fill:#F2F2F2;stroke:#E6E6E6;stroke-width:0.5;stroke-miterlimit:10;}
+	.st25{fill:#E6E7E8;stroke:#E6E7E8;stroke-width:0.8569;stroke-miterlimit:10;}
+	.st26{font-family:'Roboto-Regular';}
+	.st27{font-size:12px;}
+	.st28{fill:#39B54A;}
+	.st29{font-family:'Roboto-Light';}
+	.st30{font-size:14.0211px;}
+	.st31{font-family:'Roboto-Medium';}
+	.st32{font-size:16.65px;}
+</style>
+<text transform="matrix(1 0 0 1 91.6091 69.0837)" class="st0 st1">Advanced Tools Window - Test Runner UI</text>
+<g>
+	<path class="st2" d="M774.9,727.1H106.2c-8.6,0-15.6-7.1-15.6-15.9V143c0-8.8,7-15.9,15.6-15.9h668.7c8.6,0,15.6,7.1,15.6,15.9
+		v568.2C790.5,719.9,783.5,727.1,774.9,727.1z"/>
+	<g>
+		<path class="st15" d="M674.3,221.5v-36c0-6.2,5-11.3,11.1-11.3h85.5c6.4,0,11.5,5.3,11.5,11.8V706c0,6.5-5.2,11.8-11.5,11.8H110.2
+			c-6.4,0-11.5-5.3-11.5-11.8V232.9c0-6.3,5-11.4,11.2-11.4H674.3z"/>
+		<path class="st15" d="M206.8,221.5v-36c0-6.2,5-11.3,11.1-11.3h95.2c6.4,0,11.5,5.3,11.5,11.8v35.5h446.5
+			c6.2,0,11.2,5.1,11.2,11.4V706c0,6.5-5.2,11.8-11.5,11.8H110.2c-6.4,0-11.5-5.3-11.5-11.8V232.9c0-6.3,5-11.4,11.2-11.4H206.8z"/>
+		<path class="st15" d="M324.2,221.5v-36c0-6.2,5-11.3,11.1-11.3h94.2c6.4,0,11.5,5.3,11.5,11.8v35.5h330.2
+			c6.2,0,11.2,5.1,11.2,11.4V706c0,6.5-5.2,11.8-11.5,11.8H110.2c-6.4,0-11.5-5.3-11.5-11.8V232.9c0-6.3,5-11.4,11.2-11.4H324.2z"/>
+		<path class="st15" d="M441.1,221.5v-36c0-6.2,5-11.3,11.1-11.3h93.7c6.4,0,11.5,5.3,11.5,11.8v35.5h213.8
+			c6.2,0,11.2,5.1,11.2,11.4V706c0,6.5-5.2,11.8-11.5,11.8H110.2c-6.4,0-11.5-5.3-11.5-11.8V232.9c0-6.3,5-11.4,11.2-11.4H441.1z"/>
+		<path class="st15" d="M557.4,221.5v-36c0-6.2,5-11.3,11.1-11.3h94.7c6.4,0,11.5,5.3,11.5,11.8v35.5h96.4c6.2,0,11.2,5.1,11.2,11.4
+			V706c0,6.5-5.2,11.8-11.5,11.8H110.2c-6.4,0-11.5-5.3-11.5-11.8V232.9c0-6.3,5-11.4,11.2-11.4H557.4z"/>
+		<path class="st3" d="M207.3,221.5v-36c0-6.2-5-11.3-11.1-11.3h-86.1c-6.4,0-11.5,5.3-11.5,11.8V706c0,6.5,5.2,11.8,11.5,11.8
+			h660.8c6.4,0,11.5-5.3,11.5-11.8V232.9c0-6.3-5-11.4-11.2-11.4H207.3z"/>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st8" d="M654.8,256.5H119.6c-5.1,0-9.3-4.2-9.3-9.3v-1.4c0-5.1,4.2-9.3,9.3-9.3h535.2c5.1,0,9.3,4.2,9.3,9.3v1.4
+					C664,252.3,659.9,256.5,654.8,256.5z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st2" d="M762.3,256.5h-79.2c-5.1,0-9.3-4.2-9.3-9.3v-1.4c0-5.1,4.2-9.3,9.3-9.3h79.2c5.1,0,9.3,4.2,9.3,9.3v1.4
+					C771.6,252.3,767.4,256.5,762.3,256.5z"/>
+			</g>
+		</g>
+		<text transform="matrix(1 0 0 1 687.9795 250.6362)" class="st3 st26 st27">Load Module</text>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path class="st28" d="M430.2,708.9H116c-5.1,0-9.3-4.2-9.3-9.3v-1.4c0-5.1,4.2-9.3,9.3-9.3h314.2c5.1,0,9.3,4.2,9.3,9.3v1.4
+						C439.4,704.7,435.3,708.9,430.2,708.9z"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 231.4016 703.0764)" class="st3 st26 st27">62 run, 0 failed</text>
+		</g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<path class="st2" d="M621.2,708.9h-46.9c-5,0-9.1-4.1-9.1-9.1v-1.8c0-5,4.1-9.1,9.1-9.1h46.9c5,0,9.1,4.1,9.1,9.1v1.8
+							C630.3,704.8,626.2,708.9,621.2,708.9z"/>
+					</g>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 577.8574 703.0764)" class="st3 st26 st27">Browse</text>
+				</g>
+			</g>
+			<g>
+				<g>
+					<g>
+						<path class="st2" d="M550.7,708.9h-46.9c-5,0-9.1-4.1-9.1-9.1v-1.8c0-5,4.1-9.1,9.1-9.1h46.9c5,0,9.1,4.1,9.1,9.1v1.8
+							C559.8,704.8,555.7,708.9,550.7,708.9z"/>
+					</g>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 512.1837 703.0764)" class="st3 st26 st27">Reset</text>
+				</g>
+			</g>
+			<g>
+				<g>
+					<g>
+						<path class="st2" d="M691.7,708.9h-46.9c-5,0-9.1-4.1-9.1-9.1v-1.8c0-5,4.1-9.1,9.1-9.1h46.9c5,0,9.1,4.1,9.1,9.1v1.8
+							C700.7,704.8,696.7,708.9,691.7,708.9z"/>
+					</g>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 649.6011 703.0764)" class="st3 st26 st27">Brench</text>
+				</g>
+			</g>
+			<g>
+				<g>
+					<g>
+						<path class="st2" d="M762.5,708.9h-46.9c-5,0-9.1-4.1-9.1-9.1v-1.8c0-5,4.1-9.1,9.1-9.1h46.9c5,0,9.1,4.1,9.1,9.1v1.8
+							C771.6,704.8,767.5,708.9,762.5,708.9z"/>
+					</g>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 728.7722 703.0764)" class="st3 st26 st27">Run</text>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 257.8074 195.3952)"><tspan x="0" y="0" class="st3 st29 st30">Git</tspan><tspan x="-13.8" y="16.8" class="st3 st29 st30">Control</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 359.8225 195.395)"><tspan x="0" y="0" class="st3 st29 st30">System</tspan><tspan x="-1.6" y="16.8" class="st3 st29 st30">Console</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 479.55 195.3947)"><tspan x="0" y="0" class="st3 st29 st30">Server</tspan><tspan x="-14.9" y="16.8" class="st3 st29 st30">Workspace</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 699.6243 203.8076)" class="st3 st29 st30">Terminal</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 605.0178 195.3952)"><tspan x="0" y="0" class="st3 st29 st30">File</tspan><tspan x="-2.9" y="16.8" class="st3 st29 st30">Tree</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 139.4382 195.3952)"><tspan x="0" y="0" class="st4 st31 st30">Test</tspan><tspan x="-8.8" y="16.8" class="st4 st31 st30">Runner</tspan></text>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_15_" x="122.5" y="239.8" width="217.6" height="15.4"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_15_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_2_);">
+			
+				<image style="overflow:visible;" width="480" height="618" xlink:href="75897384ACFC33EE.jpg"  transform="matrix(0.8819 0 0 0.8819 106.8901 210.1974)">
+			</image>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(0.9952 0 0 1 121.7686 289.5295)"><tspan x="0" y="0" class="st6 st26 st27">TestSuiteTest </tspan><tspan x="0" y="14.4" class="st4 st26 st27">lively</tspan><tspan x="0" y="28.8" class="st4 st26 st27">     tests</tspan><tspan x="0" y="43.2" class="st4 st26 st27">          TestsFrameworkTests</tspan><tspan x="0" y="57.6" class="st4 st26 st27">               AsyncTestCaseTest</tspan><tspan x="0" y="72" class="st4 st26 st27">           </tspan><tspan x="32.8" y="72" class="st6 st26 st27">    MockTest</tspan><tspan x="0" y="86.4" class="st6 st26 st27">               NativeStackTest</tspan><tspan x="0" y="100.8" class="st6 st26 st27">               TestCaseTest</tspan><tspan x="0" y="115.2" class="st6 st26 st27">               TestResultTest</tspan></text>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st13" points="112.8,282.1 115.6,284.9 112.8,287.7 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st13" points="160.6,398.2 163.4,400.9 160.6,403.7 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st13" points="160.6,383.7 163.4,386.4 160.6,389.2 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st13" points="160.6,369.1 163.4,371.9 160.6,374.7 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st13" points="160.6,354.6 163.4,357.4 160.6,360.2 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st13" points="160.6,340.1 163.4,342.9 160.6,345.7 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st13" points="118.4,298.4 115.6,301.2 112.8,298.4 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st13" points="133.4,313.5 130.6,316.3 127.8,313.5 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st13" points="148.4,327.5 145.6,330.3 142.8,327.5 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 133.5573 155.7605)" class="st3 st31 st32">Advanced Tools</text>
+		</g>
+		<g>
+			<path class="st8" d="M113.2,139.4c-1.4,0-2.7,0.2-4,0.7c-2.9,1.1-5.2,3.2-6.4,6c-1.2,2.8-1.3,5.9-0.2,8.7
+				c1.7,4.5,6.1,7.5,10.8,7.5c1.4,0,2.7-0.2,4-0.7c2.9-1.1,5.2-3.2,6.4-6c1.2-2.8,1.3-5.9,0.2-8.7
+				C122.3,142.4,118,139.4,113.2,139.4z"/>
+		</g>
+		<g>
+			<g>
+				<path d="M114.7,145.6h-2.9c-0.5,0-1,0.4-1,1v0.5c0,0.1-0.1,0.2-0.2,0.2h-2.9c-0.5,0-1,0.4-1,1v7c0,0.5,0.4,0.9,0.9,0.9h11.2
+					c0.5,0,1-0.4,1-1V148c0-0.4-0.3-0.8-0.8-0.8h-3.1c-0.1,0-0.2-0.1-0.2-0.2v-0.5C115.7,146,115.3,145.6,114.7,145.6z M111.6,146.6
+					c0-0.1,0.1-0.2,0.2-0.2h2.9c0.1,0,0.2,0.1,0.2,0.2v0.5c0,0.1-0.1,0.2-0.2,0.2h-2.9c-0.1,0-0.2-0.1-0.2-0.2V146.6z M119.1,155.2
+					c0,0.1-0.1,0.2-0.2,0.2h-11.2c-0.1,0-0.2-0.1-0.2-0.2v-4.6c0-0.1,0.1-0.2,0.2-0.2h11.2c0.1,0,0.2,0.1,0.2,0.2V155.2z M118.9,148
+					c0.1,0,0.2,0.1,0.2,0.2v1.3c0,0.1-0.1,0.2-0.2,0.2h-11.2c-0.1,0-0.2-0.1-0.2-0.2v-1.3c0-0.1,0.1-0.2,0.2-0.2H118.9z"/>
+			</g>
+			<path d="M109.9,150.9h-0.1c-0.2,0-0.3-0.1-0.3-0.3v-1c0-0.2,0.1-0.3,0.3-0.3h0.1c0.2,0,0.3,0.1,0.3,0.3v1
+				C110.2,150.8,110,150.9,109.9,150.9z"/>
+			<path d="M116.9,150.9h-0.1c-0.2,0-0.3-0.1-0.3-0.3v-1c0-0.2,0.1-0.3,0.3-0.3h0.1c0.2,0,0.3,0.1,0.3,0.3v1
+				C117.2,150.8,117,150.9,116.9,150.9z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<circle class="st6" cx="764.2" cy="150.9" r="7.4"/>
+				<g>
+					<line class="st7" x1="760.5" y1="147.3" x2="768" y2="154.7"/>
+					<line class="st7" x1="760.5" y1="154.7" x2="768" y2="147.3"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<circle class="st8" cx="739.2" cy="150.9" r="7.4"/>
+			<g>
+				<g>
+					<path class="st2" d="M743.2,151.6h-8c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5h8c0.3,0,0.5,0.2,0.5,0.5S743.4,151.6,743.2,151.6
+						z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1313.9 809.6" style="enable-background:new 0 0 1313.9 809.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{font-family:'MyriadPro-Bold';}
+	.st2{font-size:30.1109px;}
+	.st3{fill:#4D4D4D;}
+	.st4{fill:#808080;stroke:#4D4D4D;stroke-width:0.2524;stroke-miterlimit:10;}
+	.st5{fill:#F57C00;}
+	.st6{fill:none;stroke:#FFFFFF;stroke-width:0.8981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{font-family:'Roboto-Medium';}
+	.st8{font-size:16.65px;}
+	.st9{fill:#CCCCCC;}
+	.st10{fill:#808080;}
+	.st11{font-size:14px;}
+	.st12{font-family:'Roboto-Light';}
+	.st13{fill:#F2F2F2;}
+	.st14{font-family:'Roboto-Regular';}
+	.st15{fill:none;stroke:#F57C00;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st16{font-size:12px;}
+	.st17{fill:#00FFFF;}
+	.st18{fill:none;stroke:#00FFFF;stroke-miterlimit:10;}
+	.st19{font-family:'Roboto-Bold';}
+	.st20{font-size:12.7509px;}
+	.st21{font-size:14.0195px;}
+	.st22{font-size:11.9174px;}
+	.st23{opacity:0.5;fill:#FFFFFF;}
+	.st24{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st25{fill:#39B54A;}
+	.st26{fill:#FF1D25;}
+</style>
+<text transform="matrix(1 0 0 1 91.2673 74.384)" class="st1 st2">Settings Window - UI</text>
+<path id="bck_9_" class="st3" d="M780.6,729.3H111.9c-8.6,0-15.6-7.1-15.6-15.9V145.2c0-8.8,7-15.9,15.6-15.9h668.7
+	c8.6,0,15.6,7.1,15.6,15.9v568.2C796.3,722.2,789.3,729.3,780.6,729.3z"/>
+<g>
+	<path class="st4" d="M560.1,223.4v-35.7c0-6.2,5-11.2,11.1-11.2h206c6.4,0,11.6,5.2,11.6,11.7v520.3c0,6.4-5.2,12.7-11.6,12.7
+		H115.4c-6.4,0-11.6-6.3-11.6-12.7l0-474.7c0-6.3,5-10.3,11.2-10.3H560.1z"/>
+	<path class="st4" d="M559.9,223.4v-35.7c0-6.2-5-11.2-11.1-11.2H343.7c-6.4,0-11.6,5.2-11.6,11.7v35.3H114.5
+		c-5.9,0-10.7,4.8-10.7,10.7v475.5c0,6.4,5.2,11.7,11.6,11.7h661.9c6.4,0,11.6-5.2,11.6-11.7V234.8c0-6.3-5-11.3-11.2-11.3H559.9z"
+		/>
+	<path class="st0" d="M332,223.4v-35.7c0-6.2-5-11.2-11.1-11.2H115.4c-6.4,0-11.6,5.2-11.6,11.7v521.5c0,6.4,5.2,11.7,11.6,11.7
+		h661.9c6.4,0,11.6-5.2,11.6-11.7V234.8c0-6.3-5-11.3-11.2-11.3H332z"/>
+</g>
+<g>
+	<g>
+		<g>
+			<circle class="st5" cx="771.7" cy="152.9" r="7.4"/>
+			<g>
+				<line class="st6" x1="768" y1="149.2" x2="775.5" y2="156.7"/>
+				<line class="st6" x1="768" y1="156.7" x2="775.5" y2="149.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 144.3286 158.6669)" class="st0 st7 st8">Settings</text>
+	<g>
+		<path class="st9" d="M126,141.4c-1.4,0-2.7,0.2-4,0.7c-2.9,1.1-5.2,3.3-6.4,6.1c-1.2,2.8-1.3,5.9-0.2,8.8c1.7,4.5,6,7.5,10.8,7.5
+			c1.4,0,2.7-0.2,4-0.7c2.9-1.1,5.2-3.3,6.4-6.1c1.2-2.8,1.3-5.9,0.2-8.8C135.1,144.4,130.7,141.4,126,141.4z"/>
+	</g>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 190.3018 196.8303)"><tspan x="0" y="0" class="st10 st7 st11">Account </tspan><tspan x="-15.1" y="16.8" class="st10 st7 st11">Configuration</tspan></text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 637.8057 205.2429)" class="st0 st12 st11">Preferences</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 426.498 196.8303)"><tspan x="0" y="0" class="st0 st12 st11">World </tspan><tspan x="-22" y="16.8" class="st0 st12 st11">Configuration</tspan></text>
+</g>
+<g>
+	<g>
+		<g>
+			<path class="st13" d="M736,323.7H256c-5.5,0-10-4.5-10-10l0,0c0-5.5,4.5-10,10-10h480c5.5,0,10,4.5,10,10l0,0
+				C746,319.2,741.5,323.7,736,323.7z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path class="st13" d="M736,358.2H256c-5.5,0-10-4.5-10-10l0,0c0-5.5,4.5-10,10-10h480c5.5,0,10,4.5,10,10l0,0
+				C746,353.7,741.5,358.2,736,358.2z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 146.0001 317.7928)" class="st10 st14 st11">Username</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 146.0001 352.2639)" class="st10 st14 st11">Email</text>
+</g>
+<g>
+	<g>
+		<g>
+			<g>
+				<path class="st13" d="M736,519H306c-5.5,0-10-4.5-10-10v0c0-5.5,4.5-10,10-10h430c5.5,0,10,4.5,10,10v0
+					C746,514.5,741.5,519,736,519z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st13" d="M736,553.5H306c-5.5,0-10-4.5-10-10l0,0c0-5.5,4.5-10,10-10h430c5.5,0,10,4.5,10,10l0,0
+					C746,549,741.5,553.5,736,553.5z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st13" d="M736,588H306c-5.5,0-10-4.5-10-10v0c0-5.5,4.5-10,10-10h430c5.5,0,10,4.5,10,10v0
+					C746,583.5,741.5,588,736,588z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 146.0001 457.3386)" class="st5 st7 st11">Update Password</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 145.9999 513.1292)" class="st10 st14 st11">Current Password</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 145.9999 547.6003)" class="st10 st14 st11">New Password</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 145.9999 582.0715)" class="st10 st14 st11">Retype </text>
+	</g>
+</g>
+<line class="st15" x1="146" y1="402.6" x2="746" y2="402.6"/>
+<g>
+	<g>
+		<g>
+			<path class="st5" d="M736.9,664.7h-46.8c-5,0-9.1-4.1-9.1-9.1v-1.8c0-5,4.1-9.1,9.1-9.1h46.8c5,0,9.1,4.1,9.1,9.1v1.8
+				C746,660.6,741.9,664.7,736.9,664.7z"/>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 699.6656 658.8223)" class="st0 st14 st16">Save</text>
+	</g>
+</g>
+<path class="st3" d="M126,159.8c-0.7,0-1.3-0.4-1.6-1.1c-0.1-0.2-0.2-0.4-0.4-0.6c-0.1-0.1-0.2-0.1-0.4-0.1c-0.2,0-0.4,0-0.6,0.1
+	c-0.2,0.1-0.5,0.2-0.7,0.2c-0.8,0-1.6-0.5-1.7-1.5c0-0.3,0-0.6,0.1-0.8c0.1-0.2,0.1-0.4,0.1-0.7c0-0.1-0.1-0.3-0.2-0.4
+	c-0.1-0.1-0.3-0.3-0.5-0.3c-0.6-0.2-1-0.7-1-1.4c-0.1-0.7,0.4-1.4,1-1.7c0.3-0.1,0.5-0.3,0.7-0.5c0-0.1,0.1-0.1,0.1-0.2
+	c0-0.3,0-0.5-0.1-0.7c-0.2-0.5-0.2-1.1,0.1-1.5c0.3-0.5,0.7-0.8,1.3-0.8c0.3,0,0.6,0,0.9,0.1c0.2,0.1,0.5,0.1,0.7,0.1
+	c0.1,0,0.2,0,0.4-0.2c0.1-0.1,0.2-0.3,0.3-0.5c0.3-0.6,0.9-1.1,1.6-1.1c0.7,0,1.3,0.4,1.6,1.1c0.1,0.2,0.2,0.4,0.4,0.6
+	c0.1,0.1,0.2,0.1,0.4,0.1c0.2,0,0.4,0,0.6-0.1c0.6-0.3,1.4-0.1,1.9,0.3c0.5,0.5,0.6,1.2,0.4,1.9c-0.1,0.2-0.1,0.4-0.1,0.6
+	c0,0.1,0,0.3,0.3,0.5c0.1,0.1,0.3,0.2,0.5,0.3c0.6,0.3,1.1,0.9,1.1,1.6c0,0.7-0.4,1.3-1.1,1.6c-0.2,0.1-0.4,0.2-0.6,0.4
+	c-0.1,0.1-0.1,0.2-0.1,0.4c0,0.2,0,0.4,0.1,0.6c0.3,0.6,0.2,1.3-0.2,1.8c-0.3,0.4-0.8,0.6-1.3,0.6l0,0c-0.1,0-0.2,0-0.3,0
+	c-0.2,0-0.3-0.1-0.4-0.1c0,0-0.1,0-0.1-0.1c-0.2-0.1-0.4-0.1-0.6-0.1c-0.1,0-0.2,0-0.3,0.2c-0.1,0.1-0.2,0.3-0.3,0.5
+	C127.4,159.3,126.7,159.8,126,159.8L126,159.8z M123.7,157.1c0.4,0,0.7,0.1,1,0.4c0.3,0.3,0.5,0.6,0.6,0.9c0.1,0.3,0.4,0.5,0.7,0.5
+	v0.5l0-0.5c0.3,0,0.6-0.2,0.7-0.5c0.1-0.3,0.3-0.6,0.5-0.8c0.3-0.3,0.6-0.5,0.9-0.5c0.3,0,0.6,0,0.9,0.1c0.1,0,0.2,0.1,0.2,0.1
+	c0.1,0,0.1,0.1,0.2,0.1c0.3,0.1,0.6,0,0.8-0.2c0.2-0.3,0.2-0.5,0.1-0.8c-0.1-0.3-0.2-0.6-0.2-0.9c0-0.4,0.1-0.8,0.4-1
+	c0.3-0.3,0.6-0.5,0.9-0.6c0.3-0.1,0.5-0.4,0.5-0.7c0-0.3-0.2-0.6-0.5-0.7c-0.3-0.1-0.5-0.3-0.7-0.4c-0.4-0.3-0.6-0.8-0.6-1.3
+	c0-0.3,0.1-0.7,0.2-0.9c0.1-0.3,0.1-0.6-0.1-0.8c-0.2-0.2-0.6-0.3-0.8-0.1c-0.3,0.1-0.6,0.2-1,0.2h0c-0.4,0-0.8-0.1-1-0.4
+	c-0.3-0.3-0.5-0.6-0.6-0.9c-0.1-0.3-0.4-0.5-0.7-0.5c-0.3,0-0.6,0.2-0.7,0.5c-0.1,0.3-0.3,0.5-0.5,0.7c-0.2,0.2-0.5,0.5-1,0.5
+	c-0.4,0-0.8,0-1.2-0.2c-0.1-0.1-0.3-0.1-0.4-0.1c-0.3,0-0.5,0.2-0.6,0.3c-0.1,0.2-0.1,0.5,0,0.7c0.2,0.4,0.2,0.8,0.2,1.2
+	c0,0.3-0.1,0.5-0.2,0.7c-0.3,0.4-0.6,0.6-1.1,0.8c-0.3,0.1-0.5,0.5-0.4,0.7c0,0.3,0.2,0.5,0.5,0.7c0.3,0.1,0.6,0.3,0.8,0.5
+	c0.3,0.3,0.5,0.7,0.5,1.1c0,0.4-0.1,0.7-0.2,1c-0.1,0.1-0.1,0.2-0.1,0.4c0.1,0.5,0.5,0.7,0.8,0.7c0.1,0,0.2,0,0.3-0.1
+	C123,157.1,123.3,157.1,123.7,157.1z M126.1,155.8c-0.8,0-1.5-0.3-2-0.8c-0.5-0.5-0.8-1.2-0.8-2c0-1.5,1.3-2.8,2.8-2.8h0
+	c0.8,0,1.5,0.3,2,0.8c0.5,0.5,0.8,1.2,0.8,2C128.8,154.5,127.6,155.8,126.1,155.8z M126,150.6v0.5c-1,0-1.9,0.8-1.9,1.9
+	c0,0.5,0.2,1,0.5,1.3c0.4,0.4,0.8,0.5,1.3,0.6c1,0,1.9-0.8,1.9-1.9c0-0.5-0.2-1-0.5-1.3c-0.4-0.4-0.8-0.6-1.3-0.6L126,150.6z"/>
+<rect x="716.1" y="223.6" class="st17" width="5" height="80"/>
+<rect x="716.1" y="358.3" class="st17" width="5" height="43"/>
+<rect x="745.9" y="311.3" class="st17" width="43" height="5"/>
+<text transform="matrix(1 0 0 1 682.6875 267.1364)" class="st10 st14 st16">80px</text>
+<text transform="matrix(1 0 0 1 754.3647 307.5092)" class="st10 st14 st16">43px</text>
+<text transform="matrix(1 0 0 1 682.6875 384.0634)" class="st10 st14 st16">43px</text>
+<rect x="716.4" y="588.3" class="st17" width="5" height="56"/>
+<text transform="matrix(1 0 0 1 682.6877 620.9377)" class="st10 st14 st16">56px</text>
+<rect x="716.4" y="665.3" class="st17" width="5" height="56"/>
+<text transform="matrix(1 0 0 1 682.6877 697.9077)" class="st10 st14 st16">56px</text>
+<rect x="152.1" y="403.6" class="st17" width="5" height="43"/>
+<text transform="matrix(1 0 0 1 162.8489 429.3968)" class="st10 st14 st16">43px</text>
+<rect x="152.1" y="460.3" class="st17" width="5" height="43"/>
+<text transform="matrix(1 0 0 1 162.8489 486.0634)" class="st10 st14 st16">43px</text>
+<rect x="608" y="588.3" class="st17" width="5" height="133"/>
+<text transform="matrix(1 0 0 1 571.6821 658.029)" class="st10 st14 st16">133px</text>
+<rect x="103.9" y="311.3" class="st17" width="43" height="5"/>
+<text transform="matrix(1 0 0 1 112.3208 307.5092)" class="st10 st14 st16">43px</text>
+<rect x="145.3" y="392.5" class="st17" width="601.7" height="5"/>
+<text transform="matrix(1 0 0 1 429.7949 387.446)" class="st10 st14 st16">600px</text>
+<rect x="246" y="345.6" class="st17" width="500" height="5"/>
+<text transform="matrix(1 0 0 1 479.5967 342.6151)" class="st10 st14 st16">600px</text>
+<rect x="246" y="311" class="st17" width="500" height="5"/>
+<text transform="matrix(1 0 0 1 479.5967 307.9731)" class="st10 st14 st16">600px</text>
+<rect x="297.1" y="506" class="st17" width="450" height="5"/>
+<text transform="matrix(1 0 0 1 505.6514 502.9948)" class="st10 st14 st16">450px</text>
+<g>
+	<rect x="753" y="644.7" class="st17" width="65" height="20"/>
+	<text transform="matrix(1 0 0 1 759.7537 658.9584)" class="st10 st14 st16">65 x 20px</text>
+</g>
+<line class="st18" x1="746.5" y1="130.6" x2="746.5" y2="729.6"/>
+<line class="st18" x1="145.5" y1="130.6" x2="145.5" y2="729.6"/>
+<text transform="matrix(1 0 0 1 878.5859 150.5423)"><tspan x="0" y="0" class="st3 st19 st20">H3 highlighted: Roboto - Medium - 14 pixels - #4d4d4d</tspan><tspan x="0" y="15.3" class="st3 st14 st20">{</tspan><tspan x="0" y="30.6" class="st3 st14 st20">  font-family : Roboto;</tspan><tspan x="0" y="45.9" class="st3 st14 st20">  font-size : 14px;</tspan><tspan x="0" y="61.2" class="st3 st14 st20">  color : #4d4d4d;</tspan><tspan x="0" y="76.5" class="st3 st14 st20">  color : rgb(128, 128, 128);</tspan><tspan x="0" y="91.8" class="st3 st14 st20">}</tspan><tspan x="0" y="122.4" class="st3 st19 st20">H3 not highlighted: Roboto - Regular - 14 pixels - #f57c00</tspan><tspan x="0" y="137.7" class="st3 st14 st20">{</tspan><tspan x="0" y="153" class="st3 st14 st20">  font-family : Roboto;</tspan><tspan x="0" y="168.3" class="st3 st14 st20">  font-size : 14px;</tspan><tspan x="0" y="183.6" class="st3 st14 st20">  color : #f57c00;</tspan><tspan x="0" y="198.9" class="st3 st14 st20">  color : rgb(128, 128, 128);</tspan><tspan x="0" y="214.2" class="st3 st14 st20">}</tspan></text>
+<g>
+	<ellipse class="st9" cx="254.2" cy="454.8" rx="14.8" ry="14.3"/>
+	<text transform="matrix(1.0335 0 0 1 244.9308 458.8573)" class="st3 st19 st21">H3</text>
+</g>
+<g>
+	<ellipse class="st9" cx="207.1" cy="311.8" rx="12.5" ry="12.1"/>
+	<text transform="matrix(1.0335 0 0 1 199.1769 315.2918)" class="st3 st19 st22">H3</text>
+</g>
+<g>
+	<g>
+		<g>
+			<g>
+				<path class="st10" d="M912.2,502.5c-3.8,0-6.5,3.1-6.5,6.9v96.7c0,3.8,2.7,7.4,6.5,7.4h222.5c3.8,0,7-3.6,7-7.4v-96.7
+					c0-3.8-3.2-6.9-7-6.9H912.2z"/>
+				<path class="st0" d="M1134.7,608.8H912.8c-1.9,0-3.4-1.5-3.4-3.4v-95.8c0-1.9,1.5-3.4,3.4-3.4h221.9c1.9,0,3.4,1.5,3.4,3.4v95.8
+					C1138,607.3,1136.5,608.8,1134.7,608.8z"/>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 920.603 540.412)"><tspan x="0" y="0" class="st10 st14 st16">Do you really want to revert blank.html </tspan><tspan x="0" y="14.4" class="st10 st14 st16">to its version from 15/06/01 01:05:33?</tspan></text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<path class="st10" d="M1082.1,594.4h-46.8c-5,0-9.1-4.1-9.1-9.1v-1.8c0-5,4.1-9.1,9.1-9.1h46.8c5,0,9.1,4.1,9.1,9.1v1.8
+						C1091.2,590.3,1087.1,594.4,1082.1,594.4z"/>
+				</g>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1050.8213 587.9142)" class="st0 st14 st16">OK</text>
+			</g>
+			<g>
+				<g>
+					<path class="st10" d="M1012.1,594.4h-46.8c-5,0-9.1-4.1-9.1-9.1v-1.8c0-5,4.1-9.1,9.1-9.1h46.8c5,0,9.1,4.1,9.1,9.1v1.8
+						C1021.2,590.3,1017.1,594.4,1012.1,594.4z"/>
+				</g>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 970.4558 587.9142)" class="st0 st14 st16">Cancel</text>
+			</g>
+		</g>
+	</g>
+	<rect x="906" y="510.1" class="st17" width="235.5" height="2.6"/>
+	<rect x="1130.6" y="502.5" class="st17" width="3" height="111"/>
+	<text transform="matrix(1 0 0 1 1007.3076 496.341)" class="st10 st14 st16">236px</text>
+	<text transform="matrix(1 0 0 1 1150.1462 562.7977)" class="st10 st14 st16">111px</text>
+	<g>
+		<rect x="955.9" y="581.6" class="st17" width="65" height="20"/>
+		<text transform="matrix(1 0 0 1 962.6428 595.8034)" class="st10 st14 st16">65 x 20px</text>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 904 809.6" style="enable-background:new 0 0 904 809.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'MyriadPro-Bold';}
+	.st1{font-size:30.1109px;}
+	.st2{fill:#4D4D4D;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#808080;}
+	.st5{fill:#F2F2F2;}
+	.st6{fill:#F57C00;}
+	.st7{fill:none;stroke:#FFFFFF;stroke-width:0.8981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st8{fill:#CCCCCC;}
+	.st9{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#4D4D4D;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#E6E6E6;stroke-miterlimit:10;}
+	.st12{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.9519;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st13{fill:#808080;stroke:#808080;stroke-width:0.9519;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st14{fill:none;stroke:#FFFFFF;stroke-width:2.5352;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st15{fill:#808080;stroke:#4D4D4D;stroke-width:0.253;stroke-miterlimit:10;}
+	.st16{fill:none;stroke:#F2F2F2;stroke-width:2.1462;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st17{font-family:'Roboto-Light';}
+	.st18{font-size:14.0211px;}
+	.st19{font-family:'Roboto-Medium';}
+	.st20{font-family:'Helvetica';}
+	.st21{font-size:12px;}
+	.st22{font-size:16.65px;}
+	.st23{fill:#E6E6E6;stroke:#CCCCCC;stroke-width:0.5;stroke-miterlimit:10;}
+	.st24{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st25{fill:#141414;}
+	.st26{fill:#F2F2F2;stroke:#E6E6E6;stroke-width:0.3909;stroke-miterlimit:10;}
+	.st27{fill:#F57C00;stroke:#E6E6E6;stroke-width:0.3909;stroke-miterlimit:10;}
+	.st28{fill:#4D4D4D;stroke:#FFFFFF;stroke-width:0.6083;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st29{fill:none;stroke:#FFFFFF;stroke-width:0.807;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st30{fill:#F2F2F2;stroke:#E6E6E6;stroke-width:0.5;stroke-miterlimit:10;}
+	.st31{fill:#E6E7E8;stroke:#E6E7E8;stroke-width:0.8569;stroke-miterlimit:10;}
+	.st32{fill:#39B54A;}
+</style>
+<text transform="matrix(1 0 0 1 91.8292 70.2628)" class="st0 st1">Advanced Tools Window - Server Workspace Console UI</text>
+<g>
+	<path class="st2" d="M775.1,728.2H106.4c-8.6,0-15.6-7.1-15.6-15.9V144.2c0-8.8,7-15.9,15.6-15.9h668.7c8.6,0,15.6,7.1,15.6,15.9
+		v568.2C790.7,721.1,783.7,728.2,775.1,728.2z"/>
+	<g>
+		<path class="st15" d="M674.5,222.6v-36c0-6.2,5-11.3,11.1-11.3h85.5c6.4,0,11.5,5.3,11.5,11.8v522.1c0,6.5-5.2,11.8-11.5,11.8
+			H110.4c-6.4,0-11.5-5.3-11.5-11.8V234c0-6.3,5-11.4,11.2-11.4H674.5z"/>
+		<path class="st15" d="M557.6,222.6v-36c0-6.2,5-11.3,11.1-11.3h94.7c6.4,0,11.5,5.3,11.5,11.8v35.5h96.4c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8H110.4c-6.4,0-11.5-5.3-11.5-11.8V234c0-6.3,5-11.4,11.2-11.4H557.6z"/>
+		<path class="st15" d="M207.6,222.6v-36c0-6.2-5-11.3-11.1-11.3h-86.1c-6.4,0-11.5,5.3-11.5,11.8v522.1c0,6.5,5.2,11.8,11.5,11.8
+			h660.8c6.4,0,11.5-5.3,11.5-11.8V234c0-6.3-5-11.4-11.2-11.4H207.6z"/>
+		<path class="st15" d="M207.1,222.6v-36c0-6.2,5-11.3,11.1-11.3h95.2c6.4,0,11.5,5.3,11.5,11.8v35.5h446.5
+			c6.2,0,11.2,5.1,11.2,11.4v475.1c0,6.5-5.2,11.8-11.5,11.8H110.4c-6.4,0-11.5-5.3-11.5-11.8V234c0-6.3,5-11.4,11.2-11.4H207.1z"/>
+		<path class="st15" d="M324.4,222.6v-36c0-6.2,5-11.3,11.1-11.3h94.2c6.4,0,11.5,5.3,11.5,11.8v35.5h330.2
+			c6.2,0,11.2,5.1,11.2,11.4v475.1c0,6.5-5.2,11.8-11.5,11.8H110.4c-6.4,0-11.5-5.3-11.5-11.8V234c0-6.3,5-11.4,11.2-11.4H324.4z"/>
+		<path class="st3" d="M441.3,222.6v-36c0-6.2,5-11.3,11.1-11.3h93.7c6.4,0,11.5,5.3,11.5,11.8v35.5h213.8c6.2,0,11.2,5.1,11.2,11.4
+			v475.1c0,6.5-5.2,11.8-11.5,11.8H110.4c-6.4,0-11.5-5.3-11.5-11.8V234c0-6.3,5-11.4,11.2-11.4H441.3z"/>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st5" d="M763.3,258.7H119.8c-5.1,0-9.3-4.2-9.3-9.3V248c0-5.1,4.2-9.3,9.3-9.3h643.4c5.1,0,9.3,4.2,9.3,9.3v1.4
+					C772.5,254.5,768.4,258.7,763.3,258.7z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 258.0275 196.5744)"><tspan x="0" y="0" class="st3 st17 st18">Git</tspan><tspan x="-13.8" y="16.8" class="st3 st17 st18">Control</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 360.0425 196.5742)"><tspan x="0" y="0" class="st3 st17 st18">System</tspan><tspan x="-1.6" y="16.8" class="st3 st17 st18">Console</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 479.1716 196.5739)"><tspan x="0" y="0" class="st4 st19 st18">Server</tspan><tspan x="-14.9" y="16.8" class="st4 st19 st18">Workspace</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 699.8444 204.9868)" class="st3 st17 st18">Terminal</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 605.2382 196.5744)"><tspan x="0" y="0" class="st3 st17 st18">File</tspan><tspan x="-2.9" y="16.8" class="st3 st17 st18">Tree</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 139.8458 196.5744)"><tspan x="0" y="0" class="st3 st17 st18">Test</tspan><tspan x="-8.7" y="16.8" class="st3 st17 st18">Runner</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 120.1375 253.1554)" class="st4 st20 st21">http://cdm.lively-web.org/nodejs/NodeJSEvalServer/</text>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="120.1" y="278.8" width="314.2" height="55.2"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_2_);">
+			
+				<image style="overflow:visible;" width="608" height="305" xlink:href="759A499E2118DC80.jpg"  transform="matrix(0.829 0 0 0.829 112.5654 257.6715)">
+			</image>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 133.7776 156.9396)" class="st3 st19 st22">Advanced Tools</text>
+		</g>
+		<g>
+			<path class="st8" d="M113.4,140.6c-1.4,0-2.7,0.2-4,0.7c-2.9,1.1-5.2,3.2-6.4,6c-1.2,2.8-1.3,5.9-0.2,8.7
+				c1.7,4.5,6.1,7.5,10.8,7.5c1.4,0,2.7-0.2,4-0.7c2.9-1.1,5.2-3.2,6.4-6c1.2-2.8,1.3-5.9,0.2-8.7
+				C122.5,143.6,118.2,140.6,113.4,140.6z"/>
+		</g>
+		<g>
+			<g>
+				<path d="M115,146.8H112c-0.5,0-1,0.4-1,1v0.5c0,0.1-0.1,0.2-0.2,0.2h-2.9c-0.5,0-1,0.4-1,1v7c0,0.5,0.4,0.9,0.9,0.9h11.2
+					c0.5,0,1-0.4,1-1v-7.2c0-0.4-0.3-0.8-0.8-0.8h-3.1c-0.1,0-0.2-0.1-0.2-0.2v-0.5C115.9,147.2,115.5,146.8,115,146.8z
+					 M111.8,147.7c0-0.1,0.1-0.2,0.2-0.2h2.9c0.1,0,0.2,0.1,0.2,0.2v0.5c0,0.1-0.1,0.2-0.2,0.2H112c-0.1,0-0.2-0.1-0.2-0.2V147.7z
+					 M119.3,156.4c0,0.1-0.1,0.2-0.2,0.2h-11.2c-0.1,0-0.2-0.1-0.2-0.2v-4.6c0-0.1,0.1-0.2,0.2-0.2h11.2c0.1,0,0.2,0.1,0.2,0.2
+					V156.4z M119.1,149.2c0.1,0,0.2,0.1,0.2,0.2v1.3c0,0.1-0.1,0.2-0.2,0.2h-11.2c-0.1,0-0.2-0.1-0.2-0.2v-1.3
+					c0-0.1,0.1-0.2,0.2-0.2H119.1z"/>
+			</g>
+			<path d="M110.1,152.1H110c-0.2,0-0.3-0.1-0.3-0.3v-1c0-0.2,0.1-0.3,0.3-0.3h0.1c0.2,0,0.3,0.1,0.3,0.3v1
+				C110.4,151.9,110.3,152.1,110.1,152.1z"/>
+			<path d="M117.1,152.1H117c-0.2,0-0.3-0.1-0.3-0.3v-1c0-0.2,0.1-0.3,0.3-0.3h0.1c0.2,0,0.3,0.1,0.3,0.3v1
+				C117.4,151.9,117.3,152.1,117.1,152.1z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<circle class="st6" cx="764.4" cy="152.1" r="7.4"/>
+				<g>
+					<line class="st7" x1="760.8" y1="148.4" x2="768.2" y2="155.9"/>
+					<line class="st7" x1="760.8" y1="155.9" x2="768.2" y2="148.4"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<circle class="st8" cx="739.4" cy="152.1" r="7.4"/>
+			<g>
+				<g>
+					<path class="st2" d="M743.4,152.6h-8c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5h8c0.3,0,0.5,0.2,0.5,0.5S743.7,152.6,743.4,152.6
+						z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

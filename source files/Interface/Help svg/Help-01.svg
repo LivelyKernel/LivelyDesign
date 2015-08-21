@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 3297.8 809.6" style="enable-background:new 0 0 3297.8 809.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'MyriadPro-Bold';}
+	.st1{font-size:30.1109px;}
+	.st2{fill:#4D4D4D;}
+	.st3{fill:#808080;stroke:#4D4D4D;stroke-miterlimit:10;}
+	.st4{fill:#808080;stroke:#4D4D4D;stroke-width:0.2524;stroke-miterlimit:10;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:#CCCCCC;}
+	.st7{fill:#F57C00;}
+	.st8{fill:none;stroke:#FFFFFF;stroke-width:0.8981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st9{fill:#808080;}
+	.st10{fill:none;stroke:#F2F2F2;stroke-width:2.1462;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st11{fill:#F2F2F2;}
+	.st12{fill:none;stroke:#F57C00;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#00FFFF;stroke-miterlimit:10;}
+	.st14{fill:#00FFFF;}
+	.st15{font-family:'Roboto-Medium';}
+	.st16{font-size:16px;}
+	.st17{font-family:'Roboto-Light';}
+	.st18{font-size:14.0211px;}
+	.st19{font-size:14px;}
+	.st20{fill:#E6E6E6;stroke:#CCCCCC;stroke-width:0.2864;stroke-miterlimit:10;}
+	.st21{fill:#E6E7E8;stroke:#E6E7E8;stroke-width:0.8569;stroke-miterlimit:10;}
+	.st22{font-family:'Roboto-Regular';}
+	.st23{font-size:12px;}
+	.st24{fill:#E6E7E8;stroke:#A6A8AB;stroke-width:0.2142;stroke-miterlimit:10;}
+	.st25{fill:#231F20;}
+	.st26{font-family:'Helvetica';}
+	.st27{font-size:8.2873px;}
+	.st28{fill:none;}
+	.st29{font-size:11px;}
+	.st30{fill:#E6E7E8;stroke:#E6E7E8;stroke-width:0.8578;stroke-miterlimit:10;}
+	.st31{fill:#E6E7E8;stroke:#A6A8AB;stroke-width:0.2144;stroke-miterlimit:10;}
+	.st32{fill:none;stroke:#E6E6E6;stroke-width:1.4181;stroke-miterlimit:10;}
+	.st33{clip-path:url(#SVGID_2_);}
+	.st34{font-family:'Roboto-Bold';}
+	.st35{clip-path:url(#SVGID_4_);}
+</style>
+<text transform="matrix(1 0 0 1 91.3069 72.6154)" class="st0 st1">Help Window - UI</text>
+<g>
+	<g>
+		<path id="bck_3_" class="st2" d="M776.8,727.5H108c-8.6,0-15.6-7.1-15.6-15.9V143.5c0-8.8,7-15.9,15.6-15.9h668.7
+			c8.6,0,15.6,7.1,15.6,15.9v568.2C792.4,720.4,785.4,727.5,776.8,727.5z"/>
+		<g>
+			<path class="st4" d="M773.6,221.7H441.9v-35.3c0-6.5-5.2-11.7-11.6-11.7H282.8c-6.2,0-11.1,5-11.1,11.2v35.7H111.1
+				c-6.2,0-11.2,5.1-11.2,11.3v79.3V699v9c0,6.4,5.2,11.7,11.6,11.7h661.9c6.4,0,11.6-5.2,11.6-11.7v-9V253.2V233
+				C784.9,226.7,779.9,221.7,773.6,221.7z"/>
+			<path class="st4" d="M784.9,233c0-6.3-5-11.4-11.3-11.4H613.7v-35.3c0-6.5-5.2-11.7-11.6-11.7H453.1c-6.2,0-11.1,5-11.1,11.2
+				v35.7H111.1c-1.9,0-3.8,0.5-5.3,1.4c-3.5,1.9-5.9,5.7-5.9,10v79.3V699v9c0,6.4,5.2,11.7,11.6,11.7h661.9
+				c6.4,0,11.6-5.2,11.6-11.7v-9v-10.1v0V233z"/>
+			<path class="st3" d="M613.7,221.7v-35.7c0-6.2,5-11.2,11.1-11.2h148.5c6.4,0,11.6,5.2,11.6,11.7v520.3c0,6.4-5.2,12.7-11.6,12.7
+				H111.5c-6.4,0-11.6-6.3-11.6-12.7V232c0-6.3,5-10.3,11.2-10.3H613.7z"/>
+			<path class="st5" d="M271.1,221.7v-35.7c0-6.2-5-11.2-11.1-11.2H111.5c-6.4,0-11.6,5.2-11.6,11.7v521.5c0,6.4,5.2,11.7,11.6,11.7
+				h661.9c6.4,0,11.6-5.2,11.6-11.7V233c0-6.3-5-11.3-11.2-11.3H271.1z"/>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 140.4421 156.8984)" class="st5 st15 st16">Help</text>
+			<g>
+				<path class="st6" d="M122.1,139.6c-1.4,0-2.7,0.2-4,0.7c-2.9,1.1-5.2,3.3-6.4,6.1c-1.2,2.8-1.3,5.9-0.2,8.8
+					c1.7,4.5,6,7.5,10.8,7.5c1.4,0,2.7-0.2,4-0.7c2.9-1.1,5.2-3.3,6.4-6.1c1.2-2.8,1.3-5.9,0.2-8.8
+					C131.2,142.6,126.8,139.6,122.1,139.6z"/>
+				<g>
+					<path d="M128.6,151.2c-0.1,3.5-2.9,6.5-6.5,6.5c-3.5,0-6.5-2.9-6.5-6.5c0-3.5,2.9-6.5,6.5-6.5
+						C125.7,144.7,128.5,147.7,128.6,151.2c0,0.5,0.8,0.5,0.8,0c-0.1-3-1.9-5.7-4.7-6.8c-2.9-1.1-6.3-0.2-8.2,2.2
+						c-1.9,2.4-2.2,5.7-0.6,8.3c1.6,2.6,4.6,3.9,7.6,3.4c3.4-0.7,5.8-3.7,5.9-7.1C129.4,150.7,128.6,150.7,128.6,151.2z"/>
+					<g>
+						<g>
+							<path d="M122.5,152.8v-1.2l0.1-0.1c0.1-0.1,0.2-0.1,0.3-0.2c0.5-0.3,1.2-0.8,1.2-2c0-1.1-0.9-2-2-2s-2,0.9-2,2
+								c0,0.2,0.2,0.3,0.3,0.3c0.2,0,0.3-0.2,0.3-0.3c0-0.7,0.6-1.3,1.3-1.3s1.3,0.6,1.3,1.3c0,0.8-0.5,1.1-0.9,1.4
+								c-0.4,0.3-0.8,0.6-0.8,1v1.1c0,0.2,0.2,0.3,0.3,0.3C122.3,153.1,122.5,153,122.5,152.8z"/>
+							<path d="M122.2,153.3c-0.3,0-0.5-0.2-0.5-0.5v-1.1c0-0.5,0.4-0.8,0.8-1.1c0.4-0.3,0.8-0.6,0.8-1.3c0-0.7-0.5-1.2-1.2-1.2
+								s-1.2,0.5-1.2,1.2c0,0.3-0.2,0.5-0.5,0.5c-0.3,0-0.5-0.2-0.5-0.5c0-1.2,1-2.1,2.1-2.1c1.2,0,2.1,1,2.1,2.1
+								c0,1.3-0.8,1.8-1.3,2.1c-0.1,0.1-0.2,0.2-0.3,0.2l-0.1,0.1v1.2C122.6,153,122.4,153.3,122.2,153.3z M122.2,147.8
+								c0.8,0,1.4,0.6,1.4,1.4c0,0.9-0.5,1.2-0.9,1.5c-0.4,0.3-0.7,0.5-0.7,0.9v1.1c0,0.1,0.1,0.2,0.2,0.2c0.1,0,0.2-0.1,0.2-0.2
+								v-1.3l0.2-0.2c0.1-0.1,0.2-0.1,0.3-0.2c0.5-0.3,1.1-0.8,1.1-1.9c0-1-0.8-1.9-1.9-1.9c-1,0-1.9,0.8-1.9,1.9
+								c0,0.1,0.1,0.2,0.2,0.2c0.1,0,0.2-0.1,0.2-0.2C120.7,148.4,121.4,147.8,122.2,147.8z"/>
+						</g>
+						<circle cx="122.2" cy="154.6" r="0.6"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<circle class="st7" cx="767.8" cy="151.1" r="7.4"/>
+					<g>
+						<line class="st8" x1="764.2" y1="147.5" x2="771.6" y2="154.9"/>
+						<line class="st8" x1="764.2" y1="154.9" x2="771.6" y2="147.5"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<circle class="st6" cx="742.8" cy="151.1" r="7.4"/>
+				<g>
+					<g>
+						<path class="st2" d="M746.8,152h-8c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5h8c0.3,0,0.5,0.2,0.5,0.5S747,152,746.8,152z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 645.063 202.1821)" class="st5 st17 st18">Play Quick Starter</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 479.4461 202.1821)" class="st5 st17 st18">Documentation</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 146.0071 202.1821)" class="st9 st15 st18">Cheat Sheet</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 329.6348 202.1826)" class="st5 st17 st18">Tutorials</text>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<g>
+							<path class="st11" d="M736.5,440.1H123.6c-5,0-9.1-4.2-9-9.1V274.8l631-0.2v156.2C745.6,436,741.5,440.1,736.5,440.1z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 1 133.3276 265.8954)" class="st7 st15 st19">General</text>
+				</g>
+				<g>
+					<circle class="st20" cx="121.2" cy="260.6" r="5.5"/>
+				</g>
+				<line class="st12" x1="115" y1="274" x2="744" y2="274"/>
+				<circle class="st7" cx="121.2" cy="260.6" r="3.1"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<line class="st21" x1="177.1" y1="317.4" x2="397.2" y2="317.4"/>
+		<line class="st21" x1="177.1" y1="338.1" x2="397.2" y2="338.1"/>
+		<g>
+			<text transform="matrix(1 0 0 1 190.6061 310.6003)" class="st9 st22 st23">Reload Browser        </text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 190.8668 331.6647)" class="st9 st22 st23">Close Window   </text>
+		</g>
+		<path class="st24" d="M351.7,314.1h-27.6c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h27.6c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C353.2,313.4,352.5,314.1,351.7,314.1z"/>
+		<path class="st24" d="M379,313.8h-10c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h10c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C380.6,313.1,379.9,313.8,379,313.8z"/>
+		<text transform="matrix(1 0 0 1 328.235 310.0241)" class="st25 st26 st27">CMD</text>
+		<rect x="357.8" y="303.6" class="st28" width="9.7" height="9.7"/>
+		<text transform="matrix(1 0 0 1 357.8151 309.5368)" class="st25 st26 st27">+</text>
+		<text transform="matrix(1 0 0 1 371.0514 309.737)" class="st25 st26 st27">R</text>
+		<path class="st24" d="M351.6,334.4H324c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h27.6c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C353.1,333.7,352.4,334.4,351.6,334.4z"/>
+		<path class="st24" d="M379,334.2h-10c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h10c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C380.5,333.5,379.8,334.2,379,334.2z"/>
+		<text transform="matrix(1 0 0 1 328.6666 330.571)" class="st25 st26 st27">CMD</text>
+		<rect x="357.7" y="324" class="st28" width="9.7" height="9.7"/>
+		<text transform="matrix(1 0 0 1 357.7291 329.9099)" class="st25 st26 st27">+</text>
+		<text transform="matrix(1 0 0 1 370.2731 330.6286)" class="st25 st26 st27">W</text>
+		<line class="st21" x1="177.1" y1="357.4" x2="397.2" y2="357.4"/>
+		<line class="st21" x1="177.1" y1="377.5" x2="397.2" y2="377.5"/>
+		<line class="st21" x1="177.1" y1="398.2" x2="397.2" y2="398.2"/>
+		<line class="st21" x1="463.1" y1="317.4" x2="683.2" y2="317.4"/>
+		<line class="st21" x1="463.1" y1="338.1" x2="683.2" y2="338.1"/>
+		<line class="st21" x1="463.1" y1="357.4" x2="683.2" y2="357.4"/>
+		<line class="st21" x1="463.1" y1="377.5" x2="683.2" y2="377.5"/>
+		<line class="st21" x1="463.1" y1="398.2" x2="683.2" y2="398.2"/>
+		<g>
+			<text transform="matrix(1 0 0 1 190.8668 352.7292)" class="st9 st22 st23">Save   </text>
+		</g>
+		<path class="st24" d="M351.6,354.6H324c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h27.6c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C353.1,353.9,352.4,354.6,351.6,354.6z"/>
+		<path class="st24" d="M379,354.4h-10c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h10c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C380.5,353.7,379.8,354.4,379,354.4z"/>
+		<text transform="matrix(1 0 0 1 328.4918 350.7702)" class="st25 st26 st27">CMD</text>
+		<rect x="357.7" y="344.2" class="st28" width="9.7" height="9.7"/>
+		<text transform="matrix(1 0 0 1 357.7291 350.11)" class="st25 st26 st27">+</text>
+		<text transform="matrix(1 0 0 1 371.1383 350.8288)" class="st25 st26 st27">S</text>
+		<path class="st24" d="M351.6,374.9H324c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h27.6c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C353.1,374.2,352.4,374.9,351.6,374.9z"/>
+		<path class="st24" d="M379,374.7h-10c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h10c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C380.5,374,379.8,374.7,379,374.7z"/>
+		<text transform="matrix(1 0 0 1 328.4918 371.2018)" class="st25 st26 st27">CMD</text>
+		<rect x="357.7" y="364.4" class="st28" width="9.7" height="9.7"/>
+		<text transform="matrix(1 0 0 1 357.7291 370.3679)" class="st25 st26 st27">+</text>
+		<text transform="matrix(1 0 0 1 371.6569 371.0866)" class="st25 st26 st27">K</text>
+		<g>
+			<text transform="matrix(1 0 0 1 481.5231 311.6354)" class="st9 st22 st23">Select All (Text Only)        </text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 481.5231 331.8952)" class="st9 st22 st23">Copy (Text Only)        </text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 481.8375 350.902)" class="st9 st22 st23">Paste (Text Only)        </text>
+		</g>
+		<path class="st24" d="M633.9,314.1h-27.6c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h27.6c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C635.4,313.4,634.7,314.1,633.9,314.1z"/>
+		<path class="st24" d="M661.2,313.8h-10c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h10c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C662.8,313.1,662.1,313.8,661.2,313.8z"/>
+		<text transform="matrix(1 0 0 1 611.1266 310.0241)" class="st25 st26 st27">CMD</text>
+		<rect x="640" y="303.6" class="st28" width="9.7" height="9.7"/>
+		<text transform="matrix(1 0 0 1 640.0172 309.5368)" class="st25 st26 st27">+</text>
+		<text transform="matrix(1 0 0 1 653.2516 309.737)" class="st25 st26 st27">A</text>
+		<path class="st24" d="M633.8,334.7h-27.6c-0.9,0-1.5-0.7-1.5-1.5V323c0-0.9,0.7-1.5,1.5-1.5h27.6c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C635.4,334,634.7,334.7,633.8,334.7z"/>
+		<path class="st24" d="M661.2,334.5h-10c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h10c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C662.7,333.8,662,334.5,661.2,334.5z"/>
+		<text transform="matrix(1 0 0 1 611.069 330.6852)" class="st25 st26 st27">CMD</text>
+		<rect x="640" y="324.2" class="st28" width="9.7" height="9.7"/>
+		<text transform="matrix(1 0 0 1 639.9596 330.1979)" class="st25 st26 st27">+</text>
+		<text transform="matrix(1 0 0 1 653.5406 330.9167)" class="st25 st26 st27">C</text>
+		<path class="st24" d="M633.8,354.6h-27.6c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h27.6c0.9,0,1.5,0.7,1.5,1.5V353
+			C635.4,353.9,634.7,354.6,633.8,354.6z"/>
+		<path class="st24" d="M661.2,354.3h-10c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h10c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C662.7,353.6,662,354.3,661.2,354.3z"/>
+		<text transform="matrix(1 0 0 1 611.069 350.5407)" class="st25 st26 st27">CMD</text>
+		<rect x="640" y="344.1" class="st28" width="9.7" height="9.7"/>
+		<text transform="matrix(1 0 0 1 639.9596 350.0524)" class="st25 st26 st27">+</text>
+		<text transform="matrix(1 0 0 1 653.3688 350.9431)" class="st25 st26 st27">V</text>
+		<g>
+			<text transform="matrix(1 0 0 1 481.5231 371.8932)" class="st9 st22 st23">Cut (Text Only)        </text>
+		</g>
+		<path class="st24" d="M633.8,375.3h-27.6c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h27.6c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C635.4,374.6,634.7,375.3,633.8,375.3z"/>
+		<path class="st24" d="M661.2,375.1h-10c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h10c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C662.7,374.4,662,375.1,661.2,375.1z"/>
+		<text transform="matrix(1 0 0 1 611.069 371.2585)" class="st25 st26 st27">CMD</text>
+		<rect x="640" y="364.8" class="st28" width="9.7" height="9.7"/>
+		<text transform="matrix(1 0 0 1 639.9596 370.7702)" class="st25 st26 st27">+</text>
+		<text transform="matrix(1 0 0 1 653.3688 371.6618)" class="st25 st26 st27">X</text>
+		<g>
+			<rect x="190.9" y="363.9" class="st28" width="97.1" height="12"/>
+			<text transform="matrix(1 0 0 1 190.8668 373.0349)" class="st9 st22 st23">Open Workspace</text>
+		</g>
+		<path class="st24" d="M351.5,394.5h-27.6c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h27.6c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C353,393.8,352.3,394.5,351.5,394.5z"/>
+		<path class="st24" d="M379,394.2h-10c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h10c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C380.5,393.5,379.8,394.2,379,394.2z"/>
+		<text transform="matrix(1 0 0 1 328.4918 390.5388)" class="st25 st26 st27">CMD</text>
+		<rect x="357.7" y="383.9" class="st28" width="9.7" height="9.7"/>
+		<text transform="matrix(1 0 0 1 357.7291 389.8776)" class="st25 st26 st27">+</text>
+		<text transform="matrix(1 0 0 1 371.024 390.5388)" class="st25 st26 st27">O</text>
+		<g>
+			<rect x="191.2" y="384.3" class="st28" width="116.4" height="12"/>
+			<text transform="matrix(1 0 0 1 191.2125 393.4089)" class="st9 st22 st23">Open Object Editor</text>
+		</g>
+		<path class="st24" d="M634,394.6h-27.6c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5H634c0.9,0,1.5,0.7,1.5,1.5V393
+			C635.6,393.9,634.9,394.6,634,394.6z"/>
+		<path class="st24" d="M661.4,394.3h-10c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h10c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C662.9,393.6,662.2,394.3,661.4,394.3z"/>
+		<text transform="matrix(1 0 0 1 611.2711 390.5388)" class="st25 st26 st27">CMD</text>
+		<rect x="640" y="384.3" class="st28" width="9.7" height="9.7"/>
+		<text transform="matrix(1 0 0 1 639.9879 390.2224)" class="st25 st26 st27">+</text>
+		<text transform="matrix(1 0 0 1 653.3961 390.7682)" class="st25 st26 st27">O</text>
+		<g>
+			<rect x="481.6" y="384.3" class="st28" width="97.1" height="12"/>
+			<text transform="matrix(1 0 0 1 481.5797 393.4079)" class="st9 st22 st23">Open Partsbin</text>
+		</g>
+		<path class="st24" d="M351.5,415.2h-27.6c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h27.6c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C353,414.5,352.3,415.2,351.5,415.2z"/>
+		<path class="st24" d="M379,414.9h-10c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h10c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C380.5,414.2,379.8,414.9,379,414.9z"/>
+		<text transform="matrix(1 0 0 1 328.4918 411.2565)" class="st25 st26 st27">CMD</text>
+		<rect x="357.7" y="404.6" class="st28" width="9.7" height="9.7"/>
+		<text transform="matrix(1 0 0 1 357.7291 410.5954)" class="st25 st26 st27">+</text>
+		<text transform="matrix(1 0 0 1 371.024 411.2565)" class="st25 st26 st27">B</text>
+		<g>
+			<rect x="191.2" y="405" class="st28" width="127" height="14.1"/>
+			<text transform="matrix(1 0 0 1 191.2125 414.1413)" class="st9 st22 st23">Open System Browser</text>
+		</g>
+		<path class="st24" d="M633.7,415.8h-27.6c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h27.6c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C635.3,415.1,634.6,415.8,633.7,415.8z"/>
+		<path class="st24" d="M661.1,415.6h-10c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h10c0.9,0,1.5,0.7,1.5,1.5V414
+			C662.6,414.9,661.9,415.6,661.1,415.6z"/>
+		<text transform="matrix(1 0 0 1 610.9694 411.7995)" class="st25 st26 st27">CMD</text>
+		<rect x="639.7" y="405.5" class="st28" width="9.7" height="9.7"/>
+		<text transform="matrix(1 0 0 1 639.6871 411.4841)" class="st25 st26 st27">+</text>
+		<text transform="matrix(1 0 0 1 653.0963 412.03)" class="st25 st26 st27">Z</text>
+		<g>
+			<rect x="481.3" y="405.1" class="st28" width="97.1" height="12"/>
+			<text transform="matrix(1 0 0 1 481.278 414.2409)" class="st9 st22 st23">Undo</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<g>
+							<path class="st11" d="M736.5,648.1H123.6c-5,0-9.1-4.2-9-9.1V482.8l631-0.2v156.2C745.6,644,741.5,648.1,736.5,648.1z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 1 133.3276 473.8954)" class="st7 st15 st19">Code Execution</text>
+				</g>
+				<g>
+					<circle class="st20" cx="121.2" cy="468.6" r="5.5"/>
+				</g>
+				<line class="st12" x1="115" y1="482" x2="744" y2="482"/>
+				<circle class="st7" cx="121.2" cy="468.6" r="3.1"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 1 133.3276 687.8954)" class="st7 st15 st19">Morph Manipulation</text>
+				</g>
+				<g>
+					<circle class="st20" cx="121.2" cy="682.6" r="5.5"/>
+				</g>
+				<line class="st12" x1="115" y1="696" x2="744" y2="696"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 368.1024 246.7153)" class="st9 st22 st29">All the shortcuts listed here for MacOS can be done using CTRL on Windows.</text>
+	</g>
+	<g>
+		<line class="st21" x1="179.4" y1="522.7" x2="680.9" y2="522.7"/>
+		<line class="st21" x1="179.4" y1="542.7" x2="680.9" y2="542.7"/>
+		<line class="st21" x1="179.4" y1="563.4" x2="680.9" y2="563.4"/>
+		<line class="st21" x1="179.4" y1="584.4" x2="680.9" y2="584.4"/>
+		<path class="st24" d="M589.8,519.6h-27.6c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h27.6c0.9,0,1.5,0.7,1.5,1.5V518
+			C591.4,518.9,590.7,519.6,589.8,519.6z"/>
+		<path class="st24" d="M617.3,519.6h-10c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h10c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C618.9,518.9,618.2,519.6,617.3,519.6z"/>
+		<text transform="matrix(1 0 0 1 566.8456 515.6407)" class="st25 st26 st27">CMD</text>
+		<rect x="596.1" y="509" class="st28" width="9.7" height="9.7"/>
+		<text transform="matrix(1 0 0 1 596.0819 514.9815)" class="st25 st26 st27">+</text>
+		<text transform="matrix(1 0 0 1 609.3768 515.6407)" class="st25 st26 st27">D</text>
+		<path class="st24" d="M590,539.5h-27.6c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5H590c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C591.6,538.8,590.9,539.5,590,539.5z"/>
+		<path class="st24" d="M617.5,539.5h-10c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h10c0.9,0,1.5,0.7,1.5,1.5V538
+			C619.1,538.8,618.4,539.5,617.5,539.5z"/>
+		<text transform="matrix(1 0 0 1 567.0604 535.5635)" class="st25 st26 st27">CMD</text>
+		<rect x="596.3" y="528.9" class="st28" width="9.7" height="9.7"/>
+		<text transform="matrix(1 0 0 1 596.2968 534.9044)" class="st25 st26 st27">+</text>
+		<text transform="matrix(1 0 0 1 609.5878 535.5635)" class="st25 st26 st27">E</text>
+		<g>
+			<rect x="193.5" y="509.4" class="st28" width="161.7" height="13.3"/>
+			<text transform="matrix(1 0 0 1 193.4813 518.5284)"><tspan x="0" y="0" class="st9 st22 st23">Do It (executes the state</tspan><tspan x="131.7" y="0" class="st9 st22 st23">-</tspan></text>
+		</g>
+		<g>
+			<rect x="192.6" y="528.3" class="st28" width="310.4" height="20.1"/>
+			<text transform="matrix(1 0 0 1 192.6239 537.4551)" class="st9 st22 st23">Exchange (exchanges the last two selections)</text>
+		</g>
+		<g>
+			<rect x="193.1" y="548.9" class="st28" width="325.6" height="15.7"/>
+			<text transform="matrix(1 0 0 1 193.0643 558.0909)" class="st9 st22 st23">Inspect (inspects the statement in a window with attributes)</text>
+		</g>
+		<path class="st24" d="M590,560h-27.6c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5H590c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C591.6,559.3,590.9,560,590,560z"/>
+		<path class="st24" d="M638.3,560.1h-30.9c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h30.9c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C639.9,559.4,639.2,560.1,638.3,560.1z"/>
+		<text transform="matrix(1 0 0 1 567.0604 556.1309)" class="st25 st26 st27">CMD</text>
+		<rect x="596.3" y="549.5" class="st28" width="9.7" height="9.7"/>
+		<text transform="matrix(1 0 0 1 596.2968 555.4698)" class="st25 st26 st27">+</text>
+		<text transform="matrix(1 0 0 1 610.7333 556.4171)" class="st25 st26 st27">SHIFT</text>
+		<path class="st24" d="M664.6,559.8h-10c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h10c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C666.2,559.1,665.5,559.8,664.6,559.8z"/>
+		<rect x="644" y="548.9" class="st28" width="9.7" height="9.7"/>
+		<text transform="matrix(1 0 0 1 643.9979 554.8985)" class="st25 st26 st27">+</text>
+		<text transform="matrix(1 0 0 1 658.4325 556.4171)" class="st25 st26 st27">I</text>
+		<line class="st21" x1="179.4" y1="604.2" x2="680.9" y2="604.2"/>
+		<line class="st21" x1="179.4" y1="623.5" x2="680.9" y2="623.5"/>
+		<line class="st21" x1="179.4" y1="644.1" x2="680.9" y2="644.1"/>
+		<path class="st24" d="M590.1,580.7h-27.6c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h27.6c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C591.6,580,591,580.7,590.1,580.7z"/>
+		<path class="st24" d="M617.6,580.7h-10c-0.9,0-1.5-0.7-1.5-1.5V569c0-0.9,0.7-1.5,1.5-1.5h10c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C619.1,580,618.4,580.7,617.6,580.7z"/>
+		<text transform="matrix(1 0 0 1 567.1307 576.7676)" class="st25 st26 st27">CMD</text>
+		<rect x="596.4" y="570.1" class="st28" width="9.7" height="9.7"/>
+		<text transform="matrix(1 0 0 1 596.368 576.1065)" class="st25 st26 st27">+</text>
+		<text transform="matrix(1 0 0 1 609.662 576.7667)" class="st25 st26 st27">P</text>
+		<g>
+			<rect x="192.9" y="569.3" class="st28" width="241.2" height="10.4"/>
+			<text transform="matrix(1 0 0 1 192.8739 578.4756)" class="st9 st22 st23">Print It (prints the result of the statement)</text>
+		</g>
+		<g>
+			<rect x="193.1" y="590.8" class="st28" width="250.4" height="11.5"/>
+			<text transform="matrix(1 0 0 1 193.0526 599.9415)" class="st9 st22 st23">Protocol (opens a menu with all the methods)</text>
+		</g>
+		<g>
+			<rect x="192.9" y="609.6" class="st28" width="303.8" height="13.1"/>
+			<text transform="matrix(1 0 0 1 192.8739 618.7217)" class="st9 st22 st23">Find (finds the selected text; asks for a search string)</text>
+		</g>
+		<path class="st24" d="M590,600.9h-27.6c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5H590c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C591.5,600.2,590.8,600.9,590,600.9z"/>
+		<path class="st24" d="M638.3,600.9h-30.9c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h30.9c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C639.8,600.3,639.1,600.9,638.3,600.9z"/>
+		<text transform="matrix(1 0 0 1 566.9891 596.9766)" class="st25 st26 st27">CMD</text>
+		<rect x="596.2" y="590.4" class="st28" width="9.7" height="9.7"/>
+		<text transform="matrix(1 0 0 1 596.2255 596.3155)" class="st25 st26 st27">+</text>
+		<text transform="matrix(1 0 0 1 610.662 597.2608)" class="st25 st26 st27">SHIFT</text>
+		<path class="st24" d="M664.6,600.7h-10c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h10c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C666.1,600,665.4,600.7,664.6,600.7z"/>
+		<rect x="643.9" y="589.8" class="st28" width="9.7" height="9.7"/>
+		<text transform="matrix(1 0 0 1 643.9257 595.7442)" class="st25 st26 st27">+</text>
+		<text transform="matrix(1 0 0 1 657.0057 596.9053)" class="st25 st26 st27">P</text>
+		<path class="st24" d="M590.1,620.4h-27.6c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h27.6c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C591.6,619.7,591,620.4,590.1,620.4z"/>
+		<path class="st24" d="M617.6,620.4h-10c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h10c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C619.1,619.7,618.4,620.4,617.6,620.4z"/>
+		<text transform="matrix(1 0 0 1 567.1307 616.4727)" class="st25 st26 st27">CMD</text>
+		<rect x="596.4" y="609.9" class="st28" width="9.7" height="9.7"/>
+		<text transform="matrix(1 0 0 1 596.368 615.8096)" class="st25 st26 st27">+</text>
+		<text transform="matrix(1 0 0 1 609.662 616.4717)" class="st25 st26 st27">F</text>
+		<path class="st24" d="M590.1,640.4h-27.6c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h27.6c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C591.6,639.7,591,640.4,590.1,640.4z"/>
+		<path class="st24" d="M617.6,640.4h-10c-0.9,0-1.5-0.7-1.5-1.5v-10.2c0-0.9,0.7-1.5,1.5-1.5h10c0.9,0,1.5,0.7,1.5,1.5v10.2
+			C619.1,639.7,618.4,640.4,617.6,640.4z"/>
+		<text transform="matrix(1 0 0 1 567.1307 636.4649)" class="st25 st26 st27">CMD</text>
+		<rect x="596.4" y="629.8" class="st28" width="9.7" height="9.7"/>
+		<text transform="matrix(1 0 0 1 596.368 635.8047)" class="st25 st26 st27">+</text>
+		<text transform="matrix(1 0 0 1 609.0907 636.7501)" class="st25 st26 st27">G</text>
+		<g>
+			<rect x="192.8" y="629.4" class="st28" width="103.3" height="10.7"/>
+			<text transform="matrix(1 0 0 1 192.7782 638.4971)" class="st9 st22 st23">Find Again/Next</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path class="st5" d="M730.1,628.2V502.5c0-1.2,1-2.2,2.2-2.2h1.6c1.2,0,2.2,1,2.2,2.2v125.7c0,1.2-1,2.2-2.2,2.2h-1.6
+						C731.1,630.4,730.1,629.4,730.1,628.2z"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<path class="st6" d="M730.9,545.3v-20.4c0-0.9,0.7-1.6,1.6-1.6h1.1c0.9,0,1.6,0.7,1.6,1.6v20.4c0,0.9-0.7,1.6-1.6,1.6h-1.1
+						C731.6,546.9,730.9,546.2,730.9,545.3z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path class="st11" d="M761.4,698.7V276.3c0-2,1.7-3.7,3.7-3.7h0.6c2,0,3.7,1.7,3.7,3.7v422.4c0,2-1.7,3.7-3.7,3.7h-0.6
+						C763.1,702.4,761.4,700.7,761.4,698.7z"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<path class="st6" d="M762.5,371.4v-43.5c0-1.5,1.2-2.7,2.7-2.7h0.4c1.5,0,2.7,1.2,2.7,2.7v43.5c0,1.5-1.2,2.7-2.7,2.7h-0.4
+						C763.7,374.1,762.5,372.9,762.5,371.4z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path id="bck_4_" class="st2" d="M1557.8,727.5H889c-8.6,0-15.6-7.1-15.6-15.9V143.5c0-8.8,7-15.9,15.6-15.9h668.7
+			c8.6,0,15.6,7.1,15.6,15.9v568.2C1573.4,720.4,1566.4,727.5,1557.8,727.5z"/>
+		<g>
+			<path class="st4" d="M1565.9,233c0-6.3-5-11.4-11.3-11.4h-159.9v-35.3c0-6.5-5.2-11.7-11.6-11.7h-149.1c-6.2,0-11.1,5-11.1,11.2
+				v35.7H892.1c-1.9,0-3.8,0.5-5.3,1.4c-3.5,1.9-5.9,5.7-5.9,10v79.3V699v9c0,6.4,5.2,11.7,11.6,11.7h661.9
+				c6.4,0,11.6-5.2,11.6-11.7v-9v-10.1v0V233z"/>
+			<path class="st3" d="M1394.7,221.7v-35.7c0-6.2,5-11.2,11.1-11.2h148.5c6.4,0,11.6,5.2,11.6,11.7v520.3c0,6.4-5.2,12.7-11.6,12.7
+				H892.5c-6.4,0-11.6-6.3-11.6-12.7V232c0-6.3,5-10.3,11.2-10.3H1394.7z"/>
+			<path class="st4" d="M1052.1,221.7v-35.7c0-6.2-5-11.2-11.1-11.2H892.5c-6.4,0-11.6,5.2-11.6,11.7v521.5
+				c0,6.4,5.2,11.7,11.6,11.7h661.9c6.4,0,11.6-5.2,11.6-11.7V233c0-6.3-5-11.3-11.2-11.3H1052.1z"/>
+			<path class="st5" d="M1554.6,221.7h-331.7v-35.3c0-6.5-5.2-11.7-11.6-11.7h-147.6c-6.2,0-11.1,5-11.1,11.2v35.7H892.1
+				c-6.2,0-11.2,5.1-11.2,11.3v79.3V699v9c0,6.4,5.2,11.7,11.6,11.7h661.9c6.4,0,11.6-5.2,11.6-11.7v-9V253.2V233
+				C1565.9,226.7,1560.9,221.7,1554.6,221.7z"/>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 921.4421 156.8984)" class="st5 st15 st16">Help</text>
+			<g>
+				<path class="st6" d="M903.1,139.6c-1.4,0-2.7,0.2-4,0.7c-2.9,1.1-5.2,3.3-6.4,6.1c-1.2,2.8-1.3,5.9-0.2,8.8
+					c1.7,4.5,6,7.5,10.8,7.5c1.4,0,2.7-0.2,4-0.7c2.9-1.1,5.2-3.3,6.4-6.1c1.2-2.8,1.3-5.9,0.2-8.8
+					C912.2,142.6,907.8,139.6,903.1,139.6z"/>
+				<g>
+					<path d="M909.6,151.2c-0.1,3.5-2.9,6.5-6.5,6.5c-3.5,0-6.5-2.9-6.5-6.5c0-3.5,2.9-6.5,6.5-6.5
+						C906.7,144.7,909.5,147.7,909.6,151.2c0,0.5,0.8,0.5,0.8,0c-0.1-3-1.9-5.7-4.7-6.8c-2.9-1.1-6.3-0.2-8.2,2.2
+						c-1.9,2.4-2.2,5.7-0.6,8.3c1.6,2.6,4.6,3.9,7.6,3.4c3.4-0.7,5.8-3.7,5.9-7.1C910.4,150.7,909.6,150.7,909.6,151.2z"/>
+					<g>
+						<g>
+							<path d="M903.5,152.8v-1.2l0.1-0.1c0.1-0.1,0.2-0.1,0.3-0.2c0.5-0.3,1.2-0.8,1.2-2c0-1.1-0.9-2-2-2s-2,0.9-2,2
+								c0,0.2,0.2,0.3,0.3,0.3c0.2,0,0.3-0.2,0.3-0.3c0-0.7,0.6-1.3,1.3-1.3c0.7,0,1.3,0.6,1.3,1.3c0,0.8-0.5,1.1-0.9,1.4
+								c-0.4,0.3-0.8,0.6-0.8,1v1.1c0,0.2,0.2,0.3,0.3,0.3C903.3,153.1,903.5,153,903.5,152.8z"/>
+							<path d="M903.2,153.3c-0.3,0-0.5-0.2-0.5-0.5v-1.1c0-0.5,0.4-0.8,0.8-1.1c0.4-0.3,0.8-0.6,0.8-1.3c0-0.7-0.5-1.2-1.2-1.2
+								s-1.2,0.5-1.2,1.2c0,0.3-0.2,0.5-0.5,0.5c-0.3,0-0.5-0.2-0.5-0.5c0-1.2,1-2.1,2.1-2.1c1.2,0,2.1,1,2.1,2.1
+								c0,1.3-0.8,1.8-1.3,2.1c-0.1,0.1-0.2,0.2-0.3,0.2l-0.1,0.1v1.2C903.6,153,903.4,153.3,903.2,153.3z M903.2,147.8
+								c0.8,0,1.4,0.6,1.4,1.4c0,0.9-0.5,1.2-0.9,1.5c-0.4,0.3-0.7,0.5-0.7,0.9v1.1c0,0.1,0.1,0.2,0.2,0.2s0.2-0.1,0.2-0.2v-1.3
+								l0.2-0.2c0.1-0.1,0.2-0.1,0.3-0.2c0.5-0.3,1.1-0.8,1.1-1.9c0-1-0.8-1.9-1.9-1.9s-1.9,0.8-1.9,1.9c0,0.1,0.1,0.2,0.2,0.2
+								c0.1,0,0.2-0.1,0.2-0.2C901.7,148.4,902.4,147.8,903.2,147.8z"/>
+						</g>
+						<circle cx="903.2" cy="154.6" r="0.6"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<circle class="st7" cx="1548.8" cy="151.1" r="7.4"/>
+					<g>
+						<line class="st8" x1="1545.2" y1="147.5" x2="1552.6" y2="154.9"/>
+						<line class="st8" x1="1545.2" y1="154.9" x2="1552.6" y2="147.5"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<circle class="st6" cx="1523.8" cy="151.1" r="7.4"/>
+				<g>
+					<g>
+						<path class="st2" d="M1527.8,152h-8c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5h8c0.3,0,0.5,0.2,0.5,0.5S1528,152,1527.8,152z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1426.063 202.1821)" class="st5 st17 st18">Play Quick Starter</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1260.4462 202.1821)" class="st5 st17 st18">Documentation</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 927.0071 202.1821)" class="st5 st17 st18">Cheat Sheet</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1109.8716 202.1826)" class="st9 st15 st18">Tutorials</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path class="st11" d="M1542.5,703.8V242.4c0-2,1.7-3.7,3.7-3.7h0.6c2,0,3.7,1.7,3.7,3.7v461.4c0,2-1.7,3.7-3.7,3.7h-0.6
+						C1544.2,707.5,1542.5,705.8,1542.5,703.8z"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<path class="st6" d="M1543.6,380.5V337c0-1.5,1.2-2.7,2.7-2.7h0.4c1.5,0,2.7,1.2,2.7,2.7v43.5c0,1.5-1.2,2.7-2.7,2.7h-0.4
+						C1544.8,383.1,1543.6,381.9,1543.6,380.5z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<rect x="1134.6" y="262.4" class="st28" width="392.9" height="55.5"/>
+		<text transform="matrix(1 0 0 1 1134.5627 271.5884)"><tspan x="0" y="0" class="st9 st22 st23">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque </tspan><tspan x="0" y="14.4" class="st9 st22 st23">nisl leo, tincidunt non elit a, tristique sodales ante. Lorem ipsum dolor sit </tspan><tspan x="0" y="28.8" class="st9 st22 st23">amet, consectetur adipiscing elit. Pellentesque nisl leo, tincidunt non elit </tspan><tspan x="0" y="43.2" class="st9 st22 st23">a, tristique sodales ante.  </tspan></text>
+	</g>
+	<g>
+		<rect x="1134.2" y="239.7" class="st28" width="300.6" height="17.4"/>
+		<text transform="matrix(1 0 0 1 1134.1912 250.3477)" class="st9 st15 st19">Lorem ipsum </text>
+	</g>
+	<g>
+		<rect x="896.9" y="239.7" class="st11" width="216.1" height="132.8"/>
+		<line class="st32" x1="898.8" y1="241" x2="1107" y2="370.7"/>
+		<line class="st32" x1="897.4" y1="369.8" x2="1108.4" y2="241.9"/>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st2" d="M1190.1,372.4h-46.8c-5,0-9.1-4.1-9.1-9.1v-1.8c0-5,4.1-9.1,9.1-9.1h46.8c5,0,9.1,4.1,9.1,9.1v1.8
+					C1199.2,368.3,1195.1,372.4,1190.1,372.4z"/>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1159.1829 366.5552)" class="st5 st22 st23">Go</text>
+		</g>
+	</g>
+	<g>
+		<rect x="1134.6" y="443.4" class="st28" width="392.9" height="55.5"/>
+		<text transform="matrix(1 0 0 1 1134.5627 452.5884)"><tspan x="0" y="0" class="st9 st22 st23">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque </tspan><tspan x="0" y="14.4" class="st9 st22 st23">nisl leo, tincidunt non elit a, tristique sodales ante. Lorem ipsum dolor sit </tspan><tspan x="0" y="28.8" class="st9 st22 st23">amet, consectetur adipiscing elit. Pellentesque nisl leo, tincidunt non elit </tspan><tspan x="0" y="43.2" class="st9 st22 st23">a, tristique sodales ante.  </tspan></text>
+	</g>
+	<g>
+		<rect x="1134.2" y="420.7" class="st28" width="300.6" height="17.4"/>
+		<text transform="matrix(1 0 0 1 1134.1912 431.3477)" class="st9 st15 st19">Lorem ipsum </text>
+	</g>
+	<g>
+		<rect x="896.9" y="420.7" class="st11" width="216.1" height="132.8"/>
+		<line class="st32" x1="898.8" y1="422" x2="1107" y2="551.7"/>
+		<line class="st32" x1="897.4" y1="550.8" x2="1108.4" y2="422.9"/>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st2" d="M1190.1,553.4h-46.8c-5,0-9.1-4.1-9.1-9.1v-1.8c0-5,4.1-9.1,9.1-9.1h46.8c5,0,9.1,4.1,9.1,9.1v1.8
+					C1199.2,549.3,1195.1,553.4,1190.1,553.4z"/>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1159.1829 547.5552)" class="st5 st22 st23">Go</text>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="868" y="556.5" width="642.7" height="163.1"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st33">
+			<rect x="1134.6" y="627.4" class="st28" width="392.9" height="55.5"/>
+			<text transform="matrix(1 0 0 1 1134.5626 636.5884)"><tspan x="0" y="0" class="st9 st22 st23">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque </tspan><tspan x="0" y="14.4" class="st9 st22 st23">nisl leo, tincidunt non elit a, tristique sodales ante. Lorem ipsum dolor sit </tspan><tspan x="0" y="28.8" class="st9 st22 st23">amet, consectetur adipiscing elit. Pellentesque nisl leo, tincidunt non elit </tspan><tspan x="0" y="43.2" class="st9 st22 st23">a, tristique sodales ante.  </tspan></text>
+		</g>
+		<g class="st33">
+			<rect x="896.9" y="601.7" class="st11" width="216.1" height="132.8"/>
+			<line class="st32" x1="898.8" y1="603" x2="1107" y2="732.7"/>
+			<line class="st32" x1="897.4" y1="731.8" x2="1108.4" y2="603.9"/>
+		</g>
+		<g class="st33">
+			<g>
+				<g>
+					<path class="st2" d="M1184.1,734.4h-46.8c-5,0-9.1-4.1-9.1-9.1v-1.8c0-5,4.1-9.1,9.1-9.1h46.8c5,0,9.1,4.1,9.1,9.1v1.8
+						C1193.2,730.3,1189.1,734.4,1184.1,734.4z"/>
+				</g>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 1153.1829 728.5552)" class="st5 st22 st23">Go</text>
+			</g>
+		</g>
+		<g class="st33">
+			<rect x="1134.6" y="601.7" class="st28" width="300.6" height="17.4"/>
+			<text transform="matrix(1 0 0 1 1134.5621 612.3477)" class="st9 st15 st19">Lorem ipsum </text>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path id="bck_7_" class="st2" d="M2343.8,727.5H1675c-8.6,0-15.6-7.1-15.6-15.9V143.5c0-8.8,7-15.9,15.6-15.9h668.7
+			c8.6,0,15.6,7.1,15.6,15.9v568.2C2359.4,720.4,2352.4,727.5,2343.8,727.5z"/>
+		<g>
+			<path class="st3" d="M2180.7,221.7v-35.7c0-6.2,5-11.2,11.1-11.2h148.5c6.4,0,11.6,5.2,11.6,11.7v520.3c0,6.4-5.2,12.7-11.6,12.7
+				h-661.9c-6.4,0-11.6-6.3-11.6-12.7V232c0-6.3,5-10.3,11.2-10.3H2180.7z"/>
+			<path class="st4" d="M1838.1,221.7v-35.7c0-6.2-5-11.2-11.1-11.2h-148.5c-6.4,0-11.6,5.2-11.6,11.7v521.5
+				c0,6.4,5.2,11.7,11.6,11.7h661.9c6.4,0,11.6-5.2,11.6-11.7V233c0-6.3-5-11.3-11.2-11.3H1838.1z"/>
+			<path class="st4" d="M2340.6,221.7h-331.7v-35.3c0-6.5-5.2-11.7-11.6-11.7h-147.6c-6.2,0-11.1,5-11.1,11.2v35.7h-160.5
+				c-6.2,0-11.2,5.1-11.2,11.3v79.3V699v9c0,6.4,5.2,11.7,11.6,11.7h661.9c6.4,0,11.6-5.2,11.6-11.7v-9V253.2V233
+				C2351.9,226.7,2346.9,221.7,2340.6,221.7z"/>
+			<path class="st5" d="M2351.9,233c0-6.3-5-11.4-11.3-11.4h-159.9v-35.3c0-6.5-5.2-11.7-11.6-11.7h-149.1c-6.2,0-11.1,5-11.1,11.2
+				v35.7h-330.8c-1.9,0-3.8,0.5-5.3,1.4c-3.5,1.9-5.9,5.7-5.9,10v79.3V699v9c0,6.4,5.2,11.7,11.6,11.7h661.9
+				c6.4,0,11.6-5.2,11.6-11.7v-9v-10.1v0V233z"/>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1707.4421 156.8984)" class="st5 st15 st16">Help</text>
+			<g>
+				<path class="st6" d="M1689.1,139.6c-1.4,0-2.7,0.2-4,0.7c-2.9,1.1-5.2,3.3-6.4,6.1c-1.2,2.8-1.3,5.9-0.2,8.8
+					c1.7,4.5,6,7.5,10.8,7.5c1.4,0,2.7-0.2,4-0.7c2.9-1.1,5.2-3.3,6.4-6.1c1.2-2.8,1.3-5.9,0.2-8.8
+					C1698.2,142.6,1693.8,139.6,1689.1,139.6z"/>
+				<g>
+					<path d="M1695.6,151.2c-0.1,3.5-2.9,6.5-6.5,6.5c-3.5,0-6.5-2.9-6.5-6.5c0-3.5,2.9-6.5,6.5-6.5
+						C1692.7,144.7,1695.5,147.7,1695.6,151.2c0,0.5,0.8,0.5,0.8,0c-0.1-3-1.9-5.7-4.7-6.8c-2.9-1.1-6.3-0.2-8.2,2.2
+						c-1.9,2.4-2.2,5.7-0.6,8.3c1.6,2.6,4.6,3.9,7.6,3.4c3.4-0.7,5.8-3.7,5.9-7.1C1696.4,150.7,1695.6,150.7,1695.6,151.2z"/>
+					<g>
+						<g>
+							<path d="M1689.5,152.8v-1.2l0.1-0.1c0.1-0.1,0.2-0.1,0.3-0.2c0.5-0.3,1.2-0.8,1.2-2c0-1.1-0.9-2-2-2c-1.1,0-2,0.9-2,2
+								c0,0.2,0.2,0.3,0.3,0.3c0.2,0,0.3-0.2,0.3-0.3c0-0.7,0.6-1.3,1.3-1.3s1.3,0.6,1.3,1.3c0,0.8-0.5,1.1-0.9,1.4
+								c-0.4,0.3-0.8,0.6-0.8,1v1.1c0,0.2,0.2,0.3,0.3,0.3S1689.5,153,1689.5,152.8z"/>
+							<path d="M1689.2,153.3c-0.3,0-0.5-0.2-0.5-0.5v-1.1c0-0.5,0.4-0.8,0.8-1.1c0.4-0.3,0.8-0.6,0.8-1.3c0-0.7-0.5-1.2-1.2-1.2
+								c-0.7,0-1.2,0.5-1.2,1.2c0,0.3-0.2,0.5-0.5,0.5c-0.3,0-0.5-0.2-0.5-0.5c0-1.2,1-2.1,2.1-2.1c1.2,0,2.1,1,2.1,2.1
+								c0,1.3-0.8,1.8-1.3,2.1c-0.1,0.1-0.2,0.2-0.3,0.2l-0.1,0.1v1.2C1689.6,153,1689.4,153.3,1689.2,153.3z M1689.2,147.8
+								c0.8,0,1.4,0.6,1.4,1.4c0,0.9-0.5,1.2-0.9,1.5c-0.4,0.3-0.7,0.5-0.7,0.9v1.1c0,0.1,0.1,0.2,0.2,0.2c0.1,0,0.2-0.1,0.2-0.2
+								v-1.3l0.2-0.2c0.1-0.1,0.2-0.1,0.3-0.2c0.5-0.3,1.1-0.8,1.1-1.9c0-1-0.8-1.9-1.9-1.9c-1,0-1.9,0.8-1.9,1.9
+								c0,0.1,0.1,0.2,0.2,0.2c0.1,0,0.2-0.1,0.2-0.2C1687.7,148.4,1688.4,147.8,1689.2,147.8z"/>
+						</g>
+						<circle cx="1689.2" cy="154.6" r="0.6"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<circle class="st7" cx="2334.8" cy="151.1" r="7.4"/>
+					<g>
+						<line class="st8" x1="2331.2" y1="147.5" x2="2338.6" y2="154.9"/>
+						<line class="st8" x1="2331.2" y1="154.9" x2="2338.6" y2="147.5"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<circle class="st6" cx="2309.8" cy="151.1" r="7.4"/>
+				<g>
+					<g>
+						<path class="st2" d="M2313.8,152h-8c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5h8c0.3,0,0.5,0.2,0.5,0.5S2314,152,2313.8,152z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 2212.063 202.1821)" class="st5 st17 st18">Play Quick Starter</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 2046.4462 202.1821)" class="st9 st15 st18">Documentation</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1713.0071 202.1821)" class="st5 st17 st18">Cheat Sheet</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1896.6348 202.1826)" class="st5 st17 st18">Tutorials</text>
+		</g>
+	</g>
+	<line class="st10" x1="1865.9" y1="238.1" x2="1865.9" y2="703"/>
+	<g>
+		<g>
+			<path class="st7" d="M1841.7,258h-158.2c-5.1,0-9.3-4.2-9.3-9.3v-1.4c0-5.1,4.2-9.3,9.3-9.3h158.2c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C1850.9,253.9,1846.8,258,1841.7,258z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st11" d="M2328.7,699.2V241.8c0-2,1.7-3.7,3.7-3.7h0.5c2,0,3.7,1.7,3.7,3.7v457.4c0,2-1.7,3.7-3.7,3.7h-0.5
+					C2330.4,702.9,2328.7,701.3,2328.7,699.2z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st6" d="M2329.8,349.6v-43.5c0-1.5,1.2-2.7,2.7-2.7h0.4c1.5,0,2.7,1.2,2.7,2.7v43.5c0,1.5-1.2,2.7-2.7,2.7h-0.4
+					C2331,352.2,2329.8,351,2329.8,349.6z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(0.9952 0 0 1 1680.7756 253.1195)" class="st5 st34 st19">On connect Data Bindings</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1680.7758 280.4619)" class="st9 st22 st19">On Lively Parts Bin</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1680.775 307.8037)" class="st9 st22 st19">Documentation 1</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1680.7758 335.1455)" class="st9 st22 st19">Documentation 2</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1680.775 362.4878)" class="st9 st22 st19">Documentation 3</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1680.7758 389.8296)" class="st9 st22 st19">Documentation 4</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1680.7753 417.1719)" class="st9 st22 st19">Documentation 5</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1680.775 444.5146)" class="st9 st22 st19">Documentation 6</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1680.7753 471.8574)" class="st9 st22 st19">Documentation 7</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1680.775 499.2002)" class="st9 st22 st19">Documentation 8</text>
+		</g>
+	</g>
+	<g>
+		<rect x="1883.9" y="266" class="st28" width="418" height="228.9"/>
+		<text transform="matrix(1 0 0 1 1883.8506 275.1431)"><tspan x="0" y="0" class="st9 st22 st23">The principle behind the data binding mechanism in Lively is quite simple due </tspan><tspan x="0" y="14.4" class="st9 st22 st23">to the dynamic nature of JavaScript.  Each call on connect() declaratively </tspan><tspan x="0" y="28.8" class="st9 st22 st23">defines a dataflow connection between a source and a target object.</tspan><tspan x="0" y="43.2" class="st9 st22 st23">The simplest connection can be built by connecting two attributes with each </tspan><tspan x="0" y="57.6" class="st9 st22 st23">other:</tspan><tspan x="0" y="72" class="st9 st22 st23">// create source and target objects</tspan><tspan x="0" y="86.4" class="st9 st22 st23">var source = {sourceData: null}</tspan><tspan x="0" y="100.8" class="st9 st22 st23">var target = {targetData: null}</tspan><tspan x="0" y="115.2" class="st9 st22 st23">// connect source.sourceData -&gt; target.targetData</tspan><tspan x="0" y="129.6" class="st9 st22 st23">connect(source, &apos;sourceData&apos;, target, &apos;targetData&apos;);</tspan><tspan x="0" y="144" class="st9 st22 st23">source.sourceData = 3;</tspan><tspan x="0" y="158.4" class="st9 st22 st23">target.targetData // returns 3</tspan><tspan x="0" y="187.2" class="st9 st22 st23">What happens when the connection is established is that the &quot;sourceData&quot; </tspan><tspan x="0" y="201.6" class="st9 st22 st23">slot in source is replaced with a JavaScript getter/setter (see the ECMAScript </tspan><tspan x="0" y="216" class="st9 st22 st23">Language Specification)</tspan></text>
+	</g>
+	<g>
+		<rect x="1883.9" y="241.1" class="st28" width="395.3" height="15.3"/>
+		<text transform="matrix(1 0 0 1 1883.8507 251.8105)" class="st7 st15 st19">Attribute connections</text>
+	</g>
+	<g>
+		<rect x="1883.9" y="539.7" class="st28" width="376.3" height="14.1"/>
+		<text transform="matrix(1 0 0 1 1883.8507 550.3218)" class="st7 st15 st19">Gatters</text>
+	</g>
+	<g>
+		<rect x="1883.9" y="563.8" class="st28" width="418" height="143.5"/>
+		<text transform="matrix(1 0 0 1 1883.8506 572.9126)"><tspan x="0" y="0" class="st9 st22 st23">When we inspect the source object we find out that:</tspan><tspan x="0" y="14.4" class="st9 st22 st23">source.__lookupGetter__(&apos;sourceData&apos;)</tspan><tspan x="0" y="28.8" class="st9 st22 st23">returns:</tspan><tspan x="0" y="43.2" class="st9 st22 st23">function () {</tspan><tspan x="0" y="57.6" class="st9 st22 st23">    return sourceObj[newAttrName];</tspan><tspan x="0" y="72" class="st9 st22 st23">}</tspan><tspan x="0" y="100.8" class="st9 st22 st23">When reading &quot;sourceData&quot; the getter function is triggered. It has the real </tspan><tspan x="0" y="115.2" class="st9 st22 st23">value (3) stored in a renamed slot:</tspan><tspan x="0" y="129.6" class="st9 st22 st23">source.$$sourceData // returns 3 -- this is where the real data is stored</tspan></text>
+	</g>
+	<line class="st12" x1="1884" y1="258" x2="2311" y2="258"/>
+	<line class="st12" x1="1884" y1="556" x2="2311" y2="556"/>
+</g>
+<g>
+	<g>
+		<path id="bck_8_" class="st2" d="M3131.8,727.5H2463c-8.6,0-15.6-7.1-15.6-15.9V143.5c0-8.8,7-15.9,15.6-15.9h668.7
+			c8.6,0,15.6,7.1,15.6,15.9v568.2C3147.4,720.4,3140.4,727.5,3131.8,727.5z"/>
+		<g>
+			<path class="st3" d="M2968.7,221.7v-35.7c0-6.2,5-11.2,11.1-11.2h148.5c6.4,0,11.6,5.2,11.6,11.7v520.3c0,6.4-5.2,12.7-11.6,12.7
+				h-661.9c-6.4,0-11.6-6.3-11.6-12.7V232c0-6.3,5-10.3,11.2-10.3H2968.7z"/>
+			<path class="st4" d="M2626.1,221.7v-35.7c0-6.2-5-11.2-11.1-11.2h-148.5c-6.4,0-11.6,5.2-11.6,11.7v521.5
+				c0,6.4,5.2,11.7,11.6,11.7h661.9c6.4,0,11.6-5.2,11.6-11.7V233c0-6.3-5-11.3-11.2-11.3H2626.1z"/>
+			<path class="st4" d="M3128.6,221.7h-331.7v-35.3c0-6.5-5.2-11.7-11.6-11.7h-147.6c-6.2,0-11.1,5-11.1,11.2v35.7h-160.5
+				c-6.2,0-11.2,5.1-11.2,11.3v79.3V699v9c0,6.4,5.2,11.7,11.6,11.7h661.9c6.4,0,11.6-5.2,11.6-11.7v-9V253.2V233
+				C3139.9,226.7,3134.9,221.7,3128.6,221.7z"/>
+			<path class="st5" d="M3139.9,233c0-6.3-5-11.4-11.3-11.4h-159.9v-35.3c0-6.5-5.2-11.7-11.6-11.7h-149.1c-6.2,0-11.1,5-11.1,11.2
+				v35.7h-330.8c-1.9,0-3.8,0.5-5.3,1.4c-3.5,1.9-5.9,5.7-5.9,10v79.3V699v9c0,6.4,5.2,11.7,11.6,11.7h661.9
+				c6.4,0,11.6-5.2,11.6-11.7v-9v-10.1v0V233z"/>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 2495.4421 156.8984)" class="st5 st15 st16">Help</text>
+			<g>
+				<path class="st6" d="M2477.1,139.6c-1.4,0-2.7,0.2-4,0.7c-2.9,1.1-5.2,3.3-6.4,6.1c-1.2,2.8-1.3,5.9-0.2,8.8
+					c1.7,4.5,6,7.5,10.8,7.5c1.4,0,2.7-0.2,4-0.7c2.9-1.1,5.2-3.3,6.4-6.1c1.2-2.8,1.3-5.9,0.2-8.8
+					C2486.2,142.6,2481.8,139.6,2477.1,139.6z"/>
+				<g>
+					<path d="M2483.6,151.2c-0.1,3.5-2.9,6.5-6.5,6.5c-3.5,0-6.5-2.9-6.5-6.5c0-3.5,2.9-6.5,6.5-6.5
+						C2480.7,144.7,2483.5,147.7,2483.6,151.2c0,0.5,0.8,0.5,0.8,0c-0.1-3-1.9-5.7-4.7-6.8c-2.9-1.1-6.3-0.2-8.2,2.2
+						c-1.9,2.4-2.2,5.7-0.6,8.3c1.6,2.6,4.6,3.9,7.6,3.4c3.4-0.7,5.8-3.7,5.9-7.1C2484.4,150.7,2483.6,150.7,2483.6,151.2z"/>
+					<g>
+						<g>
+							<path d="M2477.5,152.8v-1.2l0.1-0.1c0.1-0.1,0.2-0.1,0.3-0.2c0.5-0.3,1.2-0.8,1.2-2c0-1.1-0.9-2-2-2s-2,0.9-2,2
+								c0,0.2,0.2,0.3,0.3,0.3c0.2,0,0.3-0.2,0.3-0.3c0-0.7,0.6-1.3,1.3-1.3s1.3,0.6,1.3,1.3c0,0.8-0.5,1.1-0.9,1.4
+								c-0.4,0.3-0.8,0.6-0.8,1v1.1c0,0.2,0.2,0.3,0.3,0.3C2477.3,153.1,2477.5,153,2477.5,152.8z"/>
+							<path d="M2477.2,153.3c-0.3,0-0.5-0.2-0.5-0.5v-1.1c0-0.5,0.4-0.8,0.8-1.1c0.4-0.3,0.8-0.6,0.8-1.3c0-0.7-0.5-1.2-1.2-1.2
+								c-0.7,0-1.2,0.5-1.2,1.2c0,0.3-0.2,0.5-0.5,0.5c-0.3,0-0.5-0.2-0.5-0.5c0-1.2,1-2.1,2.1-2.1s2.1,1,2.1,2.1
+								c0,1.3-0.8,1.8-1.3,2.1c-0.1,0.1-0.2,0.2-0.3,0.2l-0.1,0.1v1.2C2477.6,153,2477.4,153.3,2477.2,153.3z M2477.2,147.8
+								c0.8,0,1.4,0.6,1.4,1.4c0,0.9-0.5,1.2-0.9,1.5c-0.4,0.3-0.7,0.5-0.7,0.9v1.1c0,0.1,0.1,0.2,0.2,0.2s0.2-0.1,0.2-0.2v-1.3
+								l0.2-0.2c0.1-0.1,0.2-0.1,0.3-0.2c0.5-0.3,1.1-0.8,1.1-1.9c0-1-0.8-1.9-1.9-1.9s-1.9,0.8-1.9,1.9c0,0.1,0.1,0.2,0.2,0.2
+								c0.1,0,0.2-0.1,0.2-0.2C2475.7,148.4,2476.4,147.8,2477.2,147.8z"/>
+						</g>
+						<circle cx="2477.2" cy="154.6" r="0.6"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<circle class="st7" cx="3122.8" cy="151.1" r="7.4"/>
+					<g>
+						<line class="st8" x1="3119.2" y1="147.5" x2="3126.6" y2="154.9"/>
+						<line class="st8" x1="3119.2" y1="154.9" x2="3126.6" y2="147.5"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<circle class="st6" cx="3097.8" cy="151.1" r="7.4"/>
+				<g>
+					<g>
+						<path class="st2" d="M3101.8,152h-8c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5h8c0.3,0,0.5,0.2,0.5,0.5S3102,152,3101.8,152z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 3000.063 202.1821)" class="st5 st17 st18">Play Quick Starter</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 2834.4463 202.1821)" class="st9 st15 st18">Documentation</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 2501.0071 202.1821)" class="st5 st17 st18">Cheat Sheet</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 2684.6348 202.1826)" class="st5 st17 st18">Tutorials</text>
+		</g>
+	</g>
+	<line class="st10" x1="2653.9" y1="238.1" x2="2653.9" y2="703"/>
+	<g>
+		<g>
+			<path class="st7" d="M2629.7,285.4h-158.2c-5.1,0-9.3-4.2-9.3-9.3v-1.4c0-5.1,4.2-9.3,9.3-9.3h158.2c5.1,0,9.3,4.2,9.3,9.3v1.4
+				C2638.9,281.3,2634.8,285.4,2629.7,285.4z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st11" d="M3116.7,699.2V241.8c0-2,1.7-3.7,3.7-3.7h0.5c2,0,3.7,1.7,3.7,3.7v457.4c0,2-1.7,3.7-3.7,3.7h-0.5
+					C3118.4,702.9,3116.7,701.3,3116.7,699.2z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path class="st6" d="M3117.8,349.6v-43.5c0-1.5,1.2-2.7,2.7-2.7h0.4c1.5,0,2.7,1.2,2.7,2.7v43.5c0,1.5-1.2,2.7-2.7,2.7h-0.4
+					C3119,352.2,3117.8,351,3117.8,349.6z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 2468.7756 253.1195)" class="st9 st22 st19">On connect Data Bindings</text>
+		</g>
+		<g>
+			<text transform="matrix(0.9952 0 0 1 2468.7759 280.4619)" class="st5 st34 st19">On Lively Parts Bin</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 2468.7749 307.8037)" class="st9 st22 st19">Documentation 1</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 2468.7759 335.1455)" class="st9 st22 st19">Documentation 2</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 2468.7749 362.4878)" class="st9 st22 st19">Documentation 3</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 2468.7759 389.8296)" class="st9 st22 st19">Documentation 4</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 2468.7754 417.1719)" class="st9 st22 st19">Documentation 5</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 2468.7749 444.5146)" class="st9 st22 st19">Documentation 6</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 2468.7754 471.8574)" class="st9 st22 st19">Documentation 7</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 2468.7749 499.2002)" class="st9 st22 st19">Documentation 8</text>
+		</g>
+	</g>
+	<g>
+		<rect x="2671.9" y="266" class="st28" width="418" height="436.3"/>
+		<text transform="matrix(1 0 0 1 2671.8506 275.1431)"><tspan x="0" y="0" class="st9 st22 st23">The Lively PartsBin is a repository of active components. It is a collaboration </tspan><tspan x="0" y="14.4" class="st9 st22 st23">space in which users can find, alter, create and share new content. Parts are </tspan><tspan x="0" y="28.8" class="st9 st22 st23">morphs that are either directly useful as, for example, editing tools or basic </tspan><tspan x="0" y="43.2" class="st9 st22 st23">building blocks as, for example, simple input elements.</tspan><tspan x="0" y="57.6" class="st9 st22 st23">The PartsBin is organized into categories that we call Parts spaces.</tspan><tspan x="0" y="103.2" class="st7 st15 st19">What is the PartsBin Browser?</tspan><tspan x="0" y="126.2" class="st9 st22 st23">The PartsBin Browser is a tool to explore, search, and load parts from Lively&apos;s </tspan><tspan x="0" y="140.6" class="st9 st22 st23">PartsBin. It allows searching for a part by the part&apos;s name, browsing </tspan><tspan x="0" y="155" class="st9 st22 st23">categories of grouped parts, and exploring the latest changes.</tspan><tspan x="0" y="200.6" class="st7 st15 st19">How to open the PartsBin Browser?</tspan><tspan x="0" y="223.6" class="st9 st22 st23">To open the browser, either use the world&apos;s menu&apos;s &quot;PartsBin&quot; entry or the </tspan><tspan x="0" y="238" class="st9 st22 st23">keyboard short cut &quot;cmd/ctrl - p&quot;. </tspan><tspan x="0" y="283.6" class="st7 st15 st19">How to use the PartsBin Browser?</tspan><tspan x="0" y="306.6" class="st9 st22 st23">Once the browser is open, use the list on the left side or the search on the top </tspan><tspan x="0" y="321" class="st9 st22 st23">to find a part. When you click on a category or search by name previews of </tspan><tspan x="0" y="335.4" class="st9 st22 st23">the actual parts appear in the browser&apos;s main pane. You can drag the actual </tspan><tspan x="0" y="349.8" class="st9 st22 st23">versions out – click on one, hold that click and pull it right into your world.</tspan><tspan x="0" y="364.2" class="st9 st22 st23">All parts are under version control. If you want to access the history you can </tspan><tspan x="0" y="378.6" class="st9 st22 st23">click on the &quot;more&quot; button in the top-right corner of the browser. It shows all </tspan><tspan x="0" y="393" class="st9 st22 st23">versions, associated commit messages, and a few buttons to load, copy or </tspan><tspan x="0" y="407.4" class="st9 st22 st23">remove the part. Click on a specific version and then on the &quot;load&quot; button to </tspan><tspan x="0" y="421.8" class="st9 st22 st23">get a part in a preceding version. </tspan></text>
+	</g>
+	<g>
+		<rect x="2671.9" y="241.1" class="st28" width="395.3" height="15.3"/>
+		<text transform="matrix(1 0 0 1 2671.8506 251.8105)" class="st7 st15 st19">What is the PartsBin?</text>
+	</g>
+	<line class="st12" x1="2672" y1="258" x2="3099" y2="258"/>
+	<line class="st12" x1="2672" y1="384" x2="3099" y2="384"/>
+	<line class="st12" x1="2672" y1="483" x2="3099" y2="483"/>
+	<line class="st12" x1="2672" y1="565" x2="3099" y2="565"/>
+</g>
+</svg>

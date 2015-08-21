@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <style type="text/css">
+	.st2{fill:#FFFFFF;}
+	.st4{fill:none;stroke:#FFFFFF;stroke-width:3.5;stroke-miterlimit:10;}
+ </style>
+ <g>
+<g stroke="null" id="svg_7">
+<path id="svg_8" d="m23.9,14.9c-9.5,0 -14.4,7 -14.4,8.1c0,1.1 5,8.1 14.4,8.1s14.400003,-7 14.400003,-8.1c0.099998,-1.1 -4.900002,-8.1 -14.400003,-8.1l0,0zm0,11.599998c-2,0 -3.6,-1.6 -3.6,-3.5c0,-1.9 1.6,-3.5 3.6,-3.5c2,0 3.6,1.6 3.6,3.5c0.1,1.900002 -1.6,3.5 -3.6,3.5l0,0z" class="st4"/>
+</g>
+<circle stroke="null" id="svg_10" r="1.5" cy="22.399999" cx="25" class="st2"/>
+ </g>
+</svg>
